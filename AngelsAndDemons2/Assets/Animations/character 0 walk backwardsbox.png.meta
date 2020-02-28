@@ -1,7 +1,73 @@
 fileFormatVersion: 2
 guid: 2eb89bd8982b94d4ab35f4e556cb7ac9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3816263476322916640
+    second: character 0 walk backwardsbox_0
+  - first:
+      213: -5927585095167720128
+    second: character 0 walk backwardsbox_1
+  - first:
+      213: 3778153718304726311
+    second: character 0 walk backwardsbox_2
+  - first:
+      213: 7396983293708985775
+    second: character 0 walk backwardsbox_3
+  - first:
+      213: 8341884703744146175
+    second: character 0 walk backwardsbox_4
+  - first:
+      213: -6810298252959361490
+    second: character 0 walk backwardsbox_5
+  - first:
+      213: 7298898859558695311
+    second: character 0 walk backwardsbox_6
+  - first:
+      213: -6581770731032960930
+    second: character 0 walk backwardsbox_7
+  - first:
+      213: -3088799224477339025
+    second: character 0 walk backwardsbox_8
+  - first:
+      213: 8491603979657860740
+    second: character 0 walk backwardsbox_9
+  - first:
+      213: -7529311299789521042
+    second: character 0 walk backwardsbox_10
+  - first:
+      213: -7418158455849289234
+    second: character 0 walk backwardsbox_11
+  - first:
+      213: -2340210868743401967
+    second: character 0 walk backwardsbox_12
+  - first:
+      213: -3404135049760020723
+    second: character 0 walk backwardsbox_13
+  - first:
+      213: -1779121684282270795
+    second: character 0 walk backwardsbox_14
+  - first:
+      213: 3959618915941661926
+    second: character 0 walk backwardsbox_15
+  - first:
+      213: 4021391160839169418
+    second: character 0 walk backwardsbox_16
+  - first:
+      213: -3617456662819641734
+    second: character 0 walk backwardsbox_17
+  - first:
+      213: 8016678864558448187
+    second: character 0 walk backwardsbox_18
+  - first:
+      213: -1366368097230726439
+    second: character 0 walk backwardsbox_19
+  - first:
+      213: 3044207093867216555
+    second: character 0 walk backwardsbox_20
+  - first:
+      213: -1446449116477674899
+    second: character 0 walk backwardsbox_21
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -31,7 +97,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +106,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -63,7 +129,55 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -72,7 +186,469 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e166e1b4ed3654899161be5ad23d83
+      internalID: 3816263476322916640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08b1f1c15d9784f80dfb463bee94aa
+      internalID: -5927585095167720128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d45c55d19595114184d224791de88b3
+      internalID: 3778153718304726311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f961a7b468c2cb40a1b3408de1371e5
+      internalID: 7396983293708985775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8d6d20b562394daf4c41a22e05c3b
+      internalID: 8341884703744146175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_5
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3873c51726aa438ed87ea0ba45463
+      internalID: -6810298252959361490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_6
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e132afd171361fd498ff40f4de83bc1c
+      internalID: 7298898859558695311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_7
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00671c322e332b74fac974c5a478bd16
+      internalID: -6581770731032960930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_8
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 685
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ef7c0e139b90d4ab9b867dda48093e
+      internalID: -3088799224477339025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02707a8ecf2ee854e9f0c8cdc673f2c4
+      internalID: 8491603979657860740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bb4e14738a13d4ea4453e09649e464
+      internalID: -7529311299789521042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d84826f7a782a04abf9933bbc5e8d5a
+      internalID: -7418158455849289234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_12
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bec3faec9485a24b8dfa730371246dc
+      internalID: -2340210868743401967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662882e8eb9a6846b4939613e7809d4
+      internalID: -3404135049760020723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_14
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd891a34258184b81de917a6ac1fcd
+      internalID: -1779121684282270795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_15
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf93200bdf6a7d4896dbd383c8c0017
+      internalID: 3959618915941661926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_16
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0bc9a23bc99d64fbe32de9882d7959
+      internalID: 4021391160839169418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_17
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 346
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632c79a3572e4c84bbf14cd1eadd43d0
+      internalID: -3617456662819641734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4268cdb4581ce9f4e9f3a3e8abb99ed0
+      internalID: 8016678864558448187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 7
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f399d0dac065048a3df2f0fd30069c
+      internalID: -1366368097230726439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_20
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 7
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eefee51c0e7a546a9aa749f24354c3
+      internalID: 3044207093867216555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 walk backwardsbox_21
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 7
+        width: 218
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7f48b918153f459feb9cde329582b
+      internalID: -1446449116477674899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
