@@ -634,7 +634,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 08e37ecc74fd8b245bf8b0ae6cd8a87c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b32037d73f0e0334fb8d4fcd3397bc34, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -719,6 +719,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level Loader
       objectReference: {fileID: 0}
+    - target: {fileID: 2966341579037868533, guid: b58dca42e0b5af54798556ad15b2ef6c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7585464779727105840, guid: b58dca42e0b5af54798556ad15b2ef6c,
         type: 3}
       propertyPath: transition
@@ -727,7 +732,7 @@ PrefabInstance:
     - target: {fileID: 7585464779727105840, guid: b58dca42e0b5af54798556ad15b2ef6c,
         type: 3}
       propertyPath: waitTime
-      value: 28.41
+      value: 28.738
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b58dca42e0b5af54798556ad15b2ef6c, type: 3}

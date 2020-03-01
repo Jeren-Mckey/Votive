@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/*
+ * not in use. just for reference for logic in LevelLoader
+ */
 public class SceneTransitions: MonoBehaviour
 {
     [SerializeField] int timeToWait = 4;
