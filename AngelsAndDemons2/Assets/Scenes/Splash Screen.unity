@@ -253,7 +253,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.8980393, g: 0.5882353, b: 0.34509805, a: 1}
+  m_Color: {r: 0.8962264, g: 0.4439334, b: 0.43543077, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -634,7 +634,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b32037d73f0e0334fb8d4fcd3397bc34, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e93ef4358ba02e541bbcdbc74255efd8, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -732,7 +732,7 @@ PrefabInstance:
     - target: {fileID: 7585464779727105840, guid: b58dca42e0b5af54798556ad15b2ef6c,
         type: 3}
       propertyPath: waitTime
-      value: 28.738
+      value: 28.65
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b58dca42e0b5af54798556ad15b2ef6c, type: 3}
