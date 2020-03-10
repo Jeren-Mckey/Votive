@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
-
+    public Animator movementAnimator;
     public float playerMovement;
     private bool gravFlipped;
     private float distToGround;
@@ -15,6 +15,7 @@ public class PlayerController : MonoBehaviour
     public GameObject spawnPoint;
     private float objectHeight;
     private Vector2 screenBounds;
+    float horizontalMove = 0f;
 
 
 
@@ -32,8 +33,17 @@ public class PlayerController : MonoBehaviour
             Screen.height, Camera.main.transform.position.z));
     }
 
+    private void Update()
+    {
+        horizontalMove = Input.GetAxisRaw("Horizontal") * playerMovement;
+
+        movementAnimator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+    }
+
+
     void FixedUpdate()
     {
+        
         //Player Camera Interaction
         if (isGrounded())
         {
@@ -62,19 +72,20 @@ public class PlayerController : MonoBehaviour
         {
             transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
         }
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.DownArrow))
         {
             transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
         }
 
+
         //Player Jumps
-        if (Input.GetKeyDown(KeyCode.UpArrow) && !gravFlipped && playerJumps > 0)
+        if (Input.GetKeyDown(KeyCode.Space) && !gravFlipped && playerJumps > 0)
         {
             gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 4), ForceMode2D.Impulse);
             playerJumps--;
         }
-        else if (Input.GetKeyDown(KeyCode.UpArrow) && gravFlipped && playerJumps > 0)
+        else if (Input.GetKeyDown(KeyCode.Space) && gravFlipped && playerJumps > 0)
         {
             gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, -4), ForceMode2D.Impulse);
