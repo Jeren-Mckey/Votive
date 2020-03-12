@@ -8,14 +8,14 @@ public class PlayerController : MonoBehaviour
     //player movement animations
     public Animator movementAnimator;
 
-
     public float playerMovement; //takes speed of movement
+    public GameObject playerObject;
+    //public GameObject spawnPoint; //everything related to spawnPoint variable commented out for now
+
     private bool gravFlipped;
     private float distToGround;
     private int playerJumps;
     private int gravSwitches;
-    public GameObject playerObject;
-    public GameObject spawnPoint;
     private float objectHeight;
     private Vector2 screenBounds;
 
@@ -28,7 +28,7 @@ public class PlayerController : MonoBehaviour
         movementAnimator = GetComponent<Animator>();
 
 
-        spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
+        //spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
         gravFlipped = false;
         playerJumps = 1;
         gravSwitches = 2;
@@ -39,10 +39,11 @@ public class PlayerController : MonoBehaviour
             Screen.height, Camera.main.transform.position.z));
     }
 
-    private void Update() // when player is moving, play animation. 
+    // when player is moving, play animation. 
+    private void Update() 
     {
         float horizontalMove = Input.GetAxisRaw("Horizontal");
-
+        movementAnimator.SetBool("isJumping", false);
 
         if (horizontalMove == 0)
         {
@@ -56,6 +57,20 @@ public class PlayerController : MonoBehaviour
         else
         {
             movementAnimator.SetBool("isRunning", true);
+        }
+
+        if (Input.GetButtonDown("Jump"))
+        {
+            movementAnimator.SetTrigger("isJumping");
+
+        }
+        else if (Input.GetButtonDown("Fire1"))
+        {
+            movementAnimator.SetTrigger("isKicking");
+        }
+        else if (Input.GetButtonDown("Fire2"))
+        {
+            movementAnimator.SetTrigger("isPunching");
         }
 
         movementAnimator.SetFloat("speed", horizontalMove);
@@ -94,7 +109,7 @@ public class PlayerController : MonoBehaviour
         {
             transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
         }
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.DownArrow))
         {
             transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
         }
@@ -151,13 +166,13 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    void spawnPlayer()
+    void spawnPlayer() //spawnpoint related stuff commented out
     {
-        spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
+        //spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
         if (playerObject != null)
         {
-            GameObject go = Instantiate(playerObject, spawnPoint.transform.position, Quaternion.identity);
-            go.name = gameObject.name;
+           //GameObject go = Instantiate(playerObject, spawnPoint.transform.position, Quaternion.identity);
+           //go.name = gameObject.name;
         }     
     }
 
