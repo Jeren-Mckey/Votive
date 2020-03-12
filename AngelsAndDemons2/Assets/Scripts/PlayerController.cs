@@ -5,8 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    //player movement animations
     public Animator movementAnimator;
-    public float playerMovement;
+
+
+    public float playerMovement; //takes speed of movement
     private bool gravFlipped;
     private float distToGround;
     private int playerJumps;
@@ -15,13 +18,16 @@ public class PlayerController : MonoBehaviour
     public GameObject spawnPoint;
     private float objectHeight;
     private Vector2 screenBounds;
-    float horizontalMove = 0f;
 
 
 
     // Start is called before the first frame update
     void Start()
     {
+        //player movemen animations
+        movementAnimator = GetComponent<Animator>();
+
+
         spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
         gravFlipped = false;
         playerJumps = 1;
@@ -33,11 +39,27 @@ public class PlayerController : MonoBehaviour
             Screen.height, Camera.main.transform.position.z));
     }
 
-    private void Update()
+    private void Update() // when player is moving, play animation. 
     {
-        horizontalMove = Input.GetAxisRaw("Horizontal") * playerMovement;
+        float horizontalMove = Input.GetAxisRaw("Horizontal");
 
-        movementAnimator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+
+        if (horizontalMove == 0)
+        {
+            movementAnimator.SetBool("isRunning", false);
+            movementAnimator.SetBool("isBacking", false);
+        }
+        else if (horizontalMove == -1)
+        {
+            movementAnimator.SetBool("isBacking", true);
+        }
+        else
+        {
+            movementAnimator.SetBool("isRunning", true);
+        }
+
+        movementAnimator.SetFloat("speed", horizontalMove);
+        
     }
 
 
@@ -72,7 +94,7 @@ public class PlayerController : MonoBehaviour
         {
             transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
         }
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.LeftArrow))
         {
             transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
         }
