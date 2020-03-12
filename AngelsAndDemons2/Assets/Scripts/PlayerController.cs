@@ -20,6 +20,9 @@ public class PlayerController : MonoBehaviour
     private Vector2 screenBounds;
 
 
+    private bool pauseMovement = false; //flag to stop player movement
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -43,7 +46,6 @@ public class PlayerController : MonoBehaviour
     private void Update() 
     {
         float horizontalMove = Input.GetAxisRaw("Horizontal");
-        movementAnimator.SetBool("isJumping", false);
 
         if (horizontalMove == 0)
         {
@@ -62,7 +64,6 @@ public class PlayerController : MonoBehaviour
         if (Input.GetButtonDown("Jump"))
         {
             movementAnimator.SetTrigger("isJumping");
-
         }
         else if (Input.GetButtonDown("Fire1"))
         {
@@ -77,6 +78,14 @@ public class PlayerController : MonoBehaviour
         
     }
 
+    /*
+    IEnumerator PauseMovement(float sec)
+    {
+        pauseMovement = true;
+        yield return new WaitForSeconds(sec);
+        pauseMovement = false;
+    }
+    */
 
     void FixedUpdate()
     {
@@ -105,11 +114,11 @@ public class PlayerController : MonoBehaviour
         }
 
         //Player Movement
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.RightArrow) && !pauseMovement)
         {
             transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
         }
-        if (Input.GetKey(KeyCode.DownArrow))
+        if (Input.GetKey(KeyCode.DownArrow) && !pauseMovement)
         {
             transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
         }
