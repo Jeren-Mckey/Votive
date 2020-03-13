@@ -238,7 +238,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementAnimator: {fileID: 521783442}
-  playerMovement: 5
+  playerMovement: 4
   playerObject: {fileID: 521783441}
 --- !u!58 &521783446
 CircleCollider2D:
