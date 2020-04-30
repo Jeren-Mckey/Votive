@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
     private Vector2 screenBounds;
     private int health;
     private bool hittable = true;
+    private bool inAnimation = false;
 
     private bool pauseMovement = false; //flag to stop player movement
 
@@ -82,12 +83,16 @@ public class PlayerController : MonoBehaviour
             {
                 movementAnimator.SetTrigger("isJumping");
             }
-            else if (Input.GetButtonDown("P1Fire1"))
+            else if (Input.GetButtonDown("P1Fire1") && !inAnimation)
             {
+                inAnimation = true;
+                StartCoroutine(waitAnimation(1));
                 movementAnimator.SetTrigger("isKicking");
             }
-            else if (Input.GetButtonDown("P1Fire2"))
+            else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
             {
+                inAnimation = true;
+                StartCoroutine(waitAnimation(1));
                 movementAnimator.SetTrigger("isPunching");
             }
         }
@@ -112,12 +117,16 @@ public class PlayerController : MonoBehaviour
             {
                 movementAnimator.SetTrigger("isJumping");
             }
-            else if (Input.GetButtonDown("P2Fire1"))
+            else if (Input.GetButtonDown("P2Fire1") && !inAnimation)
             {
+                inAnimation = true;
+                StartCoroutine(waitAnimation(1));
                 movementAnimator.SetTrigger("isKicking");
             }
-            else if (Input.GetButtonDown("P2Fire2"))
+            else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
             {
+                inAnimation = true;
+                StartCoroutine(waitAnimation(1));
                 movementAnimator.SetTrigger("isPunching");
             }
         }
@@ -305,5 +314,11 @@ public class PlayerController : MonoBehaviour
         }
 
         hittable = true;
+    }
+
+    IEnumerator waitAnimation(long time)
+    {
+        yield return new WaitForSeconds(time);
+        inAnimation = false;
     }
 }
