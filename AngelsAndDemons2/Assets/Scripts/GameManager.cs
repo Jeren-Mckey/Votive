@@ -8,6 +8,7 @@ public class GameManager : MonoBehaviour
     public delegate void OnPlayerHitDelegate();
     public static event OnPlayerHitDelegate playerHitDelegate;
     public static int CurrentLevel = 1;
+    public static bool player1won;
 
     public static void OnPlayerHit()
     {
@@ -24,4 +25,9 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene("Level" + GameManager.CurrentLevel.ToString());
     }
 
+    public static void loadWinner(bool winner)
+    {
+        player1won = winner;
+        SceneManager.LoadScene("Win Screen");
+    }
 }
