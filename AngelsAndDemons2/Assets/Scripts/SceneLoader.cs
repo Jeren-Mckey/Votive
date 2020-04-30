@@ -26,6 +26,11 @@ public class SceneLoader : MonoBehaviour
         
     }
 
+    public void ExitGame()
+    {
+        Application.Quit();
+    }
+
     IEnumerator LoadLevel(int levelIndex)
     {
         transition.SetTrigger("start");
