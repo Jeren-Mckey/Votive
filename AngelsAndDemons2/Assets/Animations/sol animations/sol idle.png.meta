@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 8687d923c1a7731429ac153bf2244421
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2768577423120534158
+    second: sol idle_0
+  - first:
+      213: 3618196484055530157
+    second: sol idle_1
+  - first:
+      213: 8939626512000588903
+    second: sol idle_2
+  - first:
+      213: -4059541474156667151
+    second: sol idle_3
+  - first:
+      213: -4857259201484769794
+    second: sol idle_4
+  - first:
+      213: 186052238388366102
+    second: sol idle_5
+  - first:
+      213: 133822932792541307
+    second: sol idle_6
+  - first:
+      213: -2342470297764118786
+    second: sol idle_7
+  - first:
+      213: 2647437301225271557
+    second: sol idle_8
+  - first:
+      213: -3234485815730836999
+    second: sol idle_9
+  - first:
+      213: 2320401662573433350
+    second: sol idle_10
+  - first:
+      213: 3745355698180837281
+    second: sol idle_11
+  - first:
+      213: -3873914924467112419
+    second: sol idle_12
+  - first:
+      213: -5011821737753743082
+    second: sol idle_13
+  - first:
+      213: -395878610386013872
+    second: sol idle_14
+  - first:
+      213: -4919207145031191206
+    second: sol idle_15
+  - first:
+      213: 8448389439734549054
+    second: sol idle_16
+  - first:
+      213: 3994023901224194673
+    second: sol idle_17
+  - first:
+      213: 7179908638314255605
+    second: sol idle_18
+  - first:
+      213: -507945548913669290
+    second: sol idle_19
+  - first:
+      213: 6732395099912470527
+    second: sol idle_20
+  - first:
+      213: -6990887865614580121
+    second: sol idle_21
+  - first:
+      213: 2548259774109486238
+    second: sol idle_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sol idle_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1278
+        width: 306
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de6aa3be0bdfa4459bf38501a07b12f
+      internalID: 2768577423120534158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1278
+        width: 298
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2060c36c2b205b408fb73db1114504d
+      internalID: 3618196484055530157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1278
+        width: 292
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9c2a5ed6d8aa41b4d53fe566a162b
+      internalID: 8939626512000588903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_3
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1278
+        width: 284
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12152ef1ca7bc6e4796ae923c8327b78
+      internalID: -4059541474156667151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_4
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 1278
+        width: 284
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54b6be08a3ec034c81a916f411cb547
+      internalID: -4857259201484769794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_5
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1278
+        width: 290
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d1a87f73de5c34c8b6bf9375672b2a
+      internalID: 186052238388366102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_6
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 1278
+        width: 306
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354c504d11220e34e82bfba4197d85f8
+      internalID: 133822932792541307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_7
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1278
+        width: 298
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7160eebbeb2137345a421f235d6e76b3
+      internalID: -2342470297764118786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_8
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1966
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddbfeaccc4925646a6f8b94382a6ded
+      internalID: 2647437301225271557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_9
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1278
+        width: 296
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11255f8235ebad44c9ec05c570ccee69
+      internalID: -3234485815730836999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_10
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 1970
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e6a394c6a309349aedb1fba201f6c2
+      internalID: 2320401662573433350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_11
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 1278
+        width: 294
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694fb63ed3a7e94cb1e0e1eae68ef8c
+      internalID: 3745355698180837281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_12
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 1278
+        width: 306
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fded3ea5e1fd3046a30abcf0babdb60
+      internalID: -3873914924467112419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_13
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1278
+        width: 306
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda2a08d497f54429e40b2729030088
+      internalID: -5011821737753743082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 508
+        width: 298
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f11b23508d7743ad4e282792758f0
+      internalID: -395878610386013872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_15
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1216
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09edabb79b75c40458f7c42a0194b5ca
+      internalID: -4919207145031191206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 508
+        width: 298
+        height: 768
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb6f1496767ac4184ee6e250146f9f
+      internalID: 8448389439734549054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_17
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1216
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c5a5268d017054b9c03d49ea25bcf5
+      internalID: 3994023901224194673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 508
+        width: 306
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c719fa4d84488d44484a6b8d2ea3aa89
+      internalID: 7179908638314255605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_19
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 508
+        width: 306
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb20921a1875f146824a76d37232102
+      internalID: -507945548913669290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_20
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1100
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8b40d022b0fc94cb96a58dac2ad778
+      internalID: 6732395099912470527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_21
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1100
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ed682af3ab93748a0d6df2a384e89d
+      internalID: -6990887865614580121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol idle_22
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1108
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fbf09d7b1aef342b60d74704d57b66
+      internalID: 2548259774109486238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

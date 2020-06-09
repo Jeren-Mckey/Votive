@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: d8bec563ef8a9ad4a88784e14dadc283
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3396528358834356135
+    second: Sol kick 2 small_0
+  - first:
+      213: 4659803648149911706
+    second: Sol kick 2 small_1
+  - first:
+      213: -5950063399446418943
+    second: Sol kick 2 small_2
+  - first:
+      213: -3242869220812210698
+    second: Sol kick 2 small_3
+  - first:
+      213: 5937887006764876541
+    second: Sol kick 2 small_4
+  - first:
+      213: 8350504016680981608
+    second: Sol kick 2 small_5
+  - first:
+      213: 1711148933885895202
+    second: Sol kick 2 small_6
+  - first:
+      213: -2523830653273048991
+    second: Sol kick 2 small_7
+  - first:
+      213: 3600256083312573410
+    second: Sol kick 2 small_8
+  - first:
+      213: -6124768678459980146
+    second: Sol kick 2 small_9
+  - first:
+      213: 7033524706483127955
+    second: Sol kick 2 small_10
+  - first:
+      213: -2650949196351977732
+    second: Sol kick 2 small_11
+  - first:
+      213: -5121550735694547405
+    second: Sol kick 2 small_12
+  - first:
+      213: 4983182281075237742
+    second: Sol kick 2 small_13
+  - first:
+      213: 1378585673179759910
+    second: Sol kick 2 small_14
+  - first:
+      213: 4393824391299843533
+    second: Sol kick 2 small_15
+  - first:
+      213: 1313746688001666049
+    second: Sol kick 2 small_16
+  - first:
+      213: -3274520669276993016
+    second: Sol kick 2 small_17
+  - first:
+      213: 4699876878338458407
+    second: Sol kick 2 small_18
+  - first:
+      213: 2636230648534227058
+    second: Sol kick 2 small_19
+  - first:
+      213: -7358452030171968334
+    second: Sol kick 2 small_20
+  - first:
+      213: -7103466513528016047
+    second: Sol kick 2 small_21
+  - first:
+      213: 5258337138979180229
+    second: Sol kick 2 small_22
+  - first:
+      213: -6541736480640361131
+    second: Sol kick 2 small_23
+  - first:
+      213: -2513781592352162429
+    second: Sol kick 2 small_24
+  - first:
+      213: 3319868823750990932
+    second: Sol kick 2 small_25
+  - first:
+      213: 7001233837462298971
+    second: Sol kick 2 small_26
+  - first:
+      213: 7024999100793383087
+    second: Sol kick 2 small_27
+  - first:
+      213: 2913497089343346545
+    second: Sol kick 2 small_28
+  - first:
+      213: 5954101885010515990
+    second: Sol kick 2 small_29
+  - first:
+      213: -6535841202728660391
+    second: Sol kick 2 small_30
+  - first:
+      213: -1543936205334671540
+    second: Sol kick 2 small_31
+  - first:
+      213: 5873675498643262168
+    second: Sol kick 2 small_32
+  - first:
+      213: -134976530374991979
+    second: Sol kick 2 small_33
+  - first:
+      213: 1664928651015269624
+    second: Sol kick 2 small_34
+  - first:
+      213: -8760037928897216423
+    second: Sol kick 2 small_35
+  - first:
+      213: -2747505136948275226
+    second: Sol kick 2 small_36
+  - first:
+      213: 2700811699673006076
+    second: Sol kick 2 small_37
+  - first:
+      213: 8495752619579721229
+    second: Sol kick 2 small_38
+  - first:
+      213: -2922921583959131484
+    second: Sol kick 2 small_39
+  - first:
+      213: -7298160248321252949
+    second: Sol kick 2 small_40
+  - first:
+      213: -5280830793278431852
+    second: Sol kick 2 small_41
+  - first:
+      213: 540841936847261447
+    second: Sol kick 2 small_42
+  - first:
+      213: -1447974986930328869
+    second: Sol kick 2 small_43
+  - first:
+      213: -753679697621487739
+    second: Sol kick 2 small_44
+  - first:
+      213: -4756884770261622224
+    second: Sol kick 2 small_45
+  - first:
+      213: 6103095016573779060
+    second: Sol kick 2 small_46
+  - first:
+      213: -7827971593115752705
+    second: Sol kick 2 small_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sol kick 2 small_0
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1690
+        width: 122
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f395e28ac6d304a91354f556dd4800
+      internalID: -3396528358834356135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_1
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1690
+        width: 120
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2348e9d251ad424fa12931e323330c6
+      internalID: 4659803648149911706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_2
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 1686
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb5fa06eb5fb44d8c55193187b70b0
+      internalID: -5950063399446418943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_3
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1686
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0f8d1a3ac3eb74f90ae67a399b9705
+      internalID: -3242869220812210698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_4
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1686
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b7f30a5f53b64b814998026138683
+      internalID: 5937887006764876541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_5
+      rect:
+        serializedVersion: 2
+        x: 2542
+        y: 1686
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dff9e3dbd661548b63c7eda31fa15a
+      internalID: 8350504016680981608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_6
+      rect:
+        serializedVersion: 2
+        x: 2892
+        y: 1688
+        width: 220
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8c8a9b45addab4f803c1f5f351826f
+      internalID: 1711148933885895202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_7
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 1688
+        width: 218
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed101e915df71a94f9e34d5ac00583e5
+      internalID: -2523830653273048991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_8
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1067
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa26e156a0fb02548b15e3ba39ceebd0
+      internalID: 3600256083312573410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_10
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1068
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f082acb8d4b44e9aafb6a32e3cfa1
+      internalID: 7033524706483127955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_12
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 1062
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadf1ec7239e34144be0e616e03d5eb0
+      internalID: -5121550735694547405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_14
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1062
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55d33ce1bfa4a4fb8b6d8888c6f9cd
+      internalID: 1378585673179759910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_16
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 1071
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afae6c01d32e8e4381f1b5f06a83402
+      internalID: 1313746688001666049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_18
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 1073
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6498ea2947f043bdb61495fbf8eb6
+      internalID: 4699876878338458407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_20
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1069
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50236b50bc703e40a624cc851b68961
+      internalID: -7358452030171968334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_22
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1068
+        width: 373
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa7c333af78beb4c8c0b21ee13cc232
+      internalID: 5258337138979180229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_24
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1514
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ace55c1bfba14498b949c570e9f04a
+      internalID: -2513781592352162429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_25
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1514
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a60b536909e1a34ebe881ea86408633
+      internalID: 3319868823750990932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_36
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 558
+        width: 373
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c82e66ec0fc942a37d971af841931
+      internalID: -2747505136948275226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_37
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 562
+        width: 373
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950648008ac8be949bf5501b6bb3a42a
+      internalID: 2700811699673006076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_38
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 560
+        width: 343
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924893bc4a664ea41a9664caee250d79
+      internalID: 8495752619579721229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_39
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 563
+        width: 217
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768139588834aa4b9ba641e2c98c14f
+      internalID: -2922921583959131484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_40
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 570
+        width: 164
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ea58331630e9e409c692b3a95ae2da
+      internalID: -7298160248321252949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_41
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 570
+        width: 162
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246d2ec71ae8d3e4fa81209c7f61d578
+      internalID: -5280830793278431852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_42
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 570
+        width: 160
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae6393f156363e4c97502f672d05427
+      internalID: 540841936847261447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_43
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 570
+        width: 162
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40153c585cc8d2429a4575076936623
+      internalID: -1447974986930328869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_44
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 12
+        width: 142
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c93c7455cca614ab664424986eb91f
+      internalID: -753679697621487739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_45
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 12
+        width: 142
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2294904f01ea94d9e3a871dc975505
+      internalID: -4756884770261622224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_46
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 14
+        width: 120
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804fb190b748b874cb28ce0355f2c47c
+      internalID: 6103095016573779060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol kick 2 small_47
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 14
+        width: 122
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d432fde25e56d4bad504f59e79b515
+      internalID: -7827971593115752705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: b75aeff8a24e9f74683c3f7abf3256f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9144219162387904020
+    second: Sol fall small_0
+  - first:
+      213: 6905580158976144278
+    second: Sol fall small_1
+  - first:
+      213: 1006002943343909336
+    second: Sol fall small_2
+  - first:
+      213: 7674524649315430000
+    second: Sol fall small_3
+  - first:
+      213: 288485382673679394
+    second: Sol fall small_4
+  - first:
+      213: 7299635783620135354
+    second: Sol fall small_5
+  - first:
+      213: 7321622280424950422
+    second: Sol fall small_6
+  - first:
+      213: -3847185698633578321
+    second: Sol fall small_7
+  - first:
+      213: 6105053832794854273
+    second: Sol fall small_8
+  - first:
+      213: 3661368270104065696
+    second: Sol fall small_9
+  - first:
+      213: 8050734240973194523
+    second: Sol fall small_10
+  - first:
+      213: 261358568653126029
+    second: Sol fall small_11
+  - first:
+      213: 4591362268075637462
+    second: Sol fall small_12
+  - first:
+      213: -2177108605615144752
+    second: Sol fall small_13
+  - first:
+      213: 7692069099855169639
+    second: Sol fall small_14
+  - first:
+      213: 102706883428670994
+    second: Sol fall small_15
+  - first:
+      213: -4881996672125560552
+    second: Sol fall small_16
+  - first:
+      213: -7498504809557589182
+    second: Sol fall small_17
+  - first:
+      213: -209905169480464567
+    second: Sol fall small_18
+  - first:
+      213: -8601829193704394305
+    second: Sol fall small_19
+  - first:
+      213: 3283677836960019686
+    second: Sol fall small_20
+  - first:
+      213: -1798189263118896492
+    second: Sol fall small_21
+  - first:
+      213: 4846392086827592944
+    second: Sol fall small_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sol fall small_0
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1594
+        width: 120
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d6e0cf131d1444a86b591bcdf91b5a
+      internalID: -9144219162387904020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_1
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1596
+        width: 134
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6cc75f4896acb4db78aa8f1542b71b
+      internalID: 6905580158976144278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_2
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1599
+        width: 214
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f97e3911a57904d8c1ee6dbada95fa
+      internalID: 1006002943343909336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_3
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1597
+        width: 276
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef492678f455c2843b52f56821741095
+      internalID: 7674524649315430000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_4
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1596
+        width: 316
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2a21aa9872794ba6d3ddc9611d85f
+      internalID: 288485382673679394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1240
+        width: 278
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda0ff02ee490464cbfc53242f5b1eee
+      internalID: 7299635783620135354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1238
+        width: 258
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca095a0fe0371449a6a415d010c2fa4
+      internalID: 7321622280424950422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_7
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1228
+        width: 260
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd581dafc692ff440ac52d8481143268
+      internalID: -3847185698633578321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_8
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1226
+        width: 258
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fddb34d79478042a4cba33da3d640d
+      internalID: 6105053832794854273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_9
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 1234
+        width: 282
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fdea18a30198d4fb9d39d4f3c69ad8
+      internalID: 3661368270104065696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 860
+        width: 320
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8fc3606ab65b41b6fbec7e7455756
+      internalID: 8050734240973194523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 858
+        width: 318
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4400583ee6fd68c4eaacce741c0953f2
+      internalID: 261358568653126029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_12
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 858
+        width: 318
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687063f69cfc2c64aa27ef04a0f29cbb
+      internalID: 4591362268075637462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_13
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 858
+        width: 320
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a2d73b71b3a24ba6e75dc5357418c
+      internalID: -2177108605615144752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_14
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 858
+        width: 320
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91b6bb27aa53f24a85257e6fccbb54b
+      internalID: 7692069099855169639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_15
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 499
+        width: 260
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b14b31ba4e54444874aaed85d7fdf6
+      internalID: 102706883428670994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_16
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 499
+        width: 228
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87f6b1149e755245b932115d677288f
+      internalID: -4881996672125560552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_17
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 499
+        width: 210
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7770bbe4cba80c44b8c4ecedfb98088a
+      internalID: -7498504809557589182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_18
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 501
+        width: 174
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ce8b6817ef81045af95392be49f45a
+      internalID: -209905169480464567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_19
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 500
+        width: 318
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ee27d1e9acf3f40942755a1014b155
+      internalID: -8601829193704394305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_20
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 162
+        width: 116
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91b445a89f10d64c84ce93fee6bb15d
+      internalID: 3283677836960019686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_21
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 164
+        width: 120
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe620581f88ff847af57e548a7f0861
+      internalID: -1798189263118896492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol fall small_22
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 160
+        width: 120
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218fa0a4fe874c4cb4de7dfe7c2222e
+      internalID: 4846392086827592944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

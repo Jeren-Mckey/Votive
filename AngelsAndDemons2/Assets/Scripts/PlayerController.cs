@@ -1,7 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Security.Permissions;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Animations;
+using System.Runtime.Versioning;
 
 public class PlayerController : MonoBehaviour
 {
@@ -21,6 +24,7 @@ public class PlayerController : MonoBehaviour
     private float objectHeight;
     private Vector2 screenBounds;
     private int health;
+    public RuntimeAnimatorController[] characters;
     private bool hittable = true;
     private bool inAnimation = false;
 
@@ -44,10 +48,20 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+
         //player movemen animations
         movementAnimator = GetComponent<Animator>();
-
+        if (isPlayerOne)
+            movementAnimator.runtimeAnimatorController = characters[GameManager.player1Char];
+        else
+        {
+            if(GameManager.player1Char == 0)
+                movementAnimator.runtimeAnimatorController = characters[1];
+            else
+                movementAnimator.runtimeAnimatorController = characters[0];
+        }
         //spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
+
         gravFlipped = false;
         playerJumps = 1;
         gravSwitches = 2;
@@ -62,78 +76,86 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         float horizontalMove;
-        if (isPlayerOne && hittable)
+        if (!GameManager.isPaused)
         {
-            horizontalMove = Input.GetAxisRaw("P1Horizontal");
-            if (horizontalMove == 0)
+            if (isPlayerOne && hittable)
             {
-                movementAnimator.SetBool("isRunning", false);
-                movementAnimator.SetBool("isBacking", false);
+                movementAnimator.SetFloat("pause", 1.0f);
+                horizontalMove = Input.GetAxisRaw("P1Horizontal");
+                if (horizontalMove == 0)
+                {
+                    movementAnimator.SetBool("isRunning", false);
+                    movementAnimator.SetBool("isBacking", false);
+                }
+                else if (horizontalMove == -1)
+                {
+                    movementAnimator.SetBool("isBacking", true);
+                }
+                else
+                {
+                    movementAnimator.SetBool("isRunning", true);
+                }
+
+                if (Input.GetButtonDown("P1Jump"))
+                {
+                    movementAnimator.SetTrigger("isJumping");
+                }
+                else if (Input.GetButtonDown("P1Fire1") && !inAnimation)
+                {
+                    inAnimation = true;
+                    StartCoroutine(waitAnimation(1));
+                    movementAnimator.SetTrigger("isKicking");
+                }
+                else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
+                {
+                    inAnimation = true;
+                    StartCoroutine(waitAnimation(1));
+                    movementAnimator.SetTrigger("isPunching");
+                }
             }
-            else if (horizontalMove == -1)
+            else if (hittable)
             {
-                movementAnimator.SetBool("isBacking", true);
+                movementAnimator.SetFloat("pause", 1.0f);
+                horizontalMove = Input.GetAxisRaw("P2Horizontal");
+                if (horizontalMove == 0)
+                {
+                    movementAnimator.SetBool("isRunning", false);
+                    movementAnimator.SetBool("isBacking", false);
+                }
+                else if (horizontalMove == -1)
+                {
+                    movementAnimator.SetBool("isRunning", true); //-a
+                }
+                else
+                {
+                    movementAnimator.SetBool("isBacking", true); //-a
+                }
+
+                if (Input.GetButtonDown("P2Jump"))
+                {
+                    movementAnimator.SetTrigger("isJumping");
+                }
+                else if (Input.GetButtonDown("P2Fire1") && !inAnimation)
+                {
+                    inAnimation = true;
+                    StartCoroutine(waitAnimation(1));
+                    movementAnimator.SetTrigger("isKicking");
+                }
+                else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
+                {
+                    inAnimation = true;
+                    StartCoroutine(waitAnimation(1));
+                    movementAnimator.SetTrigger("isPunching");
+                }
             }
             else
-            {
-                movementAnimator.SetBool("isRunning", true);
-            }
+                horizontalMove = 0f;
 
-            if (Input.GetButtonDown("P1Jump"))
-            {
-                movementAnimator.SetTrigger("isJumping");
-            }
-            else if (Input.GetButtonDown("P1Fire1") && !inAnimation)
-            {
-                inAnimation = true;
-                StartCoroutine(waitAnimation(1));
-                movementAnimator.SetTrigger("isKicking");
-            }
-            else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
-            {
-                inAnimation = true;
-                StartCoroutine(waitAnimation(1));
-                movementAnimator.SetTrigger("isPunching");
-            }
-        }
-        else if (hittable)
-        {
-            horizontalMove = Input.GetAxisRaw("P2Horizontal");
-            if (horizontalMove == 0)
-            {
-                movementAnimator.SetBool("isRunning", false);
-                movementAnimator.SetBool("isBacking", false);
-            }
-            else if (horizontalMove == -1)
-            {
-                movementAnimator.SetBool("isRunning", true); //-a
-            }
-            else
-            {
-                movementAnimator.SetBool("isBacking", true); //-a
-            }
-
-            if (Input.GetButtonDown("P2Jump"))
-            {
-                movementAnimator.SetTrigger("isJumping");
-            }
-            else if (Input.GetButtonDown("P2Fire1") && !inAnimation)
-            {
-                inAnimation = true;
-                StartCoroutine(waitAnimation(1));
-                movementAnimator.SetTrigger("isKicking");
-            }
-            else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
-            {
-                inAnimation = true;
-                StartCoroutine(waitAnimation(1));
-                movementAnimator.SetTrigger("isPunching");
-            }
+            movementAnimator.SetFloat("speed", horizontalMove);
         }
         else
-            horizontalMove = 0f;
+            movementAnimator.SetFloat("pause", 0.0f);
 
-        movementAnimator.SetFloat("speed", horizontalMove);
     }
 
     /*
@@ -172,7 +194,7 @@ public class PlayerController : MonoBehaviour
         }
 
         //Player Movement
-        if (isPlayerOne && hittable)
+        if (isPlayerOne && hittable && !GameManager.isPaused)
         {
             if (Input.GetKey(KeyCode.D) && !pauseMovement)
             {
@@ -183,12 +205,12 @@ public class PlayerController : MonoBehaviour
                 transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
             }
         }
-        else if(hittable) {
-            if (Input.GetKey(KeyCode.Quote) && !pauseMovement)
+        else if(hittable && !GameManager.isPaused) {
+            if (Input.GetKey(KeyCode.RightArrow) && !pauseMovement)
             {
                 transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
             }
-            if (Input.GetKey(KeyCode.L) && !pauseMovement)
+            if (Input.GetKey(KeyCode.LeftArrow) && !pauseMovement)
             {
                 transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
             }
@@ -252,7 +274,8 @@ public class PlayerController : MonoBehaviour
     private void OnCollisionStay2D(Collision2D collision)
     {
         PlayerController other = collision.gameObject.GetComponent("PlayerController") as PlayerController;
-        if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("punch") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("kick"))
+        if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("punch") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("kick")
+            || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solKick") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solPunch"))
             && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable)
         {
             other.hittable = false;

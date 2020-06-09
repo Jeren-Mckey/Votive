@@ -42,8 +42,8 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: tab
-    altNegativeButton: 
+    positiveButton: 
+    altNegativeButton: g
     altPositiveButton: 
     gravity: 1000
     dead: 0.001
@@ -58,7 +58,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: caps lock
+    positiveButton: f
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000
@@ -153,8 +153,8 @@ InputManager:
     m_Name: P2Horizontal
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: l
-    positiveButton: ''''
+    negativeButton: left
+    positiveButton: right
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3
@@ -186,7 +186,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: \
+    positiveButton: return
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000
@@ -202,7 +202,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: return
+    positiveButton: right shift
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000
@@ -234,7 +234,7 @@ InputManager:
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 
-    positiveButton: p
+    positiveButton: up
     altNegativeButton: 
     altPositiveButton: 
     gravity: 1000
@@ -279,6 +279,22 @@ InputManager:
     joyNum: 0
   - serializedVersion: 3
     m_Name: Cancel
+    descriptiveName: 
+    descriptiveNegativeName: 
+    negativeButton: 
+    positiveButton: 
+    altNegativeButton: 
+    altPositiveButton: joystick button 1
+    gravity: 1000
+    dead: 0.001
+    sensitivity: 1000
+    snap: 0
+    invert: 0
+    type: 0
+    axis: 0
+    joyNum: 0
+  - serializedVersion: 3
+    m_Name: Pause
     descriptiveName: 
     descriptiveNegativeName: 
     negativeButton: 

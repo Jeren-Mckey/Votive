@@ -26,6 +26,18 @@ public class SceneLoader : MonoBehaviour
         
     }
 
+    public void LoadPrevScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex - 1);
+    }
+
+    public void LoadSameScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+        SceneManager.LoadScene(currentSceneIndex);
+    }
+
     public void ExitGame()
     {
         Application.Quit();

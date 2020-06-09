@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 228aa82def3ee284b884507517bf5023
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5751324993121920180
+    second: Sol Walk forward small_0
+  - first:
+      213: 37789995211084779
+    second: Sol Walk forward small_1
+  - first:
+      213: -1709509203868430485
+    second: Sol Walk forward small_2
+  - first:
+      213: 8003344834012574935
+    second: Sol Walk forward small_3
+  - first:
+      213: -7338771339802695276
+    second: Sol Walk forward small_4
+  - first:
+      213: -3511095653672013480
+    second: Sol Walk forward small_5
+  - first:
+      213: -3811852612482745156
+    second: Sol Walk forward small_6
+  - first:
+      213: -7947327010766587613
+    second: Sol Walk forward small_7
+  - first:
+      213: -2373401765083516732
+    second: Sol Walk forward small_8
+  - first:
+      213: 4664473842179734571
+    second: Sol Walk forward small_9
+  - first:
+      213: -3534396860801902399
+    second: Sol Walk forward small_10
+  - first:
+      213: 8552254004304254886
+    second: Sol Walk forward small_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sol Walk forward small_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 611
+        width: 154
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adc846270d2eb4aa216c8806b3465f
+      internalID: 5751324993121920180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 611
+        width: 127
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab5624c108946b45bbf017c1ef1befb
+      internalID: 37789995211084779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_2
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 613
+        width: 147
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1247fc75f76ff9046bfcd90273c5ba78
+      internalID: -1709509203868430485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_3
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 612
+        width: 191
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cbf15f1fabb2644aa35a402a980e2f
+      internalID: 8003344834012574935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_4
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 608
+        width: 181
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261a3d0a5222ad94b8ea4771664fc8a5
+      internalID: -7338771339802695276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_5
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 622
+        width: 134
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820c953ac41ad64db437c419070ca07
+      internalID: -3511095653672013480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_6
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 622
+        width: 142
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648333e0609a34f46a7dcb4a44ddb685
+      internalID: -3811852612482745156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 316
+        width: 119
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce05c9a2267b1c4c8b7f8fe825b5332
+      internalID: -7947327010766587613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 314
+        width: 164
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a327d4417c79e42823fb9e30e419d3
+      internalID: -2373401765083516732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 302
+        width: 164
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bd158647761454ab4ccd2442bd210f
+      internalID: 4664473842179734571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_10
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 303
+        width: 144
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549c35cfb5aeb7b46baef8eb777d4100
+      internalID: -3534396860801902399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sol Walk forward small_11
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 302
+        width: 160
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33c11a660bc42045803fe3bfb37825c
+      internalID: 8552254004304254886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: cb0d625e112a5ce48b37c9c4c3b3e021
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5874192734216437532
+    second: SOL punch small_0
+  - first:
+      213: -7330830650189975966
+    second: SOL punch small_1
+  - first:
+      213: 509436104455088992
+    second: SOL punch small_2
+  - first:
+      213: -3999519697342568259
+    second: SOL punch small_3
+  - first:
+      213: 5671763493804640018
+    second: SOL punch small_4
+  - first:
+      213: -4541308704531071885
+    second: SOL punch small_5
+  - first:
+      213: 6369615254999087831
+    second: SOL punch small_6
+  - first:
+      213: -4600976058073181153
+    second: SOL punch small_7
+  - first:
+      213: -21953727199376385
+    second: SOL punch small_8
+  - first:
+      213: -8799100323139315545
+    second: SOL punch small_9
+  - first:
+      213: -8234373026663661843
+    second: SOL punch small_10
+  - first:
+      213: 3116027406295460669
+    second: SOL punch small_11
+  - first:
+      213: -1439641492379294241
+    second: SOL punch small_12
+  - first:
+      213: 285702604799629159
+    second: SOL punch small_13
+  - first:
+      213: 3430247992194451480
+    second: SOL punch small_14
+  - first:
+      213: -4634389174933319764
+    second: SOL punch small_15
+  - first:
+      213: -7802685854521056166
+    second: SOL punch small_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOL punch small_0
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 669
+        width: 120
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d0c5071c9dd7742b0b47b922193102
+      internalID: -5874192734216437532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_1
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 671
+        width: 108
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd4edb7ef2230a46b3248f55a29703b
+      internalID: -7330830650189975966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 672
+        width: 106
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad2b46761fd0c7409ee7e95b3b91115
+      internalID: 509436104455088992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_3
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 672
+        width: 104
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e58133d585dddb47b8b9aae3b1eaa36
+      internalID: -3999519697342568259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_4
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 672
+        width: 105
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23edf1f36be0e1247b05972cfb0ef63c
+      internalID: 5671763493804640018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 361
+        width: 104
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ed3b1e3285f194b9267fbb25d4aa6b
+      internalID: -4541308704531071885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_6
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 361
+        width: 104
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8712bcd8e3c2144439dfad77efd84b0e
+      internalID: 6369615254999087831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_7
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 361
+        width: 104
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61f1f001163bc409e4b2171bd4f3b9
+      internalID: -4600976058073181153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_8
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 364
+        width: 157
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5f7da372148494891ab1d0df6a1e61
+      internalID: -21953727199376385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_9
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 369
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc35120fd2feb4419eca8157593da52
+      internalID: -8799100323139315545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_10
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 308
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253a444dc28e82b4a956ec171e14c86e
+      internalID: -8234373026663661843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_11
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 49
+        width: 150
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da433e65c02cfc4c9d55432a6af3fec
+      internalID: 3116027406295460669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_12
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 347
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d97a69fd84e6d4abda6793eefb9990
+      internalID: -1439641492379294241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_13
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 49
+        width: 120
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc7a6ae07e455a47b007f33e78d1a64
+      internalID: 285702604799629159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 61
+        width: 246
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933bf77087f6b734d8bffa4af7eea6ea
+      internalID: 3430247992194451480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 60
+        width: 255
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d42a57cf31afff4487b100922f45dd3
+      internalID: -4634389174933319764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL punch small_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 50
+        width: 182
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23970bfde360708449d5146affeaf325
+      internalID: -7802685854521056166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 2acd42c7c5bd64840a6fe551e7b10217
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1102899452447264489
+    second: SOL jump scaled clr small_0
+  - first:
+      213: 7424878678693472339
+    second: SOL jump scaled clr small_1
+  - first:
+      213: 6456474816573558979
+    second: SOL jump scaled clr small_7
+  - first:
+      213: 1912356450534514197
+    second: SOL jump scaled clr small_8
+  - first:
+      213: 7759987150962933503
+    second: SOL jump scaled clr small_9
+  - first:
+      213: 2448985723752952418
+    second: SOL jump scaled clr small_10
+  - first:
+      213: -2256792944777907293
+    second: SOL jump scaled clr small_11
+  - first:
+      213: 8025374174090597577
+    second: SOL jump scaled clr small_12
+  - first:
+      213: -4560573435518219180
+    second: SOL jump scaled clr small_13
+  - first:
+      213: 1972598139585703118
+    second: SOL jump scaled clr small_14
+  - first:
+      213: -6206857236740960722
+    second: SOL jump scaled clr small_18
+  - first:
+      213: 9210937981646641810
+    second: SOL jump scaled clr small_20
+  - first:
+      213: -6414422178493798541
+    second: SOL jump scaled clr small_21
+  - first:
+      213: -7571117580561987934
+    second: SOL jump scaled clr small_22
+  - first:
+      213: 4266154026510009913
+    second: SOL jump scaled clr small_23
+  - first:
+      213: 4614079653822921746
+    second: SOL jump scaled clr small_24
+  - first:
+      213: 6995609467238986874
+    second: SOL jump scaled clr small_25
+  - first:
+      213: -498378090864492843
+    second: SOL jump scaled clr small_26
+  - first:
+      213: -974996315530639491
+    second: SOL jump scaled clr small_27
+  - first:
+      213: 6152946470181241844
+    second: SOL jump scaled clr small_28
+  - first:
+      213: -5416925604113366877
+    second: SOL jump scaled clr small_34
+  - first:
+      213: -3680995066444462461
+    second: SOL jump scaled clr small_35
+  - first:
+      213: -2925260019775755870
+    second: SOL jump scaled clr small_60
+  - first:
+      213: -4445060199292564732
+    second: SOL jump scaled clr small_63
+  - first:
+      213: 3408598334340569768
+    second: SOL jump scaled clr small_64
+  - first:
+      213: -5992695155959689433
+    second: SOL jump scaled clr small_65
+  - first:
+      213: 7349794022625560771
+    second: SOL jump scaled clr small_66
+  - first:
+      213: -7557158516450567570
+    second: SOL jump scaled clr small_67
+  - first:
+      213: 3864755281327318804
+    second: SOL jump scaled clr small_68
+  - first:
+      213: -6775966608834171595
+    second: SOL jump scaled clr small_69
+  - first:
+      213: 9028272743432969619
+    second: SOL jump scaled clr small_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_0
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1394
+        width: 122
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25704dba500983246873d48b66447675
+      internalID: -1102899452447264489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1394
+        width: 120
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e058f5a7def33c4f9cb4deb760f5a24
+      internalID: 7424878678693472339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_7
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1410
+        width: 118
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8459af84800fa3499520aac23a6cc01
+      internalID: 6456474816573558979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_8
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1410
+        width: 120
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dbd30a718af444d903e6354f70a6b5
+      internalID: 1912356450534514197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_9
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1394
+        width: 140
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88a171d778686247afdfeaa074d5398
+      internalID: 7759987150962933503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_10
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1394
+        width: 142
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3bf4144bdbe45438ceaba587a7d44f
+      internalID: 2448985723752952418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_11
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1394
+        width: 180
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e8f5baf3090d14c8723da5580f8c67
+      internalID: -2256792944777907293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_12
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 1394
+        width: 182
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82afa1872b4db649b362cbcef24555e
+      internalID: 8025374174090597577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_13
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 1394
+        width: 214
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d103099e71b5b440935cca66d9f23f5
+      internalID: -4560573435518219180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_14
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 1394
+        width: 212
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba211335635ab3440b072813f8fce66a
+      internalID: 1972598139585703118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_18
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 1388
+        width: 263
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3be1211583f0764aacd8ced186d5f24
+      internalID: -6206857236740960722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 805
+        width: 250
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef565333c6517e646a8fd70b07c2a9b0
+      internalID: 9210937981646641810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_21
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 803
+        width: 265
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3392e32ca5e7a499d1fa7e04421a0f
+      internalID: -6414422178493798541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_22
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 803
+        width: 267
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ac1d1e1eb10384da94be8aa422505e
+      internalID: -7571117580561987934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_23
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 803
+        width: 256
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb50b1701d0ddd4cb08bf206f881313
+      internalID: 4266154026510009913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_24
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 803
+        width: 178
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1b6b209713e494eac0e7d305375774
+      internalID: 4614079653822921746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_25
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 803
+        width: 104
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3db40944acab41be653c6f66686d7
+      internalID: 6995609467238986874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_26
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 799
+        width: 106
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00d395e1c54be42b3f84796d6ecad7
+      internalID: -498378090864492843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_27
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 799
+        width: 172
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c715788a3ec9554989918d3762b2030
+      internalID: -974996315530639491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_28
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 799
+        width: 172
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bfa35087611ac408269259c07a4609
+      internalID: 6152946470181241844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_34
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 801
+        width: 220
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb006906b6c36743aab4d9e9432e267
+      internalID: -5416925604113366877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_35
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 812
+        width: 220
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127471d1c3c989b498bfaf6f5b0f8639
+      internalID: -3680995066444462461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_60
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 820
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0bc8e75f36fb64885733beb3383b55
+      internalID: -2925260019775755870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_63
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 232
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d913c916723a64694341b5cff5f066
+      internalID: -4445060199292564732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_64
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee63f653fa57b14ca0ca3938ab5d58c
+      internalID: 3408598334340569768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_65
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 232
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3316931d112696647996313ab64a24f0
+      internalID: -5992695155959689433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_66
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 232
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070352d607d9072428828a1c74410a4e
+      internalID: 7349794022625560771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_67
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 234
+        width: 140
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e5a1adaaf61b74e8c87219ca6ecd0c
+      internalID: -7557158516450567570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_68
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 234
+        width: 142
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cf618aabca77646bbc2c304b2c93d8
+      internalID: 3864755281327318804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_69
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 236
+        width: 120
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7a147f9c31b4a4a9476847d6fa320d
+      internalID: -6775966608834171595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump scaled clr small_70
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 236
+        width: 122
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d67b97bb5fc1a45a29f47c4f83291b
+      internalID: 9028272743432969619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

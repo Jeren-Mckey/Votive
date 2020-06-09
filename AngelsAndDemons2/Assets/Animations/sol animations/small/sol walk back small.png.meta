@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: e25547551c783cd4d88f5f8c72fe4658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9198177169758592364
+    second: sol walk back small_0
+  - first:
+      213: -996272162059737476
+    second: sol walk back small_1
+  - first:
+      213: 4517627864417991587
+    second: sol walk back small_2
+  - first:
+      213: 216908725184753380
+    second: sol walk back small_3
+  - first:
+      213: 5432696675873159697
+    second: sol walk back small_4
+  - first:
+      213: 7879322852294935640
+    second: sol walk back small_5
+  - first:
+      213: 8906924160363473685
+    second: sol walk back small_6
+  - first:
+      213: 4823498599602274510
+    second: sol walk back small_7
+  - first:
+      213: 3755616932452524176
+    second: sol walk back small_8
+  - first:
+      213: 4082219515629234450
+    second: sol walk back small_9
+  - first:
+      213: -2826899695037815536
+    second: sol walk back small_10
+  - first:
+      213: -5501057697116655827
+    second: sol walk back small_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sol walk back small_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 553
+        width: 160
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d1d0b38b28aa14ea9c0f3be5156269
+      internalID: -9198177169758592364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 555
+        width: 144
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b20baf7aa585428ece02af6c92fdf
+      internalID: -996272162059737476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 552
+        width: 163
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb662e741c139e145bca0771a91533f6
+      internalID: 4517627864417991587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_3
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 565
+        width: 164
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6738e56b9d6cd43b92ec0890710faa
+      internalID: 216908725184753380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 567
+        width: 118
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291fbe5fe95ff154085fb752fe7845ae
+      internalID: 5432696675873159697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_5
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 566
+        width: 142
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c715df509beec489accd26c4f6fb11
+      internalID: 7879322852294935640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_6
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 565
+        width: 132
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdadf74224f7b9241a347cbb52d01f4e
+      internalID: 8906924160363473685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 244
+        width: 181
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126dcc0ca93bd744c9fc8c00b4deb20a
+      internalID: 4823498599602274510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 248
+        width: 191
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8ac90d200ad66439022404046e905f
+      internalID: 3755616932452524176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_9
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 249
+        width: 148
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2bc114bd29bcf489aaa079c44621ea
+      internalID: 4082219515629234450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_10
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 247
+        width: 126
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da706a514cdb14ba966ab19d6cf769
+      internalID: -2826899695037815536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sol walk back small_11
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 247
+        width: 154
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b01fd567c4234438158abf79add8be
+      internalID: -5501057697116655827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

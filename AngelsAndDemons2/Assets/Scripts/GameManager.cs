@@ -9,6 +9,9 @@ public class GameManager : MonoBehaviour
     public static event OnPlayerHitDelegate playerHitDelegate;
     public static int CurrentLevel = 1;
     public static bool player1won;
+    public static bool isPaused;
+    public static int player1Char;
+    public static bool winnerFound = false;
 
     public static void OnPlayerHit()
     {
@@ -20,6 +23,11 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
     }
 
+    public void Update()
+    {
+
+    }
+
     public static void loadLevel()
     {
         SceneManager.LoadScene("Level" + GameManager.CurrentLevel.ToString());
@@ -28,6 +36,7 @@ public class GameManager : MonoBehaviour
     public static void loadWinner(bool winner)
     {
         player1won = winner;
-        SceneManager.LoadScene("Win Screen");
+        //SceneManager.LoadScene("Win Screen");
+        winnerFound = true;
     }
 }

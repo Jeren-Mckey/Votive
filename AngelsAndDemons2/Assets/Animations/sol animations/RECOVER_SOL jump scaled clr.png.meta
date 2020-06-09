@@ -1,0 +1,5431 @@
+fileFormatVersion: 2
+guid: 8737e7b6e1f647847a3fb7eae830d7b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3087437333194630789
+    second: RECOVER_SOL jump scaled clr_0
+  - first:
+      213: 4693005415294626358
+    second: RECOVER_SOL jump scaled clr_1
+  - first:
+      213: 1969474623707748235
+    second: RECOVER_SOL jump scaled clr_2
+  - first:
+      213: -5880052499826482760
+    second: RECOVER_SOL jump scaled clr_3
+  - first:
+      213: -6400954631937021295
+    second: RECOVER_SOL jump scaled clr_4
+  - first:
+      213: -4597508448145088169
+    second: RECOVER_SOL jump scaled clr_5
+  - first:
+      213: -2353663490246011166
+    second: RECOVER_SOL jump scaled clr_6
+  - first:
+      213: -2588496489562869578
+    second: RECOVER_SOL jump scaled clr_7
+  - first:
+      213: -6221661660807813299
+    second: RECOVER_SOL jump scaled clr_8
+  - first:
+      213: -3575799577032799870
+    second: RECOVER_SOL jump scaled clr_9
+  - first:
+      213: 7454590501850516806
+    second: RECOVER_SOL jump scaled clr_10
+  - first:
+      213: -1391127079750149327
+    second: RECOVER_SOL jump scaled clr_11
+  - first:
+      213: -6770822472333682671
+    second: RECOVER_SOL jump scaled clr_12
+  - first:
+      213: -1615217155901849306
+    second: RECOVER_SOL jump scaled clr_13
+  - first:
+      213: -6147770161018529197
+    second: RECOVER_SOL jump scaled clr_14
+  - first:
+      213: 4488238232487637061
+    second: RECOVER_SOL jump scaled clr_15
+  - first:
+      213: 7971091664756372088
+    second: RECOVER_SOL jump scaled clr_16
+  - first:
+      213: 8846535597314643307
+    second: RECOVER_SOL jump scaled clr_17
+  - first:
+      213: -7683767675036187563
+    second: RECOVER_SOL jump scaled clr_18
+  - first:
+      213: -2002086816977587755
+    second: RECOVER_SOL jump scaled clr_19
+  - first:
+      213: -6138753178480550323
+    second: RECOVER_SOL jump scaled clr_20
+  - first:
+      213: 5863584899261892879
+    second: RECOVER_SOL jump scaled clr_21
+  - first:
+      213: 8915500204100246345
+    second: RECOVER_SOL jump scaled clr_22
+  - first:
+      213: -3555991369067710029
+    second: RECOVER_SOL jump scaled clr_23
+  - first:
+      213: 6122436046612593891
+    second: RECOVER_SOL jump scaled clr_24
+  - first:
+      213: -5466255089829975498
+    second: RECOVER_SOL jump scaled clr_25
+  - first:
+      213: -1764423977460580568
+    second: RECOVER_SOL jump scaled clr_26
+  - first:
+      213: -8545059303738194009
+    second: RECOVER_SOL jump scaled clr_27
+  - first:
+      213: 6475990357794342207
+    second: RECOVER_SOL jump scaled clr_28
+  - first:
+      213: 4344705994454773269
+    second: RECOVER_SOL jump scaled clr_29
+  - first:
+      213: 2406227192586354469
+    second: RECOVER_SOL jump scaled clr_30
+  - first:
+      213: 1294808746129308906
+    second: RECOVER_SOL jump scaled clr_31
+  - first:
+      213: 7920551910052264026
+    second: RECOVER_SOL jump scaled clr_32
+  - first:
+      213: 5033976858358933331
+    second: RECOVER_SOL jump scaled clr_33
+  - first:
+      213: 3622391604984133675
+    second: RECOVER_SOL jump scaled clr_34
+  - first:
+      213: -7750441450864953439
+    second: RECOVER_SOL jump scaled clr_35
+  - first:
+      213: -6382134810871927897
+    second: RECOVER_SOL jump scaled clr_36
+  - first:
+      213: -2596753522076174585
+    second: RECOVER_SOL jump scaled clr_37
+  - first:
+      213: 2162896611815300654
+    second: RECOVER_SOL jump scaled clr_38
+  - first:
+      213: -563089522172981333
+    second: RECOVER_SOL jump scaled clr_39
+  - first:
+      213: -1507528675928525371
+    second: RECOVER_SOL jump scaled clr_40
+  - first:
+      213: 4256708315329624708
+    second: RECOVER_SOL jump scaled clr_41
+  - first:
+      213: -5202413025543203454
+    second: RECOVER_SOL jump scaled clr_42
+  - first:
+      213: -1398100990957513907
+    second: RECOVER_SOL jump scaled clr_43
+  - first:
+      213: -8031107003984147841
+    second: RECOVER_SOL jump scaled clr_44
+  - first:
+      213: -7160183046537126627
+    second: RECOVER_SOL jump scaled clr_45
+  - first:
+      213: 4152792463154919204
+    second: RECOVER_SOL jump scaled clr_46
+  - first:
+      213: 895693893015068392
+    second: RECOVER_SOL jump scaled clr_47
+  - first:
+      213: 946638529827619812
+    second: RECOVER_SOL jump scaled clr_48
+  - first:
+      213: 1337718249719217346
+    second: RECOVER_SOL jump scaled clr_49
+  - first:
+      213: 5471372886067148764
+    second: RECOVER_SOL jump scaled clr_50
+  - first:
+      213: -4149297665768507912
+    second: RECOVER_SOL jump scaled clr_51
+  - first:
+      213: 7379488245215920173
+    second: RECOVER_SOL jump scaled clr_52
+  - first:
+      213: 7889233328978220754
+    second: RECOVER_SOL jump scaled clr_53
+  - first:
+      213: 7138366528373056432
+    second: RECOVER_SOL jump scaled clr_54
+  - first:
+      213: -4339432460816531652
+    second: RECOVER_SOL jump scaled clr_55
+  - first:
+      213: 5704814746386761146
+    second: RECOVER_SOL jump scaled clr_56
+  - first:
+      213: -4964123945541725778
+    second: RECOVER_SOL jump scaled clr_57
+  - first:
+      213: 8339338688003846833
+    second: RECOVER_SOL jump scaled clr_58
+  - first:
+      213: -19692074972337088
+    second: RECOVER_SOL jump scaled clr_59
+  - first:
+      213: -4825382046869987557
+    second: RECOVER_SOL jump scaled clr_60
+  - first:
+      213: 3983904580304319399
+    second: RECOVER_SOL jump scaled clr_61
+  - first:
+      213: 2044958983889721517
+    second: RECOVER_SOL jump scaled clr_62
+  - first:
+      213: 5466336248324938627
+    second: RECOVER_SOL jump scaled clr_63
+  - first:
+      213: 3175441523477375608
+    second: RECOVER_SOL jump scaled clr_64
+  - first:
+      213: 1411457112325869075
+    second: RECOVER_SOL jump scaled clr_65
+  - first:
+      213: 3839162765401336241
+    second: RECOVER_SOL jump scaled clr_66
+  - first:
+      213: 6233216201352847305
+    second: RECOVER_SOL jump scaled clr_67
+  - first:
+      213: -449203927926716763
+    second: RECOVER_SOL jump scaled clr_68
+  - first:
+      213: -4855386843008091820
+    second: RECOVER_SOL jump scaled clr_69
+  - first:
+      213: -6344182785173330176
+    second: RECOVER_SOL jump scaled clr_70
+  - first:
+      213: -4423087628313180477
+    second: RECOVER_SOL jump scaled clr_71
+  - first:
+      213: 252922505601436973
+    second: RECOVER_SOL jump scaled clr_72
+  - first:
+      213: -1715366652759740869
+    second: RECOVER_SOL jump scaled clr_73
+  - first:
+      213: -5680729347768900550
+    second: RECOVER_SOL jump scaled clr_74
+  - first:
+      213: -7315356629236362594
+    second: RECOVER_SOL jump scaled clr_75
+  - first:
+      213: -1838031983749313247
+    second: RECOVER_SOL jump scaled clr_76
+  - first:
+      213: -58573359610220063
+    second: RECOVER_SOL jump scaled clr_77
+  - first:
+      213: -8351338447475099936
+    second: RECOVER_SOL jump scaled clr_78
+  - first:
+      213: 4738899607737013669
+    second: RECOVER_SOL jump scaled clr_79
+  - first:
+      213: -3855615965957237247
+    second: RECOVER_SOL jump scaled clr_80
+  - first:
+      213: -4171470037586820131
+    second: RECOVER_SOL jump scaled clr_81
+  - first:
+      213: -831068326636167985
+    second: RECOVER_SOL jump scaled clr_82
+  - first:
+      213: -5397641021336281758
+    second: RECOVER_SOL jump scaled clr_83
+  - first:
+      213: 320192552853730158
+    second: RECOVER_SOL jump scaled clr_84
+  - first:
+      213: -9133253040275301622
+    second: RECOVER_SOL jump scaled clr_85
+  - first:
+      213: 3192140305736750779
+    second: RECOVER_SOL jump scaled clr_86
+  - first:
+      213: -5944259965679752242
+    second: RECOVER_SOL jump scaled clr_87
+  - first:
+      213: -3141406954975698705
+    second: RECOVER_SOL jump scaled clr_88
+  - first:
+      213: -5108368265529217322
+    second: RECOVER_SOL jump scaled clr_89
+  - first:
+      213: -1842200173889946595
+    second: RECOVER_SOL jump scaled clr_90
+  - first:
+      213: -8038192690366064501
+    second: RECOVER_SOL jump scaled clr_91
+  - first:
+      213: 8444202875586100944
+    second: RECOVER_SOL jump scaled clr_92
+  - first:
+      213: -4625435993617795443
+    second: RECOVER_SOL jump scaled clr_93
+  - first:
+      213: 6810528027516921927
+    second: RECOVER_SOL jump scaled clr_94
+  - first:
+      213: -3416088488321280876
+    second: RECOVER_SOL jump scaled clr_95
+  - first:
+      213: 3159586014164555571
+    second: RECOVER_SOL jump scaled clr_96
+  - first:
+      213: 2681239873541204732
+    second: RECOVER_SOL jump scaled clr_97
+  - first:
+      213: 256045966940944378
+    second: RECOVER_SOL jump scaled clr_98
+  - first:
+      213: -7630282889622457892
+    second: RECOVER_SOL jump scaled clr_99
+  - first:
+      213: -5542942613346187885
+    second: RECOVER_SOL jump scaled clr_100
+  - first:
+      213: -8946016348562167743
+    second: RECOVER_SOL jump scaled clr_101
+  - first:
+      213: -6510739304844943321
+    second: RECOVER_SOL jump scaled clr_102
+  - first:
+      213: -5252665479727784522
+    second: RECOVER_SOL jump scaled clr_103
+  - first:
+      213: -6720724641514252444
+    second: RECOVER_SOL jump scaled clr_104
+  - first:
+      213: -1500107551303922214
+    second: RECOVER_SOL jump scaled clr_105
+  - first:
+      213: -76116926245743525
+    second: RECOVER_SOL jump scaled clr_106
+  - first:
+      213: 4543318524521807835
+    second: RECOVER_SOL jump scaled clr_107
+  - first:
+      213: 4012372515422770126
+    second: RECOVER_SOL jump scaled clr_108
+  - first:
+      213: 896295545967252323
+    second: RECOVER_SOL jump scaled clr_109
+  - first:
+      213: -1350808959434119628
+    second: RECOVER_SOL jump scaled clr_110
+  - first:
+      213: -558181744316122118
+    second: RECOVER_SOL jump scaled clr_111
+  - first:
+      213: 4766497876774241141
+    second: RECOVER_SOL jump scaled clr_112
+  - first:
+      213: -5942242893346508940
+    second: RECOVER_SOL jump scaled clr_113
+  - first:
+      213: -4944313435784727531
+    second: RECOVER_SOL jump scaled clr_114
+  - first:
+      213: -7652132041599471979
+    second: RECOVER_SOL jump scaled clr_115
+  - first:
+      213: 2202007547077439936
+    second: RECOVER_SOL jump scaled clr_116
+  - first:
+      213: 3722866821102737760
+    second: RECOVER_SOL jump scaled clr_117
+  - first:
+      213: -9123022901128436722
+    second: RECOVER_SOL jump scaled clr_118
+  - first:
+      213: 1623914639697865222
+    second: RECOVER_SOL jump scaled clr_119
+  - first:
+      213: -2491301310249154995
+    second: RECOVER_SOL jump scaled clr_120
+  - first:
+      213: 4779162008759256007
+    second: RECOVER_SOL jump scaled clr_121
+  - first:
+      213: 5832736293373327467
+    second: RECOVER_SOL jump scaled clr_122
+  - first:
+      213: 2366733224597186649
+    second: RECOVER_SOL jump scaled clr_123
+  - first:
+      213: -3723222085768556776
+    second: RECOVER_SOL jump scaled clr_124
+  - first:
+      213: -6452146907535941010
+    second: RECOVER_SOL jump scaled clr_125
+  - first:
+      213: 8107885012563781745
+    second: RECOVER_SOL jump scaled clr_126
+  - first:
+      213: 616209529673531522
+    second: RECOVER_SOL jump scaled clr_127
+  - first:
+      213: 8001646188350298586
+    second: RECOVER_SOL jump scaled clr_128
+  - first:
+      213: 6821315972210839522
+    second: RECOVER_SOL jump scaled clr_129
+  - first:
+      213: -7282469890645112129
+    second: RECOVER_SOL jump scaled clr_130
+  - first:
+      213: 7723328412660338348
+    second: RECOVER_SOL jump scaled clr_131
+  - first:
+      213: 5007736311104313418
+    second: RECOVER_SOL jump scaled clr_132
+  - first:
+      213: 7511084488253871472
+    second: RECOVER_SOL jump scaled clr_133
+  - first:
+      213: -2936067406909696663
+    second: RECOVER_SOL jump scaled clr_134
+  - first:
+      213: -6531612078116122617
+    second: RECOVER_SOL jump scaled clr_135
+  - first:
+      213: -7516467834201658068
+    second: RECOVER_SOL jump scaled clr_136
+  - first:
+      213: 779332292048984216
+    second: RECOVER_SOL jump scaled clr_137
+  - first:
+      213: -54411567159378629
+    second: RECOVER_SOL jump scaled clr_138
+  - first:
+      213: 7599787870028223611
+    second: RECOVER_SOL jump scaled clr_139
+  - first:
+      213: 1095692508337973721
+    second: RECOVER_SOL jump scaled clr_140
+  - first:
+      213: 1476998247677003027
+    second: RECOVER_SOL jump scaled clr_141
+  - first:
+      213: -4194615004820983739
+    second: RECOVER_SOL jump scaled clr_142
+  - first:
+      213: 3386400484460396185
+    second: RECOVER_SOL jump scaled clr_143
+  - first:
+      213: 430831578188779466
+    second: RECOVER_SOL jump scaled clr_144
+  - first:
+      213: 6799997140895961302
+    second: RECOVER_SOL jump scaled clr_145
+  - first:
+      213: 4972087983645774497
+    second: RECOVER_SOL jump scaled clr_146
+  - first:
+      213: 7580298601042113761
+    second: RECOVER_SOL jump scaled clr_147
+  - first:
+      213: -8510061850510281385
+    second: RECOVER_SOL jump scaled clr_148
+  - first:
+      213: -3454469891338825417
+    second: RECOVER_SOL jump scaled clr_149
+  - first:
+      213: 3744894871066687048
+    second: RECOVER_SOL jump scaled clr_150
+  - first:
+      213: 2781486975230351052
+    second: RECOVER_SOL jump scaled clr_151
+  - first:
+      213: -4349683967552999578
+    second: RECOVER_SOL jump scaled clr_152
+  - first:
+      213: -6633540706019885313
+    second: RECOVER_SOL jump scaled clr_153
+  - first:
+      213: 8159051058937309490
+    second: RECOVER_SOL jump scaled clr_154
+  - first:
+      213: -9159514355281318504
+    second: RECOVER_SOL jump scaled clr_155
+  - first:
+      213: -1811770431543731406
+    second: RECOVER_SOL jump scaled clr_156
+  - first:
+      213: 8450153984810206652
+    second: RECOVER_SOL jump scaled clr_157
+  - first:
+      213: -616060550718718209
+    second: RECOVER_SOL jump scaled clr_158
+  - first:
+      213: -6178619501952558614
+    second: RECOVER_SOL jump scaled clr_159
+  - first:
+      213: 4923639990452197555
+    second: RECOVER_SOL jump scaled clr_160
+  - first:
+      213: -2068220440575668679
+    second: RECOVER_SOL jump scaled clr_161
+  - first:
+      213: 1930643343216097480
+    second: RECOVER_SOL jump scaled clr_162
+  - first:
+      213: 1006841950582534798
+    second: RECOVER_SOL jump scaled clr_163
+  - first:
+      213: -3303968656857965726
+    second: RECOVER_SOL jump scaled clr_164
+  - first:
+      213: -8209047799605773300
+    second: RECOVER_SOL jump scaled clr_165
+  - first:
+      213: -1781647992442046817
+    second: RECOVER_SOL jump scaled clr_166
+  - first:
+      213: -4043373414455006662
+    second: RECOVER_SOL jump scaled clr_167
+  - first:
+      213: -4146342147187090314
+    second: RECOVER_SOL jump scaled clr_168
+  - first:
+      213: -1989047674862487616
+    second: RECOVER_SOL jump scaled clr_169
+  - first:
+      213: -3979848270505417488
+    second: RECOVER_SOL jump scaled clr_170
+  - first:
+      213: -4105657005026823042
+    second: RECOVER_SOL jump scaled clr_171
+  - first:
+      213: 5017653668771012684
+    second: RECOVER_SOL jump scaled clr_172
+  - first:
+      213: 7529806340175094244
+    second: RECOVER_SOL jump scaled clr_173
+  - first:
+      213: -2875748102170587426
+    second: RECOVER_SOL jump scaled clr_174
+  - first:
+      213: -1899882427545131979
+    second: RECOVER_SOL jump scaled clr_175
+  - first:
+      213: 801202426072130083
+    second: RECOVER_SOL jump scaled clr_176
+  - first:
+      213: -3287996587788601952
+    second: RECOVER_SOL jump scaled clr_177
+  - first:
+      213: 876788198293170002
+    second: RECOVER_SOL jump scaled clr_178
+  - first:
+      213: 8879042643058413758
+    second: RECOVER_SOL jump scaled clr_179
+  - first:
+      213: -5890955463211313688
+    second: RECOVER_SOL jump scaled clr_180
+  - first:
+      213: 9076913137315094673
+    second: RECOVER_SOL jump scaled clr_181
+  - first:
+      213: -5356789219923019734
+    second: RECOVER_SOL jump scaled clr_182
+  - first:
+      213: 8332147347104566709
+    second: RECOVER_SOL jump scaled clr_183
+  - first:
+      213: -8765600015251850359
+    second: RECOVER_SOL jump scaled clr_184
+  - first:
+      213: 3815957062644278180
+    second: RECOVER_SOL jump scaled clr_185
+  - first:
+      213: -6434786506673685572
+    second: RECOVER_SOL jump scaled clr_186
+  - first:
+      213: -1540693407812057770
+    second: RECOVER_SOL jump scaled clr_187
+  - first:
+      213: 4473941716947751877
+    second: RECOVER_SOL jump scaled clr_188
+  - first:
+      213: -4196645108224670594
+    second: RECOVER_SOL jump scaled clr_189
+  - first:
+      213: 7133308683089733484
+    second: RECOVER_SOL jump scaled clr_190
+  - first:
+      213: 2901717879505764560
+    second: RECOVER_SOL jump scaled clr_191
+  - first:
+      213: 1201576922392708226
+    second: RECOVER_SOL jump scaled clr_192
+  - first:
+      213: -8931898308493069606
+    second: RECOVER_SOL jump scaled clr_193
+  - first:
+      213: -368072667995377316
+    second: RECOVER_SOL jump scaled clr_194
+  - first:
+      213: 162680617842783199
+    second: RECOVER_SOL jump scaled clr_195
+  - first:
+      213: -4607990000946675893
+    second: RECOVER_SOL jump scaled clr_196
+  - first:
+      213: 6386684609485430076
+    second: RECOVER_SOL jump scaled clr_197
+  - first:
+      213: 843752439173562741
+    second: RECOVER_SOL jump scaled clr_198
+  - first:
+      213: 1469344735296775447
+    second: RECOVER_SOL jump scaled clr_199
+  - first:
+      213: -8180447828101807145
+    second: RECOVER_SOL jump scaled clr_200
+  - first:
+      213: 3141293032054783112
+    second: RECOVER_SOL jump scaled clr_201
+  - first:
+      213: 3827943174480537740
+    second: RECOVER_SOL jump scaled clr_202
+  - first:
+      213: -2287361794286035392
+    second: RECOVER_SOL jump scaled clr_203
+  - first:
+      213: -3520380145889020337
+    second: RECOVER_SOL jump scaled clr_204
+  - first:
+      213: -7634206799045615842
+    second: RECOVER_SOL jump scaled clr_205
+  - first:
+      213: 8187565468857479758
+    second: RECOVER_SOL jump scaled clr_206
+  - first:
+      213: -6509147853804080721
+    second: RECOVER_SOL jump scaled clr_207
+  - first:
+      213: -2008085093785030848
+    second: RECOVER_SOL jump scaled clr_208
+  - first:
+      213: -634308522725512467
+    second: RECOVER_SOL jump scaled clr_209
+  - first:
+      213: 7316313943687891644
+    second: RECOVER_SOL jump scaled clr_210
+  - first:
+      213: 3246926940234822959
+    second: RECOVER_SOL jump scaled clr_211
+  - first:
+      213: -2770454167239014094
+    second: RECOVER_SOL jump scaled clr_212
+  - first:
+      213: -592183230339597020
+    second: RECOVER_SOL jump scaled clr_213
+  - first:
+      213: -1662490075864124043
+    second: RECOVER_SOL jump scaled clr_214
+  - first:
+      213: -7747951896760210808
+    second: RECOVER_SOL jump scaled clr_215
+  - first:
+      213: 8479022057498870003
+    second: RECOVER_SOL jump scaled clr_216
+  - first:
+      213: -6391035133499191185
+    second: RECOVER_SOL jump scaled clr_217
+  - first:
+      213: -7655165832160316900
+    second: RECOVER_SOL jump scaled clr_218
+  - first:
+      213: 708869745610843778
+    second: RECOVER_SOL jump scaled clr_219
+  - first:
+      213: -1259681523597824140
+    second: RECOVER_SOL jump scaled clr_220
+  - first:
+      213: 5032012432892667576
+    second: RECOVER_SOL jump scaled clr_221
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_0
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 7280
+        width: 4
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef9769b5cb40f45b6ff5e3e26cdd60
+      internalID: 3087437333194630789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_1
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 7792
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7039b0f7bf459b74a9da232fddadd6e3
+      internalID: 4693005415294626358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_2
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 6820
+        width: 688
+        height: 1372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39cf81c54c81344eb118bb797632323
+      internalID: 1969474623707748235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_3
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 6820
+        width: 720
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e243efbb427b48546b536cd5d3110fab
+      internalID: -5880052499826482760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_4
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 7300
+        width: 308
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d0d02a7d318764cbbab85d1e05d985
+      internalID: -6400954631937021295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_5
+      rect:
+        serializedVersion: 2
+        x: 6368
+        y: 7296
+        width: 464
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d1e1b77907235489548a01bda8d7ad
+      internalID: -4597508448145088169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_6
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 7440
+        width: 1344
+        height: 672
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d7d84d796a8474d867a4d5eb5a8988
+      internalID: -2353663490246011166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_7
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 7632
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46502ae041673045beb2405ec0bdfad
+      internalID: -2588496489562869578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_8
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 7592
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d260ed821e81a4cb2a8dd7efeca319
+      internalID: -6221661660807813299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_9
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 7504
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c884077e4456ec49b674d59cd78cc52
+      internalID: -3575799577032799870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_10
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 7504
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6339c760ca2c4a82eb78d7c3bb656
+      internalID: 7454590501850516806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_11
+      rect:
+        serializedVersion: 2
+        x: 6832
+        y: 7516
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6e90164c9eead43be8024d83bb66aa
+      internalID: -1391127079750149327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6720
+        width: 512
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0ec03c670fb3f45992f2b3c32a7de9
+      internalID: -6770822472333682671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_13
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 6720
+        width: 320
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2833594338234a74b9e66e6ff34a9af6
+      internalID: -1615217155901849306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_14
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 7488
+        width: 288
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8321a5b210d63a145a493b7bd9742a34
+      internalID: -6147770161018529197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_15
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 7472
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c71209c476869b4c8ee6f8c6a457bc6
+      internalID: 4488238232487637061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_16
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 6764
+        width: 592
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77a0f426f789347a724b26036a5d77
+      internalID: 7971091664756372088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_17
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 6764
+        width: 816
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a9efb77091f8e478d5801c2b4abfac
+      internalID: 8846535597314643307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_18
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 7376
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211b413c6c333884cab8b4a3a0830f29
+      internalID: -7683767675036187563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_19
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 7344
+        width: 224
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8f2d1fb24283e4bb13af84c3c5d1d0
+      internalID: -2002086816977587755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_20
+      rect:
+        serializedVersion: 2
+        x: 4128
+        y: 7344
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a40b3429dd8249abb613390236b9b
+      internalID: -6138753178480550323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_21
+      rect:
+        serializedVersion: 2
+        x: 7620
+        y: 7344
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7233085299b6f7149aca906c49d9c253
+      internalID: 5863584899261892879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_22
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 7328
+        width: 256
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920f972330a103c47aaef7fe6d2a0684
+      internalID: 8915500204100246345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_23
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 7328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a408c7e30bfe45852392bf0345e1d
+      internalID: -3555991369067710029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_24
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 7184
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5e119abf0cfbc41953d315d0061578
+      internalID: 6122436046612593891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_25
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 6640
+        width: 528
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1f39ffc0a9dcf48b145e1885d4f214
+      internalID: -5466255089829975498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_26
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 6720
+        width: 520
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aee481679e25bc4b9c4e4ea4b501739
+      internalID: -1764423977460580568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_27
+      rect:
+        serializedVersion: 2
+        x: 6036
+        y: 7184
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5038b32554336d4ba929d712f79302f
+      internalID: -8545059303738194009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_28
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 6864
+        width: 16
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654d63034e7fff144b9ddbb0c686efa8
+      internalID: 6475990357794342207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_29
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 7104
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261862a079a04a4438e44592b7517449
+      internalID: 4344705994454773269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_30
+      rect:
+        serializedVersion: 2
+        x: 7088
+        y: 6864
+        width: 108
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2758b6d12233a9e4187d13fe77cd29db
+      internalID: 2406227192586354469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_31
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 7100
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f4e6ef1866ad84fa740a7864664741
+      internalID: 1294808746129308906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_32
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 7080
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd3cd7b099b7684f8d625cc8d2d5d31
+      internalID: 7920551910052264026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_33
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 7072
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5363df1fafe32c84cae3c18967702ff8
+      internalID: 5033976858358933331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 6960
+        width: 288
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decde9ddedbd0ac42a03cbbb4a291b5a
+      internalID: 3622391604984133675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_35
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 6720
+        width: 468
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d136be81af9648b468c92663a1fa0cff
+      internalID: -7750441450864953439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_36
+      rect:
+        serializedVersion: 2
+        x: 5004
+        y: 6720
+        width: 460
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04596bcb1dc51bc48b2a3175ba4f17a2
+      internalID: -6382134810871927897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_37
+      rect:
+        serializedVersion: 2
+        x: 6240
+        y: 6720
+        width: 624
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22bc768b23782441bed9e2845194301
+      internalID: -2596753522076174585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_38
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 6912
+        width: 296
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31a8c3fa78409468ce884d684adda1
+      internalID: 2162896611815300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_39
+      rect:
+        serializedVersion: 2
+        x: 7456
+        y: 6872
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbec9ca3c47acf4691a7182704ea3ff
+      internalID: -563089522172981333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_40
+      rect:
+        serializedVersion: 2
+        x: 7584
+        y: 6896
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4667aafd8cc6b4a99e4b435b1c00db
+      internalID: -1507528675928525371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_41
+      rect:
+        serializedVersion: 2
+        x: 5628
+        y: 6720
+        width: 548
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9850e97ef696dcd40b1a12ab75b8921d
+      internalID: 4256708315329624708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_42
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 6864
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2cb70e1884dad4bb18d01e527357d0
+      internalID: -5202413025543203454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_43
+      rect:
+        serializedVersion: 2
+        x: 6976
+        y: 6756
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf42c811ab512746956739dc1c4b907
+      internalID: -1398100990957513907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_44
+      rect:
+        serializedVersion: 2
+        x: 6900
+        y: 6800
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa478f8f767c445be0ae0388ae46bf
+      internalID: -8031107003984147841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_45
+      rect:
+        serializedVersion: 2
+        x: 7104
+        y: 6400
+        width: 456
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63af56df048bd34b94ea3a58d209956
+      internalID: -7160183046537126627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_46
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 6788
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54609ab14c8e5ca4e8ff665062c22e46
+      internalID: 4152792463154919204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_47
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 6784
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a77050c5dd5a458fcbc2f9d0e0f11
+      internalID: 895693893015068392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_48
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 6656
+        width: 12
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b019a99365b78b5438f378ed71bd9753
+      internalID: 946638529827619812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_49
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 6752
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9949b84bcc02fe14db8adc608d55b06f
+      internalID: 1337718249719217346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70f00c720a17574a95fd795e61f5191
+      internalID: 5471372886067148764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_51
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 6028
+        width: 712
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b421e47a5c33874e85aea9acc5c8ef6
+      internalID: -4149297665768507912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_52
+      rect:
+        serializedVersion: 2
+        x: 7504
+        y: 6304
+        width: 8
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec21cfab861edd4db87ebef5273d5f4
+      internalID: 7379488245215920173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5952
+        width: 424
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468a0d477ce9d54eb08b78580487d82
+      internalID: 7889233328978220754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_54
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 6032
+        width: 816
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32707b6ad5bce4e4181150fd6bf69c06
+      internalID: 7138366528373056432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_55
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 6032
+        width: 864
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bdd74cb3c40714695f9f5ef9678bd5
+      internalID: -4339432460816531652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_56
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5792
+        width: 456
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38cc7f3acb9eb04199215f5a2054ffe
+      internalID: 5704814746386761146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_57
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 6612
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48dc300197e0a45a2164b9d37f0d3a
+      internalID: -4964123945541725778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 6548
+        width: 204
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189d76210458fc44198fd88b34f46cd5
+      internalID: 8339338688003846833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_59
+      rect:
+        serializedVersion: 2
+        x: 3632
+        y: 5568
+        width: 432
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b770fe182e36542b0feffa4e3d6601
+      internalID: -19692074972337088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_60
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 6104
+        width: 468
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30171d4d7dbf7548b5205063ce81fbb
+      internalID: -4825382046869987557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_61
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 6548
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dacea1651512834bb0a3c90ccbe82e1
+      internalID: 3983904580304319399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_62
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 6432
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6347d9102c924547b1234008eb22d8b
+      internalID: 2044958983889721517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_63
+      rect:
+        serializedVersion: 2
+        x: 4976
+        y: 5504
+        width: 452
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d77f2ca8f64fd4daf4ad3e3308aea4
+      internalID: 5466336248324938627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_64
+      rect:
+        serializedVersion: 2
+        x: 5680
+        y: 4976
+        width: 448
+        height: 1548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194744c89f2bee047ab7eb20f1fbe4ec
+      internalID: 3175441523477375608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_65
+      rect:
+        serializedVersion: 2
+        x: 6520
+        y: 6396
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e24c3a5d57fb4e903993857c742e5
+      internalID: 1411457112325869075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6332
+        width: 204
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc0731aa65cb024f96f3ffa105faa97
+      internalID: 3839162765401336241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_67
+      rect:
+        serializedVersion: 2
+        x: 4092
+        y: 6208
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba1dea0d9abbb441991f6b93fb6220c
+      internalID: 6233216201352847305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_68
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 6208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f181135f622ab34692e63b12c6d8d6b
+      internalID: -449203927926716763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_69
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 6188
+        width: 280
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a25bdeac63f5f9459a8515c072e3e66
+      internalID: -4855386843008091820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_70
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 6128
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb2f694ba675324daa71988382d92a9
+      internalID: -6344182785173330176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_71
+      rect:
+        serializedVersion: 2
+        x: 4464
+        y: 5584
+        width: 12
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c546963108289b34dab1e71f3eb5858e
+      internalID: -4423087628313180477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_72
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 6080
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2d5bec6b0f1ac48888e1c19ffdde72
+      internalID: 252922505601436973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_73
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 6044
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4e383bf0a8d947be6cbdf17bbd7aa
+      internalID: -1715366652759740869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_74
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 5232
+        width: 688
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb10bdbd419e34ea9288aa67ab9b56
+      internalID: -5680729347768900550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_75
+      rect:
+        serializedVersion: 2
+        x: 6944
+        y: 5232
+        width: 576
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d861ef1ba34f894b8084d039836ac39
+      internalID: -7315356629236362594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_76
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 6040
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8903422ad2116408431ef69813d88a
+      internalID: -1838031983749313247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_77
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 6032
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46fda0c056fef04282e1b9d785b6c54
+      internalID: -58573359610220063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_78
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 6000
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb0bc6250026640b83cedd9142c196
+      internalID: -8351338447475099936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_79
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 6008
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab987b66a185f4a4ea2127e6d0999496
+      internalID: 4738899607737013669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_80
+      rect:
+        serializedVersion: 2
+        x: 5504
+        y: 6000
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110c0b6841302e4483102a6a3a2cdaf
+      internalID: -3855615965957237247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_81
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 5904
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc374554b715d3479c2fbdfc477ef3b
+      internalID: -4171470037586820131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_82
+      rect:
+        serializedVersion: 2
+        x: 4656
+        y: 5696
+        width: 16
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7dac97484600d4a9e6fe90d36efa46
+      internalID: -831068326636167985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_83
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 5888
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eef5bc629d79845b54fbb6ea596ffe
+      internalID: -5397641021336281758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_84
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 5872
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3967d76001f31459257c796554aab4
+      internalID: 320192552853730158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_85
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 5872
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6474fd5ee59dd2c4792bba44b0295430
+      internalID: -9133253040275301622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_86
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 5856
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9c96d22edc8054ba63101b3554f87a
+      internalID: 3192140305736750779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_87
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5412
+        width: 92
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12acdf55a35f794db26477dd5c72720
+      internalID: -5944259965679752242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_88
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 5856
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd5a6302dd21243a5cc763c6b2ca5d
+      internalID: -3141406954975698705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_89
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 5440
+        width: 28
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11e4ac8891e13f45830ed0c6695400b
+      internalID: -5108368265529217322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_90
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 5744
+        width: 208
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15422ae412f1244d908d67260097cf4
+      internalID: -1842200173889946595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_91
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 5840
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923a38e4d038464db88b8568b8aae80
+      internalID: -8038192690366064501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_92
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 5848
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246abc379df0084eba3c9939800ada0
+      internalID: 8444202875586100944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_93
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 5824
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1c40262f5722c4b90d5827e9c27c4e
+      internalID: -4625435993617795443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_94
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 5808
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52173b49221681c4ebca3bb85b29dc42
+      internalID: 6810528027516921927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_95
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 5776
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6a830a5a018404a8cf99030656affc
+      internalID: -3416088488321280876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_96
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 5792
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51fa7571285b68478f79036da142ee5
+      internalID: 3159586014164555571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_97
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5408
+        width: 60
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7f1672326f9a40a8ac00a14cf9228
+      internalID: 2681239873541204732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_98
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 5696
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e758db0b91c206a478c7533ccadbead2
+      internalID: 256045966940944378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_99
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 5776
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d111bdb8066e4f8279d0d8fc88c3b
+      internalID: -7630282889622457892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_100
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 5760
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5daa04fbee7fc8489616826c3f6199d
+      internalID: -5542942613346187885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_101
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 5760
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f92886270f5d49b8ef100d5ea8a28
+      internalID: -8946016348562167743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_102
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 5744
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac1765f4342e204ebe27225826c684a
+      internalID: -6510739304844943321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_103
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 5744
+        width: 96
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeac0ec4f709c140bd228bb19d14c93
+      internalID: -5252665479727784522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_104
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 5712
+        width: 80
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a3ade71d607b4e96522e8d895373e
+      internalID: -6720724641514252444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_105
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 5728
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60862f1df9443794ebcfe3d2b1177e40
+      internalID: -1500107551303922214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_106
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 5280
+        width: 4
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c23bb71f7cd350489934705eba0dee6
+      internalID: -76116926245743525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_107
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 5280
+        width: 8
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774816dd4aab1594988e2902942d10a7
+      internalID: 4543318524521807835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_108
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5456
+        width: 32
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843dbb1e406b1a441beb41a1a1c130d1
+      internalID: 4012372515422770126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_109
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 5720
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f19375b154733498c9cc32420dfd20
+      internalID: 896295545967252323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_110
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 5696
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7377614c6b75fa4990900556d1d24dc
+      internalID: -1350808959434119628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5680
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7199ecaf6c64498e63139cc02bdf3
+      internalID: -558181744316122118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5680
+        width: 68
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0341c41206ddd43b1de7c130f0b475
+      internalID: 4766497876774241141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_113
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 5676
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc8053a062dd67439c392be8ac124f6
+      internalID: -5942242893346508940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_114
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 5256
+        width: 24
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f05c2be609d245805cbe80448452f
+      internalID: -4944313435784727531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_115
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 5660
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ffba613c8c65d4cb4b0d93e690f917
+      internalID: -7652132041599471979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_116
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 5644
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c5f7f0bcfe5940a26ed6795696a7b
+      internalID: 2202007547077439936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_117
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 5628
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c0b0f2f2cfd442ba038ac41766d7c
+      internalID: 3722866821102737760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_118
+      rect:
+        serializedVersion: 2
+        x: 4576
+        y: 5612
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9123fb6f5e1ca4abbecd9a4498fdb5
+      internalID: -9123022901128436722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_119
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 5596
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e936f8f5d8419fd4ba4547fda59e5192
+      internalID: 1623914639697865222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_120
+      rect:
+        serializedVersion: 2
+        x: 4544
+        y: 5580
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eca060d0ee73248b3168310359f09f
+      internalID: -2491301310249154995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_121
+      rect:
+        serializedVersion: 2
+        x: 5056
+        y: 5488
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a07acfe76e5d48bc29ed216dedf64
+      internalID: 4779162008759256007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_122
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 5392
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88598781fead33f4497a0294cda6f0d7
+      internalID: 5832736293373327467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_123
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 5436
+        width: 404
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40500550fbd06d6458ab30f5050643ea
+      internalID: 2366733224597186649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_124
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 5456
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591ff27e80d335d4bafb33ecce72b7e4
+      internalID: -3723222085768556776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_125
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5384
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1e8a02c38787140abd91fdc1dea8b2
+      internalID: -6452146907535941010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_126
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 5440
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e61182bc494ad47a4dfd79d04e143f
+      internalID: 8107885012563781745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_127
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 5440
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091913f021086f84e8474ad57b80a717
+      internalID: 616209529673531522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_128
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 5440
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92535a8170d968145ab5dcf05581a252
+      internalID: 8001646188350298586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_129
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 5420
+        width: 116
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5a4ef61e9a54d4ca282a47eaa69db2
+      internalID: 6821315972210839522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_130
+      rect:
+        serializedVersion: 2
+        x: 2704
+        y: 5380
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c80e237dca29245a2539bd073a22d6
+      internalID: -7282469890645112129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_131
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 5424
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b5742eef075a542bb6ccffdc54b3af
+      internalID: 7723328412660338348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_132
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 5436
+        width: 32
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b966c2c3270cb47bba623ae6dcf057
+      internalID: 5007736311104313418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_133
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 5408
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e638bbdbdbe52384b8040137dc8ae653
+      internalID: 7511084488253871472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_134
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 5436
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90e0c22a0cc016448c4728120ff41c7
+      internalID: -2936067406909696663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_135
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 5376
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28801436ef86511479459917057ee5d4
+      internalID: -6531612078116122617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_136
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 5412
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d484971dea8d72469382c459be6aec6
+      internalID: -7516467834201658068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_137
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5400
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d545350a81244a4d8a7ef68dd7ea451
+      internalID: 779332292048984216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_138
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 5396
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a6f0d42e82f343bc3811cf8bf88df
+      internalID: -54411567159378629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_139
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 5388
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1116b1c7f62b05243b3b0e16da21bc6f
+      internalID: 7599787870028223611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_140
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 5408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6156532d39adf544a83770384935a3d
+      internalID: 1095692508337973721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_141
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 5408
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6229405fb666548af5aed4906f6fb9
+      internalID: 1476998247677003027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_142
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 5404
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e702d88c3f16c4e90f934756ae2aaf
+      internalID: -4194615004820983739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_143
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 5392
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf56d6ab88bf9340a33292e8d8fd640
+      internalID: 3386400484460396185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_144
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 5280
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d22cdb4370274292a0054ae2770df
+      internalID: 430831578188779466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_145
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 5404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3598b1c2d2ebb1848a744a0fcfa2247e
+      internalID: 6799997140895961302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_146
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 5408
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3923f7fdd512a42b66aa830e77ca72
+      internalID: 4972087983645774497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5268
+        width: 96
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6036365e1ddc4e9d236d9e157472f
+      internalID: 7580298601042113761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_148
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 5384
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50739c801cfbe6b45a675afb850c8004
+      internalID: -8510061850510281385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_149
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 5264
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f0c0a15fd48d84eaf253533fa9f3c4
+      internalID: -3454469891338825417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_150
+      rect:
+        serializedVersion: 2
+        x: 5236
+        y: 5400
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb1f8ef385af8e44b0a0ad88d655c67
+      internalID: 3744894871066687048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_151
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 5320
+        width: 32
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9a4b7d4a53918449b9d9f81d607368
+      internalID: 2781486975230351052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_152
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 5376
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eadc413f3ebd84aa9a5d66e776f3ee
+      internalID: -4349683967552999578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_153
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 5232
+        width: 220
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51412a897da1514aad945bcec0f474b
+      internalID: -6633540706019885313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_154
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 5376
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fffc240cea94e4396b2124ae15f5d7
+      internalID: 8159051058937309490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_155
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5376
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbda2e6f68836498203a8a0c6a5e5b
+      internalID: -9159514355281318504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_156
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 5344
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b363892b7d8544ca249af03b5261f6
+      internalID: -1811770431543731406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_157
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4736
+        width: 460
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a63632bb7474354cbd0ddd6560e1a30
+      internalID: 8450153984810206652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_158
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5344
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b6585fab98b545abd463dea0627f0
+      internalID: -616060550718718209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_159
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 5364
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4e35517cb60d4282a90d633684378
+      internalID: -6178619501952558614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_160
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 5360
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b667b9c8e5e40c242af1086fa59c6e6f
+      internalID: 4923639990452197555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_161
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 5328
+        width: 220
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db9c4e7f69ff1478f8728b830c43f7
+      internalID: -2068220440575668679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_162
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 5344
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26693034985ffbc448a737bbc788c1bc
+      internalID: 1930643343216097480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_163
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5300
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6616bf319d828e47b34eb562f81d651
+      internalID: 1006841950582534798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_164
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5344
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded778caa0885141bad66ffece86dce
+      internalID: -3303968656857965726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_165
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4704
+        width: 484
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e95c4d78b561c4ebed36d33d54cf7b
+      internalID: -8209047799605773300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_166
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 5344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c098931b56f7e34d8607caf2f9d8c24
+      internalID: -1781647992442046817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_167
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 5336
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56ac6550f3b2574a9f957a371504738
+      internalID: -4043373414455006662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_168
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 5340
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480429e5db29e3a499ed3a3f61a45b03
+      internalID: -4146342147187090314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_169
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5340
+        width: 192
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6377ffc7c465324589334f96e706af5
+      internalID: -1989047674862487616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 5312
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7710a58e65a19404db7fb89aee6ad08b
+      internalID: -3979848270505417488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_171
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5272
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5675ecad58495d542a9fbf8c6f217718
+      internalID: -4105657005026823042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_172
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 5280
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685af1fdbc14ac45bdee85838561477
+      internalID: 5017653668771012684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_173
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 5324
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ed6aaff3e2664784b586c3c1a5576
+      internalID: 7529806340175094244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_174
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 5308
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a605365cfcaf8d8459803c8a56e90d80
+      internalID: -2875748102170587426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_175
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 5316
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac81a26aece4694fa5475f6894b5b32
+      internalID: -1899882427545131979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_176
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 5300
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f5c23db05fbf14881dae7d58d6362b
+      internalID: 801202426072130083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_177
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 5280
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab3cc69a11688b4da5d8d6deb72fc86
+      internalID: -3287996587788601952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_178
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 5280
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3f4b7442ce8a64e85e215d2fbcc7d3
+      internalID: 876788198293170002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_179
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 5232
+        width: 132
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fcef035ec80cb4fa69da828a805508
+      internalID: 8879042643058413758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_180
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 5280
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2829e824963b584f8e0d7cd0720e07a
+      internalID: -5890955463211313688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_181
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5284
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e6c21bf16c08749b033ed1c1df4aa4
+      internalID: 9076913137315094673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_182
+      rect:
+        serializedVersion: 2
+        x: 5404
+        y: 5292
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fa8e0affb0a99468c8651768121d15
+      internalID: -5356789219923019734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_183
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 5224
+        width: 156
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189f4c276623614598702f3a52b0022
+      internalID: 8332147347104566709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_184
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 5228
+        width: 156
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287a79ae590ae14c996bd5bcc0653d7
+      internalID: -8765600015251850359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_185
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5280
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67a0e1d86bed944c9d70baceb62f545
+      internalID: 3815957062644278180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_186
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 5232
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6efea808caead418f7a6f0c0991e12
+      internalID: -6434786506673685572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_187
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 5228
+        width: 64
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a305b8f08d3a55f4db29889a2a991366
+      internalID: -1540693407812057770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_188
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 5232
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb605ebb1c50c34b83ab6bb2e844c77
+      internalID: 4473941716947751877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_189
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 4720
+        width: 36
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d699c1e659f713745acf4fecd9dc3916
+      internalID: -4196645108224670594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_190
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 5236
+        width: 288
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0165d8f3bd4415149a8c75ee9ad1c0ee
+      internalID: 7133308683089733484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_191
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 5232
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0355ee0bf57f5499f8cae4449dcb94
+      internalID: 2901717879505764560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_192
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 5224
+        width: 336
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c09bd460bc80489de12b003a8fbf6
+      internalID: 1201576922392708226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_193
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 5088
+        width: 12
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce65a53f94996f459f73a9a75fb9e6f
+      internalID: -8931898308493069606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_194
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 4672
+        width: 4
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256852d2fd0cef44adb5750a1b5640b
+      internalID: -368072667995377316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_195
+      rect:
+        serializedVersion: 2
+        x: 5152
+        y: 5040
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f4d46b8f62884abf85043b120010e
+      internalID: 162680617842783199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_196
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 5024
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb9531b13a208646a362c5387361233
+      internalID: -4607990000946675893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_197
+      rect:
+        serializedVersion: 2
+        x: 5104
+        y: 5016
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b669245cb6391a043a33f410dffba4bd
+      internalID: 6386684609485430076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_198
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 4960
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00989703573e8a4bb1352e07f62b03c
+      internalID: 843752439173562741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_199
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 4784
+        width: 232
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a695aac3bec77e4d8b62169f62e558e
+      internalID: 1469344735296775447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_200
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 4764
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2ffa72c11482a4caf686946168f7a2
+      internalID: -8180447828101807145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_201
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 4708
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04234a11f679aaa449e04150c81622d9
+      internalID: 3141293032054783112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_202
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 4688
+        width: 80
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07230eca7475b674b915349b007c621a
+      internalID: 3827943174480537740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_203
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 4688
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4677fe4b9e264993737865222e296
+      internalID: -2287361794286035392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_204
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 4688
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8337b82a2dc8794ca7202d4c27c6234
+      internalID: -3520380145889020337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_205
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3756
+        width: 624
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd141273590eee347bbcd1373938e31e
+      internalID: -7634206799045615842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_206
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 3756
+        width: 692
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f27874cb7801549b529d454d2bb3dd
+      internalID: 8187565468857479758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_207
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3756
+        width: 480
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2509254b76d9478173894be5834c3
+      internalID: -6509147853804080721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_208
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 4364
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2449f2207ba61944af76a27d3be75b9
+      internalID: -2008085093785030848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_209
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 3756
+        width: 1312
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c778db065a2147bdb5fa35a6b87f4
+      internalID: -634308522725512467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_210
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 4352
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7961a3b82ed6a7d478123cf0889bea2a
+      internalID: 7316313943687891644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_211
+      rect:
+        serializedVersion: 2
+        x: 6320
+        y: 4352
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea40e279efffe242aead23a58335428
+      internalID: 3246926940234822959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_212
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 4336
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247b6dae68aac0a449fb01a118e9f84d
+      internalID: -2770454167239014094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_213
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3744
+        width: 416
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134010e73b7d56448999d410a1c869ec
+      internalID: -592183230339597020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_214
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 3744
+        width: 412
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab68d871a2517b449d12f8a0df42e55
+      internalID: -1662490075864124043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_215
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3744
+        width: 408
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a8ffaff3a8f2540ba97f59972164b5
+      internalID: -7747951896760210808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_216
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 3744
+        width: 416
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7db33fef7045694d9f0a8116d4ee4fb
+      internalID: 8479022057498870003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_217
+      rect:
+        serializedVersion: 2
+        x: 5184
+        y: 4184
+        width: 1152
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e02ce72ca3b44689d48c796a50dac
+      internalID: -6391035133499191185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_218
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 4064
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572523d6edb3c6b429209d7a39a6ec91
+      internalID: -7655165832160316900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_219
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 4048
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80da4da084a79439cfed158d321be7
+      internalID: 708869745610843778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_220
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 4032
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2e370e1ccf1f4cbb4abb48ab2f7fe
+      internalID: -1259681523597824140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RECOVER_SOL jump scaled clr_221
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 4032
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e5aaa32f3ffdc4da9aaf7f7d572566
+      internalID: 5032012432892667576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
