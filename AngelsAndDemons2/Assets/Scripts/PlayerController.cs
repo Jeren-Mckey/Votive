@@ -96,20 +96,22 @@ public class PlayerController : MonoBehaviour
                     movementAnimator.SetBool("isRunning", true);
                 }
 
-                if (Input.GetButtonDown("P1Jump"))
+                if (Input.GetButtonDown("P1Jump") && !inAnimation)                      //added inAnimation clause for argument so that is wont jump
                 {
+                    inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
+                    StartCoroutine(waitAnimation(1));                                   //
                     movementAnimator.SetTrigger("isJumping");
                 }
                 else if (Input.GetButtonDown("P1Fire1") && !inAnimation)
                 {
-                    inAnimation = true;
-                    StartCoroutine(waitAnimation(1));
+                    //inAnimation = true;                                               //commented out to allow spamming
+                    //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
                 }
                 else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
                 {
-                    inAnimation = true;
-                    StartCoroutine(waitAnimation(1));
+                    //inAnimation = true;                                               //commented out to allow spamming   
+                    //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
                 }
             }
@@ -131,20 +133,22 @@ public class PlayerController : MonoBehaviour
                     movementAnimator.SetBool("isBacking", true); //-a
                 }
 
-                if (Input.GetButtonDown("P2Jump"))
+                if (Input.GetButtonDown("P2Jump") && !inAnimation)                      //added inAnimation clause for argument so that is wont jump
                 {
+                    inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
+                    StartCoroutine(waitAnimation(1));                                   //
                     movementAnimator.SetTrigger("isJumping");
                 }
                 else if (Input.GetButtonDown("P2Fire1") && !inAnimation)
                 {
-                    inAnimation = true;
-                    StartCoroutine(waitAnimation(1));
+                    //inAnimation = true;                                               //commented out to allow spamming
+                    //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
                 }
                 else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
                 {
-                    inAnimation = true;
-                    StartCoroutine(waitAnimation(1));
+                    //inAnimation = true;                                               //commented out to allow spamming
+                    //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
                 }
             }
