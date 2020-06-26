@@ -1090,7 +1090,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.75, y: 3.33}
+  m_Size: {x: 1.22, y: 3}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1169,7 +1169,7 @@ BoxCollider2D:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
     oldSize: {x: 1.19, y: 3}
-    newSize: {x: 2.75, y: 3.33}
+    newSize: {x: 1.22, y: 3}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -3153,6 +3153,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scene Loader
       objectReference: {fileID: 0}
+    - target: {fileID: 1826435187264043249, guid: a470957fcab2fbe4bbdffeef4376beed,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1826435187264043255, guid: a470957fcab2fbe4bbdffeef4376beed,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3628,7 +3633,7 @@ PrefabInstance:
     - target: {fileID: 4608082289123547134, guid: fe7300ed185872d4085339c01bb856ab,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4608082289123547135, guid: fe7300ed185872d4085339c01bb856ab,
         type: 3}
