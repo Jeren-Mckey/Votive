@@ -8,11 +8,8 @@ using System.Runtime.Versioning;
 
 public class PlayerController : MonoBehaviour
 {
-    [SerializeField] float jumpSpeed = 5f;
-
     //player movement animations
     public Animator movementAnimator;
-    Rigidbody2D myRigidBody;
 
     public float playerMovement; //takes speed of movement
     public GameObject playerObject;
@@ -54,7 +51,6 @@ public class PlayerController : MonoBehaviour
 
         //player movemen animations
         movementAnimator = GetComponent<Animator>();
-        myRigidBody = GetComponent<Rigidbody2D>();
         if (isPlayerOne)
             movementAnimator.runtimeAnimatorController = characters[GameManager.player1Char];
         else
@@ -105,7 +101,6 @@ public class PlayerController : MonoBehaviour
                     inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
                     StartCoroutine(waitAnimation(1));                                   //
                     movementAnimator.SetTrigger("isJumping");
-                    jump();
                 }
                 else if (Input.GetButtonDown("P1Fire1") && !inAnimation)
                 {
@@ -225,7 +220,7 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        /*
+
         //Player Jumps
         if (Input.GetKeyDown(KeyCode.Space) && !gravFlipped && playerJumps > 0)
         {
@@ -239,14 +234,7 @@ public class PlayerController : MonoBehaviour
             gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, -4), ForceMode2D.Impulse);
             playerJumps--;
         }
-        */
     }
-
-    private void jump() {
-        Vector2 jumpVelocityToAdd = new Vector2(0f, jumpSpeed);
-        myRigidBody.velocity += jumpVelocityToAdd;
-    }
-
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
