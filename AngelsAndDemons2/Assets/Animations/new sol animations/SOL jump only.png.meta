@@ -1,7 +1,97 @@
 fileFormatVersion: 2
 guid: e21a101542b9f624cb24e0d2973586b7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4926046802481023554
+    second: SOL jump only_0
+  - first:
+      213: -3500605588780297469
+    second: SOL jump only_1
+  - first:
+      213: -3911170914181613077
+    second: SOL jump only_2
+  - first:
+      213: 197640010737053063
+    second: SOL jump only_3
+  - first:
+      213: -3691345743710838303
+    second: SOL jump only_4
+  - first:
+      213: 1025324969531249454
+    second: SOL jump only_5
+  - first:
+      213: 730776762243291944
+    second: SOL jump only_6
+  - first:
+      213: -3745249579493662503
+    second: SOL jump only_7
+  - first:
+      213: 1127941558582763608
+    second: SOL jump only_8
+  - first:
+      213: 1900900158912606603
+    second: SOL jump only_9
+  - first:
+      213: -7309786660439949611
+    second: SOL jump only_10
+  - first:
+      213: 3305667788127602737
+    second: SOL jump only_11
+  - first:
+      213: 3668567259477687590
+    second: SOL jump only_12
+  - first:
+      213: 4272508041748205961
+    second: SOL jump only_13
+  - first:
+      213: 9020584721594361307
+    second: SOL jump only_14
+  - first:
+      213: 5636006559469415741
+    second: SOL jump only_15
+  - first:
+      213: 5420800818959925017
+    second: SOL jump only_16
+  - first:
+      213: 938765758239849954
+    second: SOL jump only_17
+  - first:
+      213: -4603865176842297907
+    second: SOL jump only_18
+  - first:
+      213: 5529777967849444989
+    second: SOL jump only_19
+  - first:
+      213: 1535072344665936368
+    second: SOL jump only_20
+  - first:
+      213: -8493275742165224830
+    second: SOL jump only_21
+  - first:
+      213: 5598366689202194911
+    second: SOL jump only_22
+  - first:
+      213: 4967004217542916763
+    second: SOL jump only_23
+  - first:
+      213: -4248949897345973144
+    second: SOL jump only_24
+  - first:
+      213: -1349927629803477442
+    second: SOL jump only_25
+  - first:
+      213: -3024287793309038211
+    second: SOL jump only_26
+  - first:
+      213: -3520730436777103172
+    second: SOL jump only_27
+  - first:
+      213: -5904817330494564216
+    second: SOL jump only_28
+  - first:
+      213: -1669561048403524262
+    second: SOL jump only_29
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -120,7 +210,637 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SOL jump only_0
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1394
+        width: 122
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a4291f84e31d4badbcdd54388fa23
+      internalID: 4926046802481023554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1394
+        width: 120
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4d66f3dda20c64094a99e53c84831c
+      internalID: -3500605588780297469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_2
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1394
+        width: 100
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f202615a32d7341b9c2459cd00c073
+      internalID: -3911170914181613077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_3
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1394
+        width: 120
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e48afbfd6021b64cad21d6560a2d162
+      internalID: 197640010737053063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_4
+      rect:
+        serializedVersion: 2
+        x: 2770
+        y: 1394
+        width: 120
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b998d548c78a34749a618c1a607f3336
+      internalID: -3691345743710838303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_5
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 1394
+        width: 122
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc7609d9ade234db95339decd7367f
+      internalID: 1025324969531249454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_6
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 1388
+        width: 120
+        height: 558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203085fd160ec094f861c2e8f1f987fd
+      internalID: 730776762243291944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_7
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1410
+        width: 118
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b69149f1062714aa2f367c8c7d192f
+      internalID: -3745249579493662503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_8
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1410
+        width: 120
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c165ac51dde6eb347a4079551c196615
+      internalID: 1127941558582763608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_9
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1394
+        width: 140
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24d16a3bb83d4a4cb278dea290dc3a9
+      internalID: 1900900158912606603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_10
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 1394
+        width: 142
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f9e85e48c382642ad7f98f28af2883
+      internalID: -7309786660439949611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 805
+        width: 120
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c514cc08c83e4e4592a31f81a3bbafe
+      internalID: 3305667788127602737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 803
+        width: 120
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a689ddb186dc4864996f6d57d1e5269f
+      internalID: 3668567259477687590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_13
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 803
+        width: 136
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6203a662d0230454387886f87624cc98
+      internalID: 4272508041748205961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_14
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 803
+        width: 134
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0652217b458a5d54abc6c7e9dbd6c837
+      internalID: 9020584721594361307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_15
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 803
+        width: 178
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9e79360960e044bc989db08a7d554
+      internalID: 5636006559469415741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_16
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 803
+        width: 104
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58266cd93388fc94182122d5f8aea51b
+      internalID: 5420800818959925017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_17
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 799
+        width: 106
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52490ff322f8d444e9096674f821dd87
+      internalID: 938765758239849954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_18
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 799
+        width: 172
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de36c3463cacaf8499e55719bf15c161
+      internalID: -4603865176842297907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_19
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 799
+        width: 172
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e0af1d1dee151449dcdc91703837c7
+      internalID: 5529777967849444989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_20
+      rect:
+        serializedVersion: 2
+        x: 2996
+        y: 801
+        width: 220
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e916cc63389c4e963ba307b076182
+      internalID: 1535072344665936368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_21
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 812
+        width: 220
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6246b2c6fdff740a683d3ed11a0819
+      internalID: -8493275742165224830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 232
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341bf598acc7a454c8fc5057032876d4
+      internalID: 5598366689202194911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_23
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 232
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6137c8004e1146e4891107ddc86d5b93
+      internalID: 4967004217542916763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_24
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 232
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4288c0836fcf8f4aa8be43ea6c044b5
+      internalID: -4248949897345973144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_25
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 232
+        width: 160
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d75f6cfa9c3024d9412ac5923afe51
+      internalID: -1349927629803477442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_26
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 234
+        width: 140
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d49d9e3bfc3d0444977f1509aaa005c
+      internalID: -3024287793309038211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_27
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 234
+        width: 142
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb178351f2984f439a986e91396ea75
+      internalID: -3520730436777103172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_28
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 236
+        width: 120
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e896c13d75236a41bfed589be0dc778
+      internalID: -5904817330494564216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SOL jump only_29
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 236
+        width: 122
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1ee2c7f7187774a85970324a43c106
+      internalID: -1669561048403524262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
