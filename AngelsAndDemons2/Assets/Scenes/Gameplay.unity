@@ -302,6 +302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 050a9a8255dba134982ec5e9344ee9ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpSpeed: 5
   movementAnimator: {fileID: 73437510}
   playerMovement: 4
   playerObject: {fileID: 73437505}
@@ -899,7 +900,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &519589348
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1126,8 +1127,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 050a9a8255dba134982ec5e9344ee9ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  jumpSpeed: 22
   movementAnimator: {fileID: 521783442}
-  playerMovement: 4
+  playerMovement: 6
   playerObject: {fileID: 521783441}
   isPlayerOne: 1
   characters:
@@ -1966,7 +1968,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1206136691
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3626,7 +3628,7 @@ PrefabInstance:
     - target: {fileID: 4608082289123547134, guid: fe7300ed185872d4085339c01bb856ab,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4608082289123547135, guid: fe7300ed185872d4085339c01bb856ab,
         type: 3}
