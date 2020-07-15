@@ -1,34 +1,43 @@
 fileFormatVersion: 2
-guid: 5cd3d0b8ddc5943e9bb480d50a9cb993
+guid: e57f7c53a32f97343bf46dcc28bca27a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -549308754808896057
-    second: character 0  idlebox_0
+      213: -3203310388325080660
+    second: character 0 jump spritesheet_0
   - first:
-      213: 7931830521454336165
-    second: character 0  idlebox_1
+      213: 1481104434276427486
+    second: character 0 jump spritesheet_1
   - first:
-      213: 8440934458508192249
-    second: character 0  idlebox_2
+      213: 8008132944360209521
+    second: character 0 jump spritesheet_2
   - first:
-      213: -2662037262567645357
-    second: character 0  idlebox_3
+      213: -4123389016480513367
+    second: character 0 jump spritesheet_3
   - first:
-      213: 4901689190041328255
-    second: character 0  idlebox_4
+      213: -5197794345725314723
+    second: character 0 jump spritesheet_4
   - first:
-      213: -8682844244988962107
-    second: character 0  idlebox_5
+      213: 4062075658823106759
+    second: character 0 jump spritesheet_5
   - first:
-      213: 2613925782775084099
-    second: character 0  idlebox_6
+      213: 5334822025491650158
+    second: character 0 jump spritesheet_6
   - first:
-      213: -3036106128190322463
-    second: character 0  idlebox_7
+      213: -5334996620013900901
+    second: character 0 jump spritesheet_7
   - first:
-      213: -3494623280750278857
-    second: character 0  idlebox_8
+      213: -3145747737838642187
+    second: character 0 jump spritesheet_8
+  - first:
+      213: -6144867309733258705
+    second: character 0 jump spritesheet_9
+  - first:
+      213: -5326532451550115973
+    second: character 0 jump spritesheet_10
+  - first:
+      213: 3227338431035718224
+    second: character 0 jump spritesheet_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -90,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -102,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -114,7 +123,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,7 +135,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -138,7 +147,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 2
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -149,190 +158,253 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character 0  idlebox_0
+      name: character 0 jump spritesheet_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 691
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.3140276, y: 0.035106577}
+        x: 77
+        y: 1389
+        width: 155
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 299093b3a07a4334fb8a4153017039a0
-      internalID: -549308754808896057
+      spriteID: 3276e8b1ae0f2e74db32833fd808c137
+      internalID: -3203310388325080660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_1
+      name: character 0 jump spritesheet_1
       rect:
         serializedVersion: 2
-        x: 275
-        y: 691
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31905362, y: 0.026804881}
+        x: 310
+        y: 1389
+        width: 155
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c12a6203c092e5d4195786b4a74e75d7
-      internalID: 7931830521454336165
+      spriteID: 0b9df36d8aaf8d34692e13c66496014a
+      internalID: 1481104434276427486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_2
+      name: character 0 jump spritesheet_2
       rect:
         serializedVersion: 2
-        x: 550
-        y: 691
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31402767, y: 0.03925752}
+        x: 548
+        y: 1389
+        width: 90
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ab1e69ff02a0ad498e83b60a477736e
-      internalID: 8440934458508192249
+      spriteID: b6c7adf076ab99e42ab708ba6c29d34d
+      internalID: 8008132944360209521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_3
+      name: character 0 jump spritesheet_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 359
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31402755, y: 0.03510667}
+        x: 788
+        y: 1389
+        width: 84
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e236963cc3e28b14ea9cb3b17b44d790
-      internalID: -2662037262567645357
+      spriteID: 55cdd4a18e5270743835a64294a8cf16
+      internalID: -4123389016480513367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_4
+      name: character 0 jump spritesheet_4
       rect:
         serializedVersion: 2
-        x: 275
-        y: 360
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31905374, y: 0.03510667}
+        x: 1022
+        y: 1389
+        width: 77
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d57b592c2fad9624ba6f99965d82bd97
-      internalID: 4901689190041328255
+      spriteID: 8d7cc20808360d544983ca1d6e4cbf6c
+      internalID: -5197794345725314723
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_5
+      name: character 0 jump spritesheet_5
       rect:
         serializedVersion: 2
-        x: 550
-        y: 360
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31905386, y: 0.026805064}
+        x: 1255
+        y: 1389
+        width: 81
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d64321671ac1d6b47addca158e2b5d2f
-      internalID: -8682844244988962107
+      spriteID: dc388b5e37c57544fa29f5499f3d8016
+      internalID: 4062075658823106759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_6
+      name: character 0 jump spritesheet_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 26
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31905383, y: 0.03095581}
+        x: 1445
+        y: 1389
+        width: 155
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1129f91affc45648a790356fb17710a
-      internalID: 2613925782775084099
+      spriteID: 2d280d8d729324147b1712dc43f2b90d
+      internalID: 5334822025491650158
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_7
+      name: character 0 jump spritesheet_7
       rect:
         serializedVersion: 2
-        x: 275
-        y: 25
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31905374, y: 0.039257552}
+        x: 1624
+        y: 1389
+        width: 232
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d3a297076bb91445bb248452698cee8
-      internalID: -3036106128190322463
+      spriteID: 195187803c42fe3419bc828e12eb88dc
+      internalID: -5334996620013900901
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0  idlebox_8
+      name: character 0 jump spritesheet_8
       rect:
         serializedVersion: 2
-        x: 551
-        y: 26
-        width: 275
-        height: 333
-      alignment: 9
-      pivot: {x: 0.31402743, y: 0.03095581}
+        x: 56
+        y: 733
+        width: 163
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20a554b22d3d844468db6c8204edef87
-      internalID: -3494623280750278857
+      spriteID: e367becdfc85a1c448a83fb239fedb6c
+      internalID: -3145747737838642187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 jump spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 730
+        width: 178
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33a59a7e4f3d1b4582c3e4b153f74b7
+      internalID: -6144867309733258705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 jump spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 732
+        width: 155
+        height: 659
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79174a2758a2f3a488b82400bf206b00
+      internalID: -5326532451550115973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 jump spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 730
+        width: 232
+        height: 659
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c418727e6efd0743835c3b3d9e82cb0
+      internalID: 3227338431035718224
       vertices: []
       indices: 
       edges: []

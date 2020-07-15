@@ -20,10 +20,10 @@ public class PlayerController : MonoBehaviour
     //public GameObject spawnPoint; //everything related to spawnPoint variable commented out for now
 
     private GameObject spawnPosition; //holds object that contains spawn location -a
-    private bool gravFlipped;
+    //private bool gravFlipped;
     private float distToGround;
     private int playerJumps;
-    private int gravSwitches;
+    //private int gravSwitches;
     private float objectHeight;
     private Vector2 screenBounds;
     private int health;
@@ -66,9 +66,9 @@ public class PlayerController : MonoBehaviour
         }
         //spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
 
-        gravFlipped = false;
+        //gravFlipped = false;
         playerJumps = 1;
-        gravSwitches = 2;
+        //gravSwitches = 2;
         distToGround = gameObject.GetComponent<Collider2D>().bounds.extents.y;
         GameManager.playerHitDelegate += spawnPlayer;
         objectHeight = transform.GetComponent<SpriteRenderer>().bounds.extents.y; //extents = size of height / 2
@@ -143,6 +143,7 @@ public class PlayerController : MonoBehaviour
                     inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
                     StartCoroutine(waitAnimation(1));                                   //
                     movementAnimator.SetTrigger("isJumping");
+                    jump();
                 }
                 else if (Input.GetButtonDown("P2Fire1") && !inAnimation)
                 {
@@ -186,6 +187,7 @@ public class PlayerController : MonoBehaviour
             //gravSwitches = 1;
         }
 
+        /*
         //Gravity Switch
         if (Input.GetKeyDown(KeyCode.V) && gravSwitches > 0)
         {
@@ -196,11 +198,8 @@ public class PlayerController : MonoBehaviour
             gravSwitches--;
         }
 
-        //Reset Player
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-
-        }
+        */
+        
 
         //Player Movement
         if (isPlayerOne && hittable && !GameManager.isPaused)
@@ -254,7 +253,7 @@ public class PlayerController : MonoBehaviour
         if (collision.collider.tag == "Floor" || collision.collider.tag == "Object")
         {
             playerJumps = 1;
-            gravSwitches = 1;
+            //gravSwitches = 1;
         }
         /*
         else if (collision.collider.tag == "Enemy")
@@ -296,7 +295,7 @@ public class PlayerController : MonoBehaviour
         {
             other.hittable = false;
             //Reset Gravity
-            gameObject.GetComponent<Rigidbody2D>().gravityScale = 1;
+            //gameObject.GetComponent<Rigidbody2D>().gravityScale = 1; ***************source of bug where if sol damages other player, her jumps become higher
 
             //Trigger event
             

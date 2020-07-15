@@ -128,6 +128,132 @@ TextureImporter:
   - first:
       213: -3463512526278824830
     second: character 0 flinch fall box_41
+  - first:
+      213: -6025022494439338226
+    second: flinch fall spritesheet_0
+  - first:
+      213: 6049810024064715068
+    second: flinch fall spritesheet_1
+  - first:
+      213: 4482855217462741769
+    second: flinch fall spritesheet_2
+  - first:
+      213: -1491924576919766055
+    second: flinch fall spritesheet_3
+  - first:
+      213: -5066392727062171963
+    second: flinch fall spritesheet_4
+  - first:
+      213: 3457068167686586545
+    second: flinch fall spritesheet_5
+  - first:
+      213: 6028739515202947991
+    second: flinch fall spritesheet_6
+  - first:
+      213: 5975407748979702193
+    second: flinch fall spritesheet_7
+  - first:
+      213: -7518433508699275124
+    second: flinch fall spritesheet_8
+  - first:
+      213: -7191011377872172049
+    second: flinch fall spritesheet_9
+  - first:
+      213: 8648262069510300326
+    second: flinch fall spritesheet_10
+  - first:
+      213: -4955312950593018460
+    second: flinch fall spritesheet_11
+  - first:
+      213: 3013772806971528966
+    second: flinch fall spritesheet_12
+  - first:
+      213: 5209249853139019382
+    second: flinch fall spritesheet_13
+  - first:
+      213: 5009095845407094348
+    second: flinch fall spritesheet_14
+  - first:
+      213: -7108513476749764473
+    second: flinch fall spritesheet_15
+  - first:
+      213: 3713496813716841942
+    second: flinch fall spritesheet_16
+  - first:
+      213: -6783005385168779037
+    second: flinch fall spritesheet_17
+  - first:
+      213: -6702751209624548524
+    second: flinch fall spritesheet_18
+  - first:
+      213: 924393348039730351
+    second: flinch fall spritesheet_19
+  - first:
+      213: -3612632996560794571
+    second: flinch fall spritesheet_20
+  - first:
+      213: 6508697178249520745
+    second: flinch fall spritesheet_21
+  - first:
+      213: -8343112186082050028
+    second: flinch fall spritesheet_22
+  - first:
+      213: -3774955849689045272
+    second: flinch fall spritesheet_23
+  - first:
+      213: -978647129333944260
+    second: flinch fall spritesheet_24
+  - first:
+      213: -1083578692830511115
+    second: flinch fall spritesheet_25
+  - first:
+      213: -3646024437773005127
+    second: flinch fall spritesheet_26
+  - first:
+      213: 1899257082325970104
+    second: flinch fall spritesheet_27
+  - first:
+      213: 8326683122306481372
+    second: flinch fall spritesheet_28
+  - first:
+      213: 763867434600319647
+    second: flinch fall spritesheet_29
+  - first:
+      213: -7296457315361031960
+    second: flinch fall spritesheet_30
+  - first:
+      213: 8047187508307888813
+    second: flinch fall spritesheet_31
+  - first:
+      213: 7981606076488024702
+    second: flinch fall spritesheet_32
+  - first:
+      213: 3582201813941886907
+    second: flinch fall spritesheet_33
+  - first:
+      213: 8075670527419292628
+    second: flinch fall spritesheet_34
+  - first:
+      213: -8108351980258722077
+    second: flinch fall spritesheet_35
+  - first:
+      213: -7607968511273772895
+    second: flinch fall spritesheet_36
+  - first:
+      213: 1886152717593083889
+    second: flinch fall spritesheet_37
+  - first:
+      213: 3273037195476115755
+    second: flinch fall spritesheet_38
+  - first:
+      213: -3622382408694678386
+    second: flinch fall spritesheet_39
+  - first:
+      213: -2026648051703610454
+    second: flinch fall spritesheet_40
+  - first:
+      213: -8666104170147598391
+    second: flinch fall spritesheet_41
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -248,883 +374,883 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character 0 flinch fall box_0
+      name: flinch fall spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3f238babe71eb0346b6aa0e281bde275
-      internalID: 5438773382014288646
+      spriteID: 7f9a2ba2b9a49ae4fa44eeec59e4480e
+      internalID: -6025022494439338226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_1
+      name: flinch fall spritesheet_1
       rect:
         serializedVersion: 2
         x: 380
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 325603677b63f6c43b640949a3e93583
-      internalID: 7604510023143839448
+      spriteID: 11b66844ab9c80246b2d23d4dc1ee373
+      internalID: 6049810024064715068
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_2
+      name: flinch fall spritesheet_2
       rect:
         serializedVersion: 2
         x: 760
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcf2cf4c732f219429741f8f0a2c9357
-      internalID: 4752527488877242413
+      spriteID: 855bda7b18a0b484ca2843b1e478c67a
+      internalID: 4482855217462741769
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_3
+      name: flinch fall spritesheet_3
       rect:
         serializedVersion: 2
-        x: 1142
+        x: 1140
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7392b4b3093888e4380011ae0850bfe7
-      internalID: -3345373165750412452
+      spriteID: c37dff98e7270f94e876d25c0d36dec4
+      internalID: -1491924576919766055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_4
+      name: flinch fall spritesheet_4
       rect:
         serializedVersion: 2
         x: 1520
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e8c71e941b8d8f4eadc17449569ad81
-      internalID: 8681153936549927544
+      spriteID: 2ac61db9e28f11342be331f3825d1713
+      internalID: -5066392727062171963
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_5
+      name: flinch fall spritesheet_5
       rect:
         serializedVersion: 2
         x: 1900
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fe4732e5a804e3f4f8477596acc061d8
-      internalID: 2325829014680857522
+      spriteID: 23b62670e70bdef43b78bab4cf15bd2b
+      internalID: 3457068167686586545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_6
+      name: flinch fall spritesheet_6
       rect:
         serializedVersion: 2
         x: 2280
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 497c0598d2f723e42986ba0fdfd94ca3
-      internalID: 5445444463817852546
+      spriteID: 613d8bedc13b3f3409b6047a1f115f54
+      internalID: 6028739515202947991
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_7
+      name: flinch fall spritesheet_7
       rect:
         serializedVersion: 2
         x: 2660
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20184e9faee20c34daed632026e90419
-      internalID: 3899725815102525057
+      spriteID: 6e6e41a39adeee34aa537b8c8ccd21b9
+      internalID: 5975407748979702193
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_8
+      name: flinch fall spritesheet_8
       rect:
         serializedVersion: 2
         x: 3040
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a0e9e60c3d1de644b4fc6ee83e2598d
-      internalID: 5094753442093488164
+      spriteID: 1767ae17ec3cd89429666c80c6d06976
+      internalID: -7518433508699275124
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_9
+      name: flinch fall spritesheet_9
       rect:
         serializedVersion: 2
         x: 3420
         y: 1733
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 304928cd2d9b2604789c6b685b5a542c
-      internalID: 6261906884804533069
+      spriteID: bb4ab79bd639b514a964440176e4ec16
+      internalID: -7191011377872172049
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_10
+      name: flinch fall spritesheet_10
       rect:
         serializedVersion: 2
         x: 0
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: be8bacaa4a3e4a74380ad0f99ad87a0d
-      internalID: 1426227669132395241
+      spriteID: bc4b7f29abae4ad409720ffa9dc70a39
+      internalID: 8648262069510300326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_11
+      name: flinch fall spritesheet_11
       rect:
         serializedVersion: 2
         x: 380
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6bcdf0021ae11d04b9005fa2804a586b
-      internalID: -8650629392937232216
+      spriteID: eb87767082ee5954283643cfc27d9806
+      internalID: -4955312950593018460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_12
+      name: flinch fall spritesheet_12
       rect:
         serializedVersion: 2
         x: 760
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d173f1d4f6faf0447931ae4abbfd62d3
-      internalID: 2507091329761359733
+      spriteID: 3d414369fcb05af4cbb4bebb415b4bae
+      internalID: 3013772806971528966
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_13
+      name: flinch fall spritesheet_13
       rect:
         serializedVersion: 2
         x: 1140
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6fbd19e5ba5a934eaf8cad678d5a392
-      internalID: 4076075730961453949
+      spriteID: 3986dbfc23c1de24f8b01aa445a38b25
+      internalID: 5209249853139019382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_14
+      name: flinch fall spritesheet_14
       rect:
         serializedVersion: 2
         x: 1520
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7786740ef3db93e4ba23c59347cc86b1
-      internalID: 5915044974059123398
+      spriteID: c4d5fea1e0575cf4386754a605ac3a3c
+      internalID: 5009095845407094348
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_15
+      name: flinch fall spritesheet_15
       rect:
         serializedVersion: 2
         x: 1900
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7ef78dda6e031648ba236056b3136a9
-      internalID: -857011074415120497
+      spriteID: 83ed9bc07c2057941ac0531bfdbee135
+      internalID: -7108513476749764473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_16
+      name: flinch fall spritesheet_16
       rect:
         serializedVersion: 2
         x: 2280
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6d893732869f41449868a2633f7cd9fa
-      internalID: 5170166978308816963
+      spriteID: f397364d5e9a6e14f80071a16df5acba
+      internalID: 3713496813716841942
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_17
+      name: flinch fall spritesheet_17
       rect:
         serializedVersion: 2
         x: 2660
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f58b6c2e04a3c744c8f578ac4e70ad0b
-      internalID: 4852626055041421070
+      spriteID: 9ef9caa18fbc56c49b8739656ecaa16d
+      internalID: -6783005385168779037
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_18
+      name: flinch fall spritesheet_18
       rect:
         serializedVersion: 2
         x: 3040
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ba2582903a44b24cbda6cc223e03f71
-      internalID: 7172842833315646106
+      spriteID: bee332c38e6be31429087411bce85afa
+      internalID: -6702751209624548524
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_19
+      name: flinch fall spritesheet_19
       rect:
         serializedVersion: 2
         x: 3420
         y: 1418
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f98b0ec87791844f9defb16650d7405
-      internalID: 2893793926042509296
+      spriteID: 5c24ed4f760c5f94491b4ed9f3be3a57
+      internalID: 924393348039730351
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_20
+      name: flinch fall spritesheet_20
       rect:
         serializedVersion: 2
         x: 0
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26ae738f4aab8564684c044bf944e277
-      internalID: 6422285859735927539
+      spriteID: fa98e7479d7a28940bd9252023a189a2
+      internalID: -3612632996560794571
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_21
+      name: flinch fall spritesheet_21
       rect:
         serializedVersion: 2
         x: 380
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6df51881fecb1d14b8549ec5afe1b51e
-      internalID: -8013812618377821560
+      spriteID: 853aec0d6db5150469f9f995a3f8e3c4
+      internalID: 6508697178249520745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_22
+      name: flinch fall spritesheet_22
       rect:
         serializedVersion: 2
         x: 760
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8b5bc8bf94e8cb4cb2adf160a4e5604
-      internalID: -846623610218585664
+      spriteID: e8978c08a635c4e4fb11e1eedc4b459c
+      internalID: -8343112186082050028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_23
+      name: flinch fall spritesheet_23
       rect:
         serializedVersion: 2
         x: 1140
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd8d8327659494d42ad69905919ee3a1
-      internalID: -7170416520758004293
+      spriteID: fc566fb0631cc8a488aaafa03ccbe388
+      internalID: -3774955849689045272
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_24
+      name: flinch fall spritesheet_24
       rect:
         serializedVersion: 2
         x: 1520
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 254154e15ae3631408870033d1f199ce
-      internalID: -6887593273959221604
+      spriteID: 5f923c689a382ea4484562f664dcfacd
+      internalID: -978647129333944260
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_25
+      name: flinch fall spritesheet_25
       rect:
         serializedVersion: 2
         x: 1900
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c24685d1ab6ae64d9152c12e7850f60
-      internalID: 604061197033454856
+      spriteID: cc57627eb2d9144449dcc8322b0d4af2
+      internalID: -1083578692830511115
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_26
+      name: flinch fall spritesheet_26
       rect:
         serializedVersion: 2
-        x: 2285
+        x: 2280
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 679d0479d06d49248b4e5607b2a76d3b
-      internalID: -2755606665005701965
+      spriteID: 259ba1b8adaf9984a8c71425732ec27b
+      internalID: -3646024437773005127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_27
+      name: flinch fall spritesheet_27
       rect:
         serializedVersion: 2
         x: 2660
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5394024512f2b794b8433a58e166eda0
-      internalID: -6039020130092777250
+      spriteID: c370d6cc2c9a3fc41a22229a041d5265
+      internalID: 1899257082325970104
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_28
+      name: flinch fall spritesheet_28
       rect:
         serializedVersion: 2
         x: 3040
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 84508ab7d014fcf46973f675d8bc041f
-      internalID: -1773149330426557890
+      spriteID: a3a5d20e20905b44782e49d6844810e5
+      internalID: 8326683122306481372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_29
+      name: flinch fall spritesheet_29
       rect:
         serializedVersion: 2
         x: 3420
         y: 1103
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2dad7a03987a9c47a58e293e5d58bc1
-      internalID: 3196502061452195972
+      spriteID: 2c14651c4938c7440b88d8f558a395cb
+      internalID: 763867434600319647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_30
+      name: flinch fall spritesheet_30
       rect:
         serializedVersion: 2
         x: 0
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 38b385e92b81a5c4f827c20af5523a2c
-      internalID: -2576832056986473909
+      spriteID: c82db6bc04ea68f47bee709975d5e4cb
+      internalID: -7296457315361031960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_31
+      name: flinch fall spritesheet_31
       rect:
         serializedVersion: 2
         x: 380
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9ab7509ad506fa4482e8ccecf305854
-      internalID: 1815965779255281142
+      spriteID: 5e417daa310080341be876a8b78bc355
+      internalID: 8047187508307888813
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_32
+      name: flinch fall spritesheet_32
       rect:
         serializedVersion: 2
         x: 760
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4cf2f686da9ef64c80b241907671d50
-      internalID: -6335901286950493791
+      spriteID: ee577a4cda4a192498db558133a29427
+      internalID: 7981606076488024702
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_33
+      name: flinch fall spritesheet_33
       rect:
         serializedVersion: 2
         x: 1140
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d43c734fa2f94eb40bce7cb2ccd2c7c8
-      internalID: 3294150048832472546
+      spriteID: 38ee241ff9f9756429229852306a9a48
+      internalID: 3582201813941886907
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_34
+      name: flinch fall spritesheet_34
       rect:
         serializedVersion: 2
         x: 1520
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3396fe42a1260224c9dfcd595608b4fc
-      internalID: -6774497065820542455
+      spriteID: 20351821dc1b6264f856b33fc6a359af
+      internalID: 8075670527419292628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_35
+      name: flinch fall spritesheet_35
       rect:
         serializedVersion: 2
         x: 1900
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28fa9a1fce2bcae4aa9b51743e624627
-      internalID: -2576436396216144445
+      spriteID: 8e29fe572e7c55f41b55854d03f34ab3
+      internalID: -8108351980258722077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_36
+      name: flinch fall spritesheet_36
       rect:
         serializedVersion: 2
         x: 2280
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d773bae6a89b151498a6439116038ef7
-      internalID: -8350007012167180247
+      spriteID: 437c4bf376d13b84fb8560997d41d1bb
+      internalID: -7607968511273772895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_37
+      name: flinch fall spritesheet_37
       rect:
         serializedVersion: 2
         x: 2660
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313eceb2e49012c4eb0f2ff6118e83c8
-      internalID: -6167957978208436039
+      spriteID: 43b2783b9b728674194ca7241c06050d
+      internalID: 1886152717593083889
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_38
+      name: flinch fall spritesheet_38
       rect:
         serializedVersion: 2
         x: 3040
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8aa8ddc43364c3a45a06fc0e4d3820fb
-      internalID: 65561766630368904
+      spriteID: 4ad9db95649d9fb4a9254cb6bfcf3390
+      internalID: 3273037195476115755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_39
+      name: flinch fall spritesheet_39
       rect:
         serializedVersion: 2
         x: 3420
         y: 788
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 561c996f3feddbe40beeaaa65e9f5dfe
-      internalID: 4954989375731466742
+      spriteID: 454385c6997c17d4faf93be61da2d213
+      internalID: -3622382408694678386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_40
+      name: flinch fall spritesheet_40
       rect:
         serializedVersion: 2
         x: 0
         y: 473
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 28d3b0cc356da054e88b7b25609e25db
-      internalID: 4428966688382173136
+      spriteID: 230a8e80942c3ee4d950b7b1fe127609
+      internalID: -2026648051703610454
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 flinch fall box_41
+      name: flinch fall spritesheet_41
       rect:
         serializedVersion: 2
         x: 0
         y: 158
         width: 380
         height: 315
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.3420576, y: 0.05}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31e260ba13cd3f746be58d386a435363
-      internalID: -3463512526278824830
+      spriteID: d6524a255784d6b4a91a50c8f2c786df
+      internalID: -8666104170147598391
       vertices: []
       indices: 
       edges: []
