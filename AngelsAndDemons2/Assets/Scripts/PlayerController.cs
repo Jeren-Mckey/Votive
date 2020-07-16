@@ -324,6 +324,7 @@ public class PlayerController : MonoBehaviour
     public void isHit()
     {
         decHealth myHealth;
+        GetComponent<AudioSource>().Play();
         movementAnimator.SetBool("isFalling", true);
 
         if(isPlayerOne)
