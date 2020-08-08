@@ -36,7 +36,7 @@ public class GameManager : MonoBehaviour
     public static void loadWinner(bool winner)
     {
         player1won = winner;
-        //SceneManager.LoadScene("Win Screen");
+        SceneManager.LoadScene("Win Screen");
         winnerFound = true;
     }
 }
