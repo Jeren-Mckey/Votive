@@ -119,6 +119,19 @@ public class PlayerController : MonoBehaviour
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
                 }
+                //Added for the special attack input
+                else if (Input.GetButtonDown("P1Special") && !inAnimation)
+                {
+                    incEnergy myEnergy;
+
+                    myEnergy = GameObject.Find("P1EnergyBar").GetComponent("incEnergy") as incEnergy;
+
+                    if (myEnergy.startingEnergy == 6)
+                    {
+                        //movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
+                        myEnergy.resetEnergy();
+                    }
+                }
             }
             else if (hittable)
             {
@@ -156,6 +169,19 @@ public class PlayerController : MonoBehaviour
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
+                }
+                //Added for the special attack input
+                else if (Input.GetButtonDown("P2Special") && !inAnimation)
+                {
+                    incEnergy myEnergy;
+
+                    myEnergy = GameObject.Find("P2EnergyBar").GetComponent("incEnergy") as incEnergy;
+
+                    if (myEnergy.startingEnergy == 6)
+                    {
+                        //movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
+                        myEnergy.resetEnergy();
+                    }
                 }
             }
             else
@@ -298,9 +324,17 @@ public class PlayerController : MonoBehaviour
             //gameObject.GetComponent<Rigidbody2D>().gravityScale = 1; ***************source of bug where if sol damages other player, her jumps become higher
 
             //Trigger event
-            
+
+            onHit();
             other.isHit();
-   
+
+        }
+
+        else if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("special") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solSpecial"))
+        && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable)
+        {
+            other.hittable = false;
+            other.isDamaged();
         }
     }
 
@@ -321,22 +355,49 @@ public class PlayerController : MonoBehaviour
         else return false;
     }
 
+    public void onHit()
+    {
+        incEnergy myEnergy;
+
+        if (isPlayerOne)
+            myEnergy = GameObject.Find("P1EnergyBar").GetComponent("incEnergy") as incEnergy;
+        else
+            myEnergy = GameObject.Find("P2EnergyBar").GetComponent("incEnergy") as incEnergy;
+
+        myEnergy.increaseEnergy();
+    }
+
     public void isHit()
+    {
+        GetComponent<AudioSource>().Play();
+        movementAnimator.SetBool("isFalling", true);
+
+        StartCoroutine(hitWait());
+    }
+
+    public void isDamaged()
     {
         decHealth myHealth;
         GetComponent<AudioSource>().Play();
         movementAnimator.SetBool("isFalling", true);
 
-        if(isPlayerOne)
+        if (isPlayerOne)
             myHealth = GameObject.Find("P1HealthBar").GetComponent("decHealth") as decHealth;
         else
             myHealth = GameObject.Find("P2HealthBar").GetComponent("decHealth") as decHealth;
-            
+
         myHealth.changeLife();
-        StartCoroutine(hitWait());
+        StartCoroutine(damageWait());
     }
 
     IEnumerator hitWait()
+    {
+        yield return new WaitForSeconds(1);
+
+        hittable = true;
+    }
+
+    IEnumerator damageWait()
     {
         yield return new WaitForSeconds(1);
         decHealth myHealth;
@@ -346,7 +407,8 @@ public class PlayerController : MonoBehaviour
             if (myHealth.startingLife == 0)
                 GameManager.loadWinner(false);
         }
-        else {
+        else
+        {
             myHealth = GameObject.Find("P2HealthBar").GetComponent("decHealth") as decHealth;
             if (myHealth.startingLife == 0)
                 GameManager.loadWinner(true);
