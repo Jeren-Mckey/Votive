@@ -33,6 +33,8 @@ public class PlayerController : MonoBehaviour
 
     private bool pauseMovement = false; //flag to stop player movement
 
+    incEnergy myEnergy;
+
     // -a
     void Awake()
     {
@@ -173,13 +175,15 @@ public class PlayerController : MonoBehaviour
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P2Special") && !inAnimation)
                 {
-                    incEnergy myEnergy;
+                    
 
                     myEnergy = GameObject.Find("P2EnergyBar").GetComponent("incEnergy") as incEnergy;
 
                     if (myEnergy.startingEnergy == 6)
                     {
-                        //movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
+                        inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
+                        StartCoroutine(waitAnimation(1));
+                        movementAnimator.SetTrigger("isSuper");                         //commented out since trigger does not exist yet
                         myEnergy.resetEnergy();
                     }
                 }
@@ -330,7 +334,7 @@ public class PlayerController : MonoBehaviour
 
         }
 
-        else if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("special") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solSpecial"))
+        else if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("special") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solSpecial"))          //****new sol animation state must be named "solSpecial"
         && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable)
         {
             other.hittable = false;

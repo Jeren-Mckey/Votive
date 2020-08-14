@@ -1,76 +1,82 @@
 fileFormatVersion: 2
-guid: b75aeff8a24e9f74683c3f7abf3256f8
+guid: b4d9b3a563aba7b42a5c7a5d0480fd21
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9144219162387904020
-    second: Sol fall small_0
+      213: -1979586832404985170
+    second: character 0 SUPER_0
   - first:
-      213: 6905580158976144278
-    second: Sol fall small_1
+      213: 8998322744422701661
+    second: character 0 SUPER_1
   - first:
-      213: 1006002943343909336
-    second: Sol fall small_2
+      213: -3488001666679813679
+    second: character 0 SUPER_2
   - first:
-      213: 7674524649315430000
-    second: Sol fall small_3
+      213: 8993283523430680244
+    second: character 0 SUPER_3
   - first:
-      213: 288485382673679394
-    second: Sol fall small_4
+      213: 8356798685588101311
+    second: character 0 SUPER_4
   - first:
-      213: 7299635783620135354
-    second: Sol fall small_5
+      213: 438782799725828580
+    second: character 0 SUPER_5
   - first:
-      213: 7321622280424950422
-    second: Sol fall small_6
+      213: 8565981046035865394
+    second: character 0 SUPER_6
   - first:
-      213: -3847185698633578321
-    second: Sol fall small_7
+      213: -7548676250704280636
+    second: character 0 SUPER_7
   - first:
-      213: 6105053832794854273
-    second: Sol fall small_8
+      213: 2989307887396191139
+    second: character 0 SUPER_8
   - first:
-      213: 3661368270104065696
-    second: Sol fall small_9
+      213: 1949660893775418119
+    second: character 0 SUPER_9
   - first:
-      213: 8050734240973194523
-    second: Sol fall small_10
+      213: -6174939556579621273
+    second: character 0 SUPER_10
   - first:
-      213: 261358568653126029
-    second: Sol fall small_11
+      213: -446417404129461444
+    second: character 0 SUPER_11
   - first:
-      213: 4591362268075637462
-    second: Sol fall small_12
+      213: -3911412486040565848
+    second: character 0 SUPER_12
   - first:
-      213: -2177108605615144752
-    second: Sol fall small_13
+      213: 7941746764997947918
+    second: character 0 SUPER_13
   - first:
-      213: 7692069099855169639
-    second: Sol fall small_14
+      213: 7037229036522664055
+    second: character 0 SUPER_14
   - first:
-      213: 102706883428670994
-    second: Sol fall small_15
+      213: -6148134317385679324
+    second: character 0 SUPER_15
   - first:
-      213: -4881996672125560552
-    second: Sol fall small_16
+      213: 7214319224924894757
+    second: character 0 SUPER_16
   - first:
-      213: -7498504809557589182
-    second: Sol fall small_17
+      213: -6239794736775981377
+    second: character 0 SUPER_17
   - first:
-      213: -209905169480464567
-    second: Sol fall small_18
+      213: 1081933947970604013
+    second: character 0 SUPER_18
   - first:
-      213: -8601829193704394305
-    second: Sol fall small_19
+      213: 8224701700454348536
+    second: character 0 SUPER_19
   - first:
-      213: 3283677836960019686
-    second: Sol fall small_20
+      213: -1804886375001713900
+    second: character 0 SUPER_20
   - first:
-      213: -1798189263118896492
-    second: Sol fall small_21
+      213: -3533920702773950133
+    second: character 0 SUPER_21
   - first:
-      213: 4846392086827592944
-    second: Sol fall small_22
+      213: 6622502718566725621
+    second: character 0 SUPER_22
+  - first:
+      213: 4630166769909139107
+    second: character 0 SUPER_23
+  - first:
+      213: -3543139821341818623
+    second: character 0 SUPER_24
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -191,13 +197,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Sol fall small_0
+      name: character 0 SUPER_0
       rect:
         serializedVersion: 2
-        x: 696
-        y: 1594
-        width: 120
-        height: 300
+        x: 164
+        y: 3602
+        width: 208
+        height: 256
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,356 +211,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47bd84a3b17599446bb3cf2fbc0102d8
-      internalID: -9144219162387904020
+      spriteID: 24f401a5efba22d48a650d4bf180fb3a
+      internalID: -1979586832404985170
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sol fall small_1
+      name: character 0 SUPER_1
       rect:
         serializedVersion: 2
-        x: 1228
-        y: 1596
-        width: 134
-        height: 302
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7937276e89aaa64783cddc3738d7157
-      internalID: 6905580158976144278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_2
-      rect:
-        serializedVersion: 2
-        x: 1708
-        y: 1666
-        width: 214
-        height: 270
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 73413267173e9d74993c2398b2a82558
-      internalID: 1006002943343909336
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_3
-      rect:
-        serializedVersion: 2
-        x: 2196
-        y: 1722
-        width: 276
-        height: 178
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fbb8d33d5836d87488e87ed660ea55d5
-      internalID: 7674524649315430000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_4
-      rect:
-        serializedVersion: 2
-        x: 2782
-        y: 1760
-        width: 316
-        height: 132
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 080c7de18ee8ee14aa532f00ffe8196a
-      internalID: 288485382673679394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 1300
-        width: 278
-        height: 190
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 027de7449ae3b0b48904c5c4bf96cf7e
-      internalID: 7299635783620135354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_6
-      rect:
-        serializedVersion: 2
-        x: 860
-        y: 1240
-        width: 258
-        height: 126
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f04652927780e5b4c94975595c4068b9
-      internalID: 7321622280424950422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_7
-      rect:
-        serializedVersion: 2
-        x: 1464
-        y: 1228
-        width: 260
-        height: 134
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6b5bdfb27fc119b4ba8531096eea0942
-      internalID: -3847185698633578321
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_8
-      rect:
-        serializedVersion: 2
-        x: 2066
-        y: 1231
-        width: 258
-        height: 136
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba65122fe3bbef142ac70c60c3c1f28c
-      internalID: 6105053832794854273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_9
-      rect:
-        serializedVersion: 2
-        x: 2662
-        y: 1238
-        width: 282
-        height: 102
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eaf8637470cbd844d9002de6c36b5b40
-      internalID: 3661368270104065696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_10
-      rect:
-        serializedVersion: 2
-        x: 218
-        y: 860
-        width: 320
-        height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 371134407b368bc44b918bc7785b02c8
-      internalID: 8050734240973194523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_11
-      rect:
-        serializedVersion: 2
-        x: 820
-        y: 858
-        width: 318
-        height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3919e26f9b579fb4e9c9e412ddfe64b1
-      internalID: 261358568653126029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_12
-      rect:
-        serializedVersion: 2
-        x: 1424
-        y: 858
-        width: 318
-        height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 34ceaa01a912b67468e5b2e44160e647
-      internalID: 4591362268075637462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_13
-      rect:
-        serializedVersion: 2
-        x: 2030
-        y: 860
-        width: 320
-        height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb3b5f9314595a04e81abd2214466f14
-      internalID: -2177108605615144752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_14
-      rect:
-        serializedVersion: 2
-        x: 2638
-        y: 860
-        width: 320
-        height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e8a9cc873f7b6464ba431102068dfbb8
-      internalID: 7692069099855169639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_15
-      rect:
-        serializedVersion: 2
-        x: 872
-        y: 538
-        width: 260
-        height: 160
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: badf884c06c9f9243acbd7e365181be5
-      internalID: 102706883428670994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_16
-      rect:
-        serializedVersion: 2
-        x: 1462
-        y: 588
-        width: 228
-        height: 160
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a95a9e947e6d9f84dbf111493b5de8b1
-      internalID: -4881996672125560552
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_17
-      rect:
-        serializedVersion: 2
-        x: 2108
-        y: 566
+        x: 1156
+        y: 3602
         width: 210
-        height: 246
+        height: 256
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,20 +232,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62a4152d5f787184993f61c7304f12f0
-      internalID: -7498504809557589182
+      spriteID: 5004e16071f3ae24b8785c52be992090
+      internalID: 8998322744422701661
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sol fall small_18
+      name: character 0 SUPER_2
       rect:
         serializedVersion: 2
-        x: 2782
-        y: 534
-        width: 174
-        height: 316
+        x: 2154
+        y: 3600
+        width: 206
+        height: 268
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,20 +253,461 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 142ed3aa31e1ea64cabc3ed58df4963a
-      internalID: -209905169480464567
+      spriteID: 5cd50d8dc4a814d48968cde3a6c75bfc
+      internalID: -3488001666679813679
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Sol fall small_19
+      name: character 0 SUPER_3
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3596
+        width: 246
+        height: 448
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39192730f6655574b981d3a6d08b48f7
+      internalID: 8993283523430680244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 3088
+        width: 346
+        height: 476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e9ea1a2eb10c84b9b7fc4796a5955c
+      internalID: 8356798685588101311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_5
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 3092
+        width: 346
+        height: 476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0b72534348e1e4c958cfbcaf4db6bf
+      internalID: 438782799725828580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_6
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 3082
+        width: 354
+        height: 480
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d13aec87be004dbf195dae8e3dd8f
+      internalID: 8565981046035865394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_7
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 3082
+        width: 354
+        height: 480
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3bbdb3bf835ac4586d482d0d4b8e0d
+      internalID: -7548676250704280636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2576
+        width: 352
+        height: 482
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230960badc013d8468347c4c816f27bf
+      internalID: 2989307887396191139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_9
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 2576
+        width: 352
+        height: 482
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7c0aa1b80dfc04283f95331ff6b25c
+      internalID: 1949660893775418119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_10
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 2576
+        width: 354
+        height: 482
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5fd4932a60ce346a2486f9dbf5e339
+      internalID: -6174939556579621273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_11
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 2072
+        width: 868
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90dd223bfcb12c4582907babc2a8460
+      internalID: -446417404129461444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_12
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 2578
+        width: 368
+        height: 476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faad53882399484baa1285864cc3e85
+      internalID: -3911412486040565848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_13
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 2072
+        width: 878
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1bb4a7fdfc18c4ca293b341947aad1
+      internalID: 7941746764997947918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2072
+        width: 370
+        height: 476
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cc8157843f88d4ab27e7e73d4b6092
+      internalID: 7037229036522664055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1566
+        width: 880
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919df5d7e2b3d8e4a9346812efd31180
+      internalID: -6148134317385679324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_16
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2070
+        width: 624
+        height: 436
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147a4c85b2f07af40bc676c898f25fc4
+      internalID: 7214319224924894757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_17
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1566
+        width: 884
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f958b3a9f3a4347821172d2445dd86
+      internalID: -6239794736775981377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_18
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1566
+        width: 884
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3865821fbfec68947b02abd84c3bf983
+      internalID: 1081933947970604013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_19
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 1566
+        width: 886
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee5ae639a1b18d49970e117445922c6
+      internalID: 8224701700454348536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1060
+        width: 886
+        height: 508
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d7c405bddfe9b4fabf6e0eb2de4187
+      internalID: -1804886375001713900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_21
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1068
+        width: 784
+        height: 496
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf9f45226baa87448e23b8f6f158692
+      internalID: -3533920702773950133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_22
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1070
+        width: 402
+        height: 492
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05452196913f3804785fef0e15bd132c
+      internalID: 6622502718566725621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_23
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1072
+        width: 360
+        height: 292
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e849accef9463024dad30790f1f36e22
+      internalID: 4630166769909139107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: character 0 SUPER_24
       rect:
         serializedVersion: 2
         x: 206
-        y: 502
-        width: 318
-        height: 78
+        y: 566
+        width: 172
+        height: 284
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,71 +715,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6569b61e79290a3438b0b323dc8bc0ea
-      internalID: -8601829193704394305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_20
-      rect:
-        serializedVersion: 2
-        x: 408
-        y: 162
-        width: 116
-        height: 338
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 86e6a8d636576a647a8a255696c86032
-      internalID: 3283677836960019686
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_21
-      rect:
-        serializedVersion: 2
-        x: 1036
-        y: 164
-        width: 120
-        height: 302
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 181870b126d810d43951bd0347184b7a
-      internalID: -1798189263118896492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Sol fall small_22
-      rect:
-        serializedVersion: 2
-        x: 1644
-        y: 160
-        width: 120
-        height: 302
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: daeb4d40cfd989d43975d21324c313a9
-      internalID: 4846392086827592944
+      spriteID: b88eea0ad2b67694a8a191e6f1b702a4
+      internalID: -3543139821341818623
       vertices: []
       indices: 
       edges: []
