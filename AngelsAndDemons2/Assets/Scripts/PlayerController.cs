@@ -35,18 +35,6 @@ public class PlayerController : MonoBehaviour
 
     incEnergy myEnergy;
 
-    // -a
-    void Awake()
-    {
-        /*
-        if (isPlayerOne)
-            spawnPosition = GameObject.Find("P1Spawn");
-        else 
-            spawnPosition = GameObject.Find("P2Spawn");
-
-        this.transform.Translate(spawnPosition.transform.position);
-        */
-    }
 
 
 
@@ -54,7 +42,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
 
-        //player movemen animations
+        //player movement animations
         movementAnimator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
         if (isPlayerOne)
@@ -72,11 +60,13 @@ public class PlayerController : MonoBehaviour
         playerJumps = 1;
         //gravSwitches = 2;
         distToGround = gameObject.GetComponent<Collider2D>().bounds.extents.y;
-        GameManager.playerHitDelegate += spawnPlayer;
+        //GameManager.playerHitDelegate += spawnPlayer;
         objectHeight = transform.GetComponent<SpriteRenderer>().bounds.extents.y; //extents = size of height / 2
         screenBounds = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width,
             Screen.height, Camera.main.transform.position.z));
     }
+
+
 
     // when player is moving, play animation. 
     private void Update()
@@ -198,39 +188,76 @@ public class PlayerController : MonoBehaviour
 
     }
 
-    /*
-    IEnumerator PauseMovement(float sec)
-    {
-        pauseMovement = true;
-        yield return new WaitForSeconds(sec);
-        pauseMovement = false;
+
+
+    //************************************************************************attack points 
+    public Transform attackPt;
+    public float attackRange;
+    public GameObject player1 = GameObject.Find("Player1");
+    public GameObject player2 = GameObject.Find("Player2");
+
+    
+    //if player1 or player2's box colliders are in attack range, return true
+    public bool inAttackRange() {
+        Collider2D hitPlayer = Physics2D.OverlapCircle(attackPt.position, attackRange);
+
+        if (hitPlayer == player1.GetComponent<BoxCollider2D>() || hitPlayer == player2.GetComponent<BoxCollider2D>())
+        {
+            Debug.Log("in attack range");
+            return true;
+        }
+        return false;
+
     }
-    */
+
+    //draws red circle on attack point
+    private void OnDrawGizmosSelected(){
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(attackPt.position, attackRange);
+    }
+    //**********************************************************************************
+
+
+
+    public void attackDamage() {
+        PlayerController other;
+
+        if (isPlayerOne)
+        {
+            other = player2.GetComponent<PlayerController>();
+        }
+        else {
+            other = player1.GetComponent<PlayerController>();
+        }
+
+        if (
+                inAttackRange()
+                && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("punch") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("kick")
+                        || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solKick") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solPunch"))
+                && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1
+                && other.hittable
+            )
+        {
+            other.hittable = false;
+            onHit();
+            other.isHit();
+        }
+        else if (
+                inAttackRange() 
+                && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("special") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solSpecial"))          //****new sol animation state must be named "solSpecial"
+                && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 
+                && other.hittable && inAttackRange()
+            )
+        {
+            other.hittable = false;
+            other.isDamaged();
+        }
+
+
+    }
 
     void FixedUpdate()
     {
-
-        //Player Camera Interaction
-        if (isGrounded())
-        {
-            playerJumps = 1;
-            //gravSwitches = 1;
-        }
-
-        /*
-        //Gravity Switch
-        if (Input.GetKeyDown(KeyCode.V) && gravSwitches > 0)
-        {
-            gameObject.GetComponent<Rigidbody2D>().gravityScale = -gameObject.GetComponent<Rigidbody2D>().gravityScale;
-            gravFlipped = !gravFlipped;
-            if (gravFlipped) gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, -1), ForceMode2D.Impulse);
-            else gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 1), ForceMode2D.Impulse);
-            gravSwitches--;
-        }
-
-        */
-        
-
         //Player Movement
         if (isPlayerOne && hittable && !GameManager.isPaused)
         {
@@ -254,6 +281,32 @@ public class PlayerController : MonoBehaviour
             }
         }
 
+        //Player Attack Damage
+        attackDamage();
+
+
+
+        /*commented out due to lack of use
+        //Player Camera Interaction
+        if (isGrounded())
+        {
+            playerJumps = 1;
+            //gravSwitches = 1;
+        }
+
+        
+        //Gravity Switch
+        if (Input.GetKeyDown(KeyCode.V) && gravSwitches > 0)
+        {
+            gameObject.GetComponent<Rigidbody2D>().gravityScale = -gameObject.GetComponent<Rigidbody2D>().gravityScale;
+            gravFlipped = !gravFlipped;
+            if (gravFlipped) gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, -1), ForceMode2D.Impulse);
+            else gameObject.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, 1), ForceMode2D.Impulse);
+            gravSwitches--;
+        }
+        */
+
+
         /*
         //Player Jumps
         if (Input.GetKeyDown(KeyCode.Space) && !gravFlipped && playerJumps > 0)
@@ -271,57 +324,14 @@ public class PlayerController : MonoBehaviour
         */
     }
 
-    private void jump() {
-        Vector2 jumpVelocityToAdd = new Vector2(0f, jumpSpeed);
-        myRigidBody.velocity += jumpVelocityToAdd;
-    }
-
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-
-        if (collision.collider.tag == "Floor" || collision.collider.tag == "Object")
-        {
-            playerJumps = 1;
-            //gravSwitches = 1;
-        }
-        /*
-        else if (collision.collider.tag == "Enemy")
-        {
-            //Reset Gravity
-            gameObject.GetComponent<Rigidbody2D>().gravityScale = 1;
-
-            //Trigger event
-            GameManager.OnPlayerHit();
-            GameManager.playerHitDelegate -= spawnPlayer;
-            Destroy(this.gameObject);
-        }
-        */
-        else if (collision.collider.tag == "Obstacle")
-        {
-            //Reset Gravity
-            gameObject.GetComponent<Rigidbody2D>().gravityScale = 1;
-
-            //Particle Effects and Other things to add
-
-            //Trigger event
-            GameManager.OnPlayerHit();
-            GameManager.playerHitDelegate -= spawnPlayer;
-            Destroy(gameObject);
-        }
-        else if (collision.collider.tag == "Exit")
-        {
-            GameManager.CurrentLevel++;
-            GameManager.loadLevel();
-        }
-    }
-
+    
+    /*      //****************************IMPORTANT ORIGINAL WORKING DAMAGE SYSTEM
     private void OnCollisionStay2D(Collision2D collision)
     {
         PlayerController other = collision.gameObject.GetComponent("PlayerController") as PlayerController;
         if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("punch") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("kick")
             || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solKick") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solPunch"))
-            && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable)
+            && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable && inAttackRange())        //8/13/2020 added inAttackRange()-c
         {
             other.hittable = false;
             //Reset Gravity
@@ -335,13 +345,17 @@ public class PlayerController : MonoBehaviour
         }
 
         else if (collision.collider.tag == "Player" && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("special") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solSpecial"))          //****new sol animation state must be named "solSpecial"
-        && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable)
+        && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && other.hittable && inAttackRange())            //8/13/2020 added inAttackRange()-c
         {
             other.hittable = false;
             other.isDamaged();
         }
     }
+    */
 
+
+
+    /*
     void spawnPlayer() //spawnpoint related stuff commented out
     {
         //spawnPoint = GameObject.FindGameObjectWithTag("Spawn");
@@ -351,6 +365,16 @@ public class PlayerController : MonoBehaviour
            //go.name = gameObject.name;
         }     
     }
+    */
+
+
+    private void jump()
+    {
+        Vector2 jumpVelocityToAdd = new Vector2(0f, jumpSpeed);
+        myRigidBody.velocity += jumpVelocityToAdd;
+    }
+
+
 
     bool isGrounded()
     {
@@ -358,6 +382,8 @@ public class PlayerController : MonoBehaviour
         else if ((-1 * (transform.position.y + objectHeight)) >= screenBounds.y) return true;
         else return false;
     }
+
+
 
     public void onHit()
     {
@@ -371,6 +397,8 @@ public class PlayerController : MonoBehaviour
         myEnergy.increaseEnergy();
     }
 
+
+
     public void isHit()
     {
         GetComponent<AudioSource>().Play();
@@ -378,6 +406,8 @@ public class PlayerController : MonoBehaviour
 
         StartCoroutine(hitWait());
     }
+
+
 
     public void isDamaged()
     {
@@ -394,12 +424,16 @@ public class PlayerController : MonoBehaviour
         StartCoroutine(damageWait());
     }
 
+
+
     IEnumerator hitWait()
     {
         yield return new WaitForSeconds(1);
 
         hittable = true;
     }
+
+
 
     IEnumerator damageWait()
     {
@@ -421,9 +455,88 @@ public class PlayerController : MonoBehaviour
         hittable = true;
     }
 
+
+
     IEnumerator waitAnimation(long time)
     {
         yield return new WaitForSeconds(time);
         inAnimation = false;
     }
+
+
+
+    
+
+
+
+
+    /*
+    void Awake()
+    {
+        
+        if (isPlayerOne)
+            spawnPosition = GameObject.Find("P1Spawn");
+        else 
+            spawnPosition = GameObject.Find("P2Spawn");
+
+        this.transform.Translate(spawnPosition.transform.position);
+        
+    }
+    */
+
+
+
+    /*
+    IEnumerator PauseMovement(float sec)
+    {
+        pauseMovement = true;
+        yield return new WaitForSeconds(sec);
+        pauseMovement = false;
+    }
+    */
+
+
+
+    /* commented out due to lack of use
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+
+        if (collision.collider.tag == "Floor" || collision.collider.tag == "Object")
+        {
+            playerJumps = 1;
+            //gravSwitches = 1;
+        }
+        
+        else if (collision.collider.tag == "Enemy")
+        {
+            //Reset Gravity
+            gameObject.GetComponent<Rigidbody2D>().gravityScale = 1;
+
+            //Trigger event
+            GameManager.OnPlayerHit();
+            GameManager.playerHitDelegate -= spawnPlayer;
+            Destroy(this.gameObject);
+        }
+     
+        else if (collision.collider.tag == "Obstacle")
+        {
+            //Reset Gravity
+            gameObject.GetComponent<Rigidbody2D>().gravityScale = 1;
+
+            //Particle Effects and Other things to add
+
+            //Trigger event
+            GameManager.OnPlayerHit();
+            GameManager.playerHitDelegate -= spawnPlayer;
+            Destroy(gameObject);
+        }
+        else if (collision.collider.tag == "Exit")
+        {
+            GameManager.CurrentLevel++;
+            GameManager.loadLevel();
+        }
+    }
+    */
+
+
 }
