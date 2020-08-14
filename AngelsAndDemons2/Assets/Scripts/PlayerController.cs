@@ -102,12 +102,14 @@ public class PlayerController : MonoBehaviour
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
+                    attackDamage();
                 }
                 else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
                 {
                     //inAnimation = true;                                               //commented out to allow spamming   
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
+                    attackDamage();
                 }
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P1Special") && !inAnimation)
@@ -119,6 +121,7 @@ public class PlayerController : MonoBehaviour
                     if (myEnergy.startingEnergy == 6)
                     {
                         //movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
+                        attackDamage();
                         myEnergy.resetEnergy();
                     }
                 }
@@ -153,12 +156,14 @@ public class PlayerController : MonoBehaviour
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
+                    attackDamage();
                 }
                 else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
                 {
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
+                    attackDamage();
                 }
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P2Special") && !inAnimation)
@@ -172,6 +177,7 @@ public class PlayerController : MonoBehaviour
                         inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
                         StartCoroutine(waitAnimation(1));
                         movementAnimator.SetTrigger("isSuper");                         //commented out since trigger does not exist yet
+                        attackDamage();
                         myEnergy.resetEnergy();
                     }
                 }
@@ -238,21 +244,11 @@ public class PlayerController : MonoBehaviour
 
 
     public void attackDamage() {
-        PlayerController other;
-
-        if (isPlayerOne)
-        {
-            other = player2.GetComponent<PlayerController>();
-        }
-        else {
-            other = player1.GetComponent<PlayerController>();
-        }
+        PlayerController other = enemy().GetComponent<PlayerController>();
 
         if (
                 inAttackRange()
-                && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("punch") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("kick")
-                        || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solKick") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solPunch"))
-                && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1
+                && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1      //what is this?
                 && other.hittable
             )
         {
@@ -262,7 +258,6 @@ public class PlayerController : MonoBehaviour
         }
         else if (
                 inAttackRange() 
-                && (movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("special") || movementAnimator.GetCurrentAnimatorStateInfo(0).IsName("solSpecial"))          //****new sol animation state must be named "solSpecial"
                 && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 
                 && other.hittable && inAttackRange()
             )
@@ -300,7 +295,7 @@ public class PlayerController : MonoBehaviour
         }
 
         //Player Attack Damage
-        attackDamage();
+
 
 
 
