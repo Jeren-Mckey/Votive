@@ -34,10 +34,8 @@ public class PlayerController : MonoBehaviour
     private bool pauseMovement = false; //flag to stop player movement
 
     incEnergy myEnergy;
-
-
-
-
+    
+  
     // Start is called before the first frame update
     void Start()
     {
@@ -186,6 +184,16 @@ public class PlayerController : MonoBehaviour
         else
             movementAnimator.SetFloat("pause", 0.0f);
 
+        if (isPlayerOne) {
+            if (inAttackRange())
+                    {
+                        Debug.Log("*********in attack range");
+                    }
+                    else {
+                        Debug.Log("________not in attak range");
+                    }
+        }
+        
     }
 
 
@@ -196,14 +204,24 @@ public class PlayerController : MonoBehaviour
     public GameObject player1 = GameObject.Find("Player1");
     public GameObject player2 = GameObject.Find("Player2");
 
+    public GameObject enemy()
+    {
+        if(isPlayerOne)
+        {
+            return player2;
+        }
+        else 
+        {
+            return player1;
+        }
+    }
     
     //if player1 or player2's box colliders are in attack range, return true
     public bool inAttackRange() {
         Collider2D hitPlayer = Physics2D.OverlapCircle(attackPt.position, attackRange);
 
-        if (hitPlayer == player1.GetComponent<BoxCollider2D>() || hitPlayer == player2.GetComponent<BoxCollider2D>())
+        if (hitPlayer == enemy().GetComponent<BoxCollider2D>())
         {
-            Debug.Log("in attack range");
             return true;
         }
         return false;
