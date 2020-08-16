@@ -62,6 +62,66 @@ TextureImporter:
   - first:
       213: -3121176509904921500
     second: character 0 walk forwardbox_19
+  - first:
+      213: 9169756041118258640
+    second: walk forwards spritesheet_0
+  - first:
+      213: -1851699992740257996
+    second: walk forwards spritesheet_1
+  - first:
+      213: 5316001181694598797
+    second: walk forwards spritesheet_2
+  - first:
+      213: 4699878292941857465
+    second: walk forwards spritesheet_3
+  - first:
+      213: -1635501881493884204
+    second: walk forwards spritesheet_4
+  - first:
+      213: -1427809347521671312
+    second: walk forwards spritesheet_5
+  - first:
+      213: 8863595214451091438
+    second: walk forwards spritesheet_6
+  - first:
+      213: -8720416019420203965
+    second: walk forwards spritesheet_7
+  - first:
+      213: -7112918730329317664
+    second: walk forwards spritesheet_8
+  - first:
+      213: 2817529036510165467
+    second: walk forwards spritesheet_9
+  - first:
+      213: -6045415260701747644
+    second: walk forwards spritesheet_10
+  - first:
+      213: 637747811037469102
+    second: walk forwards spritesheet_11
+  - first:
+      213: -5473238731849387541
+    second: walk forwards spritesheet_12
+  - first:
+      213: -6678254678156911663
+    second: walk forwards spritesheet_13
+  - first:
+      213: -827729736484860328
+    second: walk forwards spritesheet_14
+  - first:
+      213: 418551590108582082
+    second: walk forwards spritesheet_15
+  - first:
+      213: -6994831728467131456
+    second: walk forwards spritesheet_16
+  - first:
+      213: 730127013249120823
+    second: walk forwards spritesheet_17
+  - first:
+      213: -4175675508518087737
+    second: walk forwards spritesheet_18
+  - first:
+      213: -2905305499147579259
+    second: walk forwards spritesheet_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -182,421 +242,421 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: character 0 walk forwardbox_0
+      name: walk forwards spritesheet_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55d88311ef328674ebc2840c4895aeea
-      internalID: 5634780673886340313
+      spriteID: a03f2a7dafe5e9f45ab39e8f7bf78d03
+      internalID: 9169756041118258640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_1
+      name: walk forwards spritesheet_1
       rect:
         serializedVersion: 2
         x: 223
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8f37441f0f83a4d4997892adb1f5f48e
-      internalID: -1244833225733112880
+      spriteID: a976e97c4b48ddc44b719370686c2fee
+      internalID: -1851699992740257996
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_2
+      name: walk forwards spritesheet_2
       rect:
         serializedVersion: 2
         x: 446
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48c317f9563c8ce478e07d322799ee4e
-      internalID: -7935308171396451706
+      spriteID: 9500a12515d797e48b51063ae37b15e3
+      internalID: 5316001181694598797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_3
+      name: walk forwards spritesheet_3
       rect:
         serializedVersion: 2
         x: 669
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27435854b24b04248b14dbb386bb4285
-      internalID: -2113476427513932604
+      spriteID: 4c36ad269b51a454e9ba1d909b6de12a
+      internalID: 4699878292941857465
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_4
+      name: walk forwards spritesheet_4
       rect:
         serializedVersion: 2
         x: 892
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43ae433d4e6f72041a23856b8bbd3351
-      internalID: -3354931602668539302
+      spriteID: 84a5e7fb63309d74895fedf7a3ac3d67
+      internalID: -1635501881493884204
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_5
+      name: walk forwards spritesheet_5
       rect:
         serializedVersion: 2
         x: 1115
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a9d163876ddd66749b3bf6c2f4210d81
-      internalID: 4152875719632335273
+      spriteID: d73e8fcc3af5af543bc503c3e29fc5e2
+      internalID: -1427809347521671312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_6
+      name: walk forwards spritesheet_6
       rect:
         serializedVersion: 2
         x: 1338
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da21e74e74c58874294d2d8f351d2c6d
-      internalID: 1601604716335022550
+      spriteID: 7cb8d064c44cfd248a058186e2bc7355
+      internalID: 8863595214451091438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_7
+      name: walk forwards spritesheet_7
       rect:
         serializedVersion: 2
-        x: 1562
+        x: 1561
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 445cacb7e0ec70042814c6cb47417804
-      internalID: -6654892773259653548
+      spriteID: c7a8fb05fee2be34ca553dad5185ffb5
+      internalID: -8720416019420203965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_8
+      name: walk forwards spritesheet_8
       rect:
         serializedVersion: 2
         x: 1784
         y: 700
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad7c46942bffa5745a120295c73d72d0
-      internalID: 4251380036655660190
+      spriteID: dae5d20783520c049a336a48b0a5de1c
+      internalID: -7112918730329317664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_9
+      name: walk forwards spritesheet_9
       rect:
         serializedVersion: 2
         x: 0
         y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8b7489ce1861624cbf890adc554adab
-      internalID: -5832024436397828166
+      spriteID: 7ed4453c3dc260c42966ff0359b4bd36
+      internalID: 2817529036510165467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_10
+      name: walk forwards spritesheet_10
       rect:
         serializedVersion: 2
-        x: 224
+        x: 223
         y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 43d6c4dcc0ebd814980e4773cf2b5846
-      internalID: 8603528933110635095
+      spriteID: 55439f598f8ee814bafd1cb04c50561c
+      internalID: -6045415260701747644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_11
+      name: walk forwards spritesheet_11
       rect:
         serializedVersion: 2
         x: 446
         y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b5da167b9b24b44d8f80418e34f1731
-      internalID: 4712267487631897005
+      spriteID: c5e8e8462de62d444bace9bef38e280e
+      internalID: 637747811037469102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_12
+      name: walk forwards spritesheet_12
       rect:
         serializedVersion: 2
         x: 669
         y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e6dd87d4f416b9499000d9243c37ab6
-      internalID: -6346455344162380923
+      spriteID: 23de161686f7cb74aa5798178bd4e093
+      internalID: -5473238731849387541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_13
+      name: walk forwards spritesheet_13
       rect:
         serializedVersion: 2
         x: 892
-        y: 377
+        y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 23a7a060b4e252d4aa832536ef1295f2
-      internalID: 7696229438600690576
+      spriteID: bd94931956bc40f42bd415df20e4cdb8
+      internalID: -6678254678156911663
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_14
+      name: walk forwards spritesheet_14
       rect:
         serializedVersion: 2
         x: 1115
         y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9bb52a05a09b384eaca892b7082c4e0
-      internalID: -1441658148387600189
+      spriteID: 3ffd485b8d4ae1e4b96fd6200acf09ec
+      internalID: -827729736484860328
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_15
+      name: walk forwards spritesheet_15
       rect:
         serializedVersion: 2
-        x: 1339
-        y: 377
-        width: 223
-        height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c413506ea9f1e6843b64808f2f49168d
-      internalID: -5856800075487860635
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: character 0 walk forwardbox_16
-      rect:
-        serializedVersion: 2
-        x: 1561
-        y: 377
-        width: 223
-        height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92ba9fe26c9078c468f7a204f203c6a3
-      internalID: -1057921031924442040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: character 0 walk forwardbox_17
-      rect:
-        serializedVersion: 2
-        x: 1785
+        x: 1338
         y: 376
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b2fcc549d1e5a374fbc68acffd05bddb
-      internalID: 8404864351044710392
+      spriteID: 075f30fe46712e844a8eab4a4848c163
+      internalID: 418551590108582082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_18
+      name: walk forwards spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 376
+        width: 223
+        height: 324
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9719939931084449c4f941d4ab9f16
+      internalID: -6994831728467131456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk forwards spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 376
+        width: 223
+        height: 324
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2433ee445b4f346b030dbb0437d611
+      internalID: 730127013249120823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk forwards spritesheet_18
       rect:
         serializedVersion: 2
         x: 0
         y: 52
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34147b5de01df9e449941b2e2e860c67
-      internalID: 539809100359636487
+      spriteID: 63d2d022c546dbb44aaffce3c5bd6344
+      internalID: -4175675508518087737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: character 0 walk forwardbox_19
+      name: walk forwards spritesheet_19
       rect:
         serializedVersion: 2
         x: 223
-        y: 53
+        y: 52
         width: 223
         height: 324
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.1680548, y: 0.04164029}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f1d6a8b6e40aab4a8651777d995e929
-      internalID: -3121176509904921500
+      spriteID: 99cf2f57bc388d0408b027ab8c010126
+      internalID: -2905305499147579259
       vertices: []
       indices: 
       edges: []
