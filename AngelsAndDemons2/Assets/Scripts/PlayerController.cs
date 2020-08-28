@@ -102,14 +102,14 @@ public class PlayerController : MonoBehaviour
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
-                    attackDamage();
+                    attackDamage(false);                                                //added bool parameter
                 }
                 else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
                 {
                     //inAnimation = true;                                               //commented out to allow spamming   
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
-                    attackDamage();
+                    attackDamage(false);                                                //added bool parameter
                 }
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P1Special") && !inAnimation)
@@ -121,7 +121,7 @@ public class PlayerController : MonoBehaviour
                     if (myEnergy.startingEnergy == 6)
                     {
                         //movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
-                        attackDamage();
+                        attackDamage(true);                                                 //added bool parameter
                         myEnergy.resetEnergy();
                     }
                 }
@@ -156,14 +156,14 @@ public class PlayerController : MonoBehaviour
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
-                    attackDamage();
+                    attackDamage(false);                                                //added bool parameter
                 }
                 else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
                 {
                     //inAnimation = true;                                               //commented out to allow spamming
                     //StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
-                    attackDamage();
+                    attackDamage(false);                                                //added bool parameter
                 }
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P2Special") && !inAnimation)
@@ -177,7 +177,7 @@ public class PlayerController : MonoBehaviour
                         inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
                         StartCoroutine(waitAnimation(1));
                         movementAnimator.SetTrigger("isSuper");                         //commented out since trigger does not exist yet
-                        attackDamage();
+                        attackDamage(true);                                                 //added bool paramter
                         myEnergy.resetEnergy();
                     }
                 }
@@ -243,13 +243,14 @@ public class PlayerController : MonoBehaviour
 
 
 
-    public void attackDamage() {
+    public void attackDamage(bool specialAttack) {                              //added bool to differentiate between special attack and normal attack
         PlayerController other = enemy().GetComponent<PlayerController>();
 
         if (
                 inAttackRange()
                 && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1      //what is this?
                 && other.hittable
+                && !specialAttack
             )
         {
             other.hittable = false;
@@ -259,7 +260,7 @@ public class PlayerController : MonoBehaviour
         else if (
                 inAttackRange() 
                 && movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 
-                && other.hittable && inAttackRange()
+                && other.hittable // && inAttackRange()
             )
         {
             other.hittable = false;
