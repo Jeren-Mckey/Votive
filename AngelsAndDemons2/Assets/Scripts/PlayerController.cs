@@ -104,15 +104,15 @@ public class PlayerController : MonoBehaviour
                 }
                 else if (Input.GetButtonDown("P1Fire1") && !inAnimation)
                 {
-                    //inAnimation = true;                                               //commented out to allow spamming
-                    //StartCoroutine(waitAnimation(1));                                 //
+                    inAnimation = true;                                               //commented out to allow spamming
+                    StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
                     isSpecialAttack = false;                                            
                 }
                 else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
                 {
-                    //inAnimation = true;                                               //commented out to allow spamming   
-                    //StartCoroutine(waitAnimation(1));                                 //
+                    inAnimation = true;                                               //commented out to allow spamming   
+                    StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
                     isSpecialAttack = false;                                             
                 }
@@ -157,15 +157,15 @@ public class PlayerController : MonoBehaviour
                 }
                 else if (Input.GetButtonDown("P2Fire1") && !inAnimation)
                 {
-                    //inAnimation = true;                                               //commented out to allow spamming
-                    //StartCoroutine(waitAnimation(1));                                 //
+                    inAnimation = true;                                               //comment out to allow spamming
+                    StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
                     isSpecialAttack = false;                                               
                 }
                 else if (Input.GetButtonDown("P2Fire2") && !inAnimation)
                 {
-                    //inAnimation = true;                                               //commented out to allow spamming
-                    //StartCoroutine(waitAnimation(1));                                 //
+                    inAnimation = true;                                               //comment out to allow spamming
+                    StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
                     isSpecialAttack = false;                                              
                 }
