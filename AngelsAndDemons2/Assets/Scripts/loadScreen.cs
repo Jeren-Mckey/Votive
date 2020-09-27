@@ -16,13 +16,13 @@ public class loadScreen : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void loadNextScene()
     {
         loadObject.SetActive(true);
-        StartCoroutine(waitLoad(5));
+        StartCoroutine(waitLoad(2));
     }
 
     IEnumerator waitLoad(long time)
@@ -35,6 +35,11 @@ public class loadScreen : MonoBehaviour
     public void characterChosen(int charNum)
     {
         GameManager.player1Char = charNum;
+    }
+
+    public void backgroundChosen(int charNum)
+    {
+        GameManager.background = charNum;
     }
 
 }

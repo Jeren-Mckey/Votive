@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public static bool isPaused;
     public static int player1Char;
     public static bool winnerFound = false;
+    public static int background;
 
     public static void OnPlayerHit()
     {
