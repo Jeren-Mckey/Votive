@@ -1396,6 +1396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 565193570}
   - component: {fileID: 565193569}
+  - component: {fileID: 565193571}
   m_Layer: 0
   m_Name: Load Sound
   m_TagString: Untagged
@@ -1415,7 +1416,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9ea5041a934f7eb4f8b33d2640b67e1f, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -1515,6 +1516,22 @@ Transform:
   m_Father: {fileID: 100594424}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &565193571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 565193568}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b897f42ab18506f4489239e4e465c3a0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameMus: {fileID: 8300000, guid: 9ea5041a934f7eb4f8b33d2640b67e1f, type: 3}
+  gameMus2: {fileID: 8300000, guid: 6a6c31fad55df6b49bda34b6133c7c2c, type: 3}
+  gameMus3: {fileID: 8300000, guid: 15a2789fe44a80d488c4179ed9019402, type: 3}
+  gameMus4: {fileID: 8300000, guid: 692a10a2cf2250742835dc47f5c08bec, type: 3}
 --- !u!1 &579536420
 GameObject:
   m_ObjectHideFlags: 0
@@ -4839,6 +4856,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Load Sound
+      objectReference: {fileID: 0}
+    - target: {fileID: 969115717834035303, guid: 354bcace9f965c542b2edbff4a0b1c48,
+        type: 3}
+      propertyPath: m_PlayOnAwake
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 354bcace9f965c542b2edbff4a0b1c48, type: 3}
