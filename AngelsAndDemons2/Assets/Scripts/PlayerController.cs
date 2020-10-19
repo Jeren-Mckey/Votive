@@ -35,13 +35,34 @@ public class PlayerController : MonoBehaviour
     private bool inAnimation = false;
     private bool pauseMovement = false; //flag to stop player movement
     incEnergy myEnergy;
-    
-  
+
+
+    // test - claire
+    void facing(GameObject p1, GameObject p2) {
+        float p1X = p1.transform.position.x;
+        float p2X = p2.transform.position.x;
+
+        bool flip;
+        if ((p2X - p1X) < -0.01)
+        {
+            flip = true;
+        }
+        else {
+            flip = false;
+        }
+
+        p1.GetComponent<SpriteRenderer>().flipX = flip;
+        p2.GetComponent<SpriteRenderer>().flipX = flip;
+    } 
+    //***********
+
+
     // Start is called before the first frame update
     void Start()
     {
         player1 = GameObject.Find("Player1");
         player2 = GameObject.Find("Player2");
+
         if (gameObject.name == player1.name)
             isPlayerOne = true;
         else if (gameObject.name == player2.name)
@@ -74,6 +95,11 @@ public class PlayerController : MonoBehaviour
     // when player is moving, play animation. 
     private void Update()
     {
+        // test - claire
+
+        facing(player1, player2);
+        //**************
+
         float horizontalMove;
         if (!GameManager.isPaused)
         {
