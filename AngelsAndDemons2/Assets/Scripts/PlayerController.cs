@@ -34,6 +34,7 @@ public class PlayerController : MonoBehaviour
     private bool isSpecialAttack = false;
     private bool inAnimation = false;
     private bool pauseMovement = false; //flag to stop player movement
+    bool flip = false;
     incEnergy myEnergy;
 
 
@@ -42,17 +43,22 @@ public class PlayerController : MonoBehaviour
         float p1X = p1.transform.position.x;
         float p2X = p2.transform.position.x;
 
-        bool flip;
-        if ((p2X - p1X) < -0.01)
+        
+        if (((p2X - p1X) < -0.01) && !flip)
         {
+            p1.GetComponent<SpriteRenderer>().transform.Rotate(0.0f, 90.0f, 0.0f, Space.Self);
+            p2.GetComponent<SpriteRenderer>().transform.Rotate(0.0f, 90.0f, 0.0f, Space.Self);
             flip = true;
         }
-        else {
+        else if (((p2X - p1X) > -0.01) && flip) {
+            p1.GetComponent<SpriteRenderer>().transform.Rotate(0.0f, 90.0f, 0.0f, Space.Self);
+            p2.GetComponent<SpriteRenderer>().transform.Rotate(0.0f, 90.0f, 0.0f, Space.Self);
+       
             flip = false;
         }
-
-        p1.GetComponent<SpriteRenderer>().flipX = flip;
-        p2.GetComponent<SpriteRenderer>().flipX = flip;
+        
+        //p1.GetComponent<SpriteRenderer>().flipX = flip;
+        //p2.GetComponent<SpriteRenderer>().flipX = flip;
     } 
     //***********
 
@@ -71,6 +77,7 @@ public class PlayerController : MonoBehaviour
         //player movement animations
         movementAnimator = GetComponent<Animator>();
         myRigidBody = GetComponent<Rigidbody2D>();
+        //myRigidBody.position = Vector3.zero;
         if (isPlayerOne)
             movementAnimator.runtimeAnimatorController = characters[GameManager.player1Char];
         else
@@ -112,13 +119,15 @@ public class PlayerController : MonoBehaviour
                     movementAnimator.SetBool("isRunning", false);
                     movementAnimator.SetBool("isBacking", false);
                 }
-                else if (horizontalMove == -1)
+                else if ((horizontalMove == -1 && !flip) || (horizontalMove != -1 && flip))  // added "&& !flip..." and all after to take into account character being flipped
                 {
                     movementAnimator.SetBool("isBacking", true);
+                    movementAnimator.SetBool("isRunning", false);                       //Added so that when it flips it doesnt continue running forward
                 }
                 else
                 {
                     movementAnimator.SetBool("isRunning", true);
+                    movementAnimator.SetBool("isBacking", false);                       //same reasoning as above
                 }
 
                 if (Input.GetButtonDown("P1Jump") && !inAnimation)                      //added inAnimation clause for argument so that is wont jump
@@ -165,13 +174,15 @@ public class PlayerController : MonoBehaviour
                     movementAnimator.SetBool("isRunning", false);
                     movementAnimator.SetBool("isBacking", false);
                 }
-                else if (horizontalMove == -1)
+                else if ((horizontalMove == -1 && !flip) || (horizontalMove != -1 && flip))  // added "&& !flip..." and all after to take into account character being flipped
                 {
                     movementAnimator.SetBool("isRunning", true); //-a
+                    movementAnimator.SetBool("isBacking", false); //-a
                 }
                 else
                 {
                     movementAnimator.SetBool("isBacking", true); //-a
+                    movementAnimator.SetBool("isRunning", false); //-a
                 }
 
                 if (Input.GetButtonDown("P2Jump") && !inAnimation)                      //added inAnimation clause for argument so that is wont jump
@@ -281,24 +292,28 @@ public class PlayerController : MonoBehaviour
         //Player Movement
         if (isPlayerOne && !GameManager.isPaused)
         {
-            if (Input.GetKey(KeyCode.D) && !pauseMovement)
-            {
+            if (Input.GetKey(KeyCode.D) && !pauseMovement && !flip)
                 transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
-            }
-            if (Input.GetKey(KeyCode.A) && !pauseMovement)
-            {
+            else if (Input.GetKey(KeyCode.D) && !pauseMovement && flip)
                 transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
-            }
+
+            if (Input.GetKey(KeyCode.A) && !pauseMovement && !flip)
+                transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
+            else if (Input.GetKey(KeyCode.A) && !pauseMovement && flip) 
+                transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
         }
         else if(isPlayerTwo && !GameManager.isPaused) {
-            if (Input.GetKey(KeyCode.RightArrow) && !pauseMovement)
-            {
+            if (Input.GetKey(KeyCode.RightArrow) && !pauseMovement && !flip)
                 transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
-            }
-            if (Input.GetKey(KeyCode.LeftArrow) && !pauseMovement)
+            else if (Input.GetKey(KeyCode.RightArrow) && !pauseMovement && flip)
+                transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
+
+            if (Input.GetKey(KeyCode.LeftArrow) && !pauseMovement && !flip)
             {
                 transform.Translate(Vector3.right * playerMovement * Time.deltaTime);
             }
+            else if (Input.GetKey(KeyCode.LeftArrow) && !pauseMovement && flip)
+                transform.Translate(Vector3.left * playerMovement * Time.deltaTime);
         }
     }
 
