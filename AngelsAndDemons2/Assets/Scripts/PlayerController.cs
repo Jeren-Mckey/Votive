@@ -33,6 +33,7 @@ public class PlayerController : MonoBehaviour
     public RuntimeAnimatorController[] characters;
     private bool isSpecialAttack = false;
     private bool inAnimation = false;
+    private bool inCrouch = false;
     private bool pauseMovement = false; //flag to stop player movement
     bool flip = false;
     incEnergy myEnergy;
@@ -205,6 +206,18 @@ public class PlayerController : MonoBehaviour
                     StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isPunching");
                     isSpecialAttack = false;                                              
+                }
+                else if (Input.GetButtonDown("P2Crouch") && !inAnimation) {
+                    inCrouch = true;                                               //comment out to allow spamming
+                    StartCoroutine(crouchAnimation(0.4f));                            // allow crouch to be inturrupted by crouch attack
+                    movementAnimator.SetTrigger("isCrouching");
+                    isSpecialAttack = false;
+                }
+                else if (Input.GetButtonDown("P2CrouchAttack") && inCrouch) {
+                    inAnimation = true;                                               //comment out to allow spamming
+                    StartCoroutine(waitAnimation(1));                                 //
+                    movementAnimator.SetTrigger("isCrouchAttacking");
+                    isSpecialAttack = false;
                 }
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P2Special") && !inAnimation)
@@ -429,7 +442,10 @@ public class PlayerController : MonoBehaviour
 
     }
 
-
+    IEnumerator crouchAnimation(float time) {
+        yield return new WaitForSeconds(time);
+        inCrouch = false;
+    }
 
     IEnumerator waitAnimation(long time)
     {
