@@ -365,8 +365,8 @@ TextureImporter:
       name: sol idle small_10
       rect:
         serializedVersion: 2
-        x: 1409
-        y: 658
+        x: 1410
+        y: 659
         width: 119
         height: 300
       alignment: 6
