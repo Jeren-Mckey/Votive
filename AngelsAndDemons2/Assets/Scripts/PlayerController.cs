@@ -12,7 +12,7 @@ public class PlayerController : MonoBehaviour
 
     //player movement animations
     public Animator movementAnimator;
-    Rigidbody2D myRigidBody;
+    [SerializeField] Rigidbody2D myRigidBody;
     private Time animControl;
 
     public float playerMovement; //takes speed of movement
@@ -144,6 +144,7 @@ public class PlayerController : MonoBehaviour
                     inAnimation = true;                                               //commented out to allow spamming
                     StartCoroutine(waitAnimation(1));                                 //
                     movementAnimator.SetTrigger("isKicking");
+                    jump(15f);
                     isSpecialAttack = false;                                            
                 }
                 else if (Input.GetButtonDown("P1Fire2") && !inAnimation)
@@ -155,7 +156,9 @@ public class PlayerController : MonoBehaviour
                 }
                 else if (Input.GetButtonDown("P1JumpAttack") && p1InJump) {
                     inAnimation = true;                                               //comment out to allow spamming
-                    StartCoroutine(waitAnimation(1));                                 //
+                    myRigidBody.gravityScale = 1.5f;
+                    jump(15f);
+                    StartCoroutine(waitAnimationAir(0.8f));
                     movementAnimator.SetTrigger("isJumpAttacking");
                     isSpecialAttack = false;
                 }
@@ -373,6 +376,11 @@ public class PlayerController : MonoBehaviour
         myRigidBody.velocity += jumpVelocityToAdd;
     }
 
+    private void jump(float customjump) {
+        Vector2 jumpVelocityToAdd = new Vector2(0f, customjump);
+        myRigidBody.velocity += jumpVelocityToAdd;
+    }
+
 
 
     bool isGrounded()
@@ -458,6 +466,15 @@ public class PlayerController : MonoBehaviour
     {
         yield return new WaitForSeconds(time);
         inAnimation = false;
+        if (p1InJump) {
+            p1InJump = false;
+        }
+    }
+
+    IEnumerator waitAnimationAir(float time) {
+        yield return new WaitForSeconds(time);
+        inAnimation = false;
+        myRigidBody.gravityScale = 4;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

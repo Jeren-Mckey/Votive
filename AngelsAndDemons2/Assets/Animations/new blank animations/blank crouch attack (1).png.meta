@@ -1,58 +1,43 @@
 fileFormatVersion: 2
-guid: cb0d625e112a5ce48b37c9c4c3b3e021
+guid: d7c31685e9cd83a4da52da678ba94a12
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5874192734216437532
-    second: SOL punch small_0
+      213: -456152281079120767
+    second: blank crouch attack (1)_0
   - first:
-      213: -7330830650189975966
-    second: SOL punch small_1
+      213: 3776283164476417434
+    second: blank crouch attack (1)_1
   - first:
-      213: 509436104455088992
-    second: SOL punch small_2
+      213: 5190162336620134224
+    second: blank crouch attack (1)_2
   - first:
-      213: -3999519697342568259
-    second: SOL punch small_3
+      213: -8259994002413704284
+    second: blank crouch attack (1)_3
   - first:
-      213: 5671763493804640018
-    second: SOL punch small_4
+      213: 2750747619608788779
+    second: blank crouch attack (1)_4
   - first:
-      213: -4541308704531071885
-    second: SOL punch small_5
+      213: 2657654037593397761
+    second: blank crouch attack (1)_5
   - first:
-      213: 6369615254999087831
-    second: SOL punch small_6
+      213: -716339789944796930
+    second: blank crouch attack (1)_6
   - first:
-      213: -4600976058073181153
-    second: SOL punch small_7
+      213: 7024965457505038893
+    second: blank crouch attack (1)_7
   - first:
-      213: -21953727199376385
-    second: SOL punch small_8
+      213: -4511066197339083071
+    second: blank crouch attack (1)_8
   - first:
-      213: -8799100323139315545
-    second: SOL punch small_9
+      213: -8818000741403060116
+    second: blank crouch attack (1)_9
   - first:
-      213: -8234373026663661843
-    second: SOL punch small_10
+      213: 5140878558754516514
+    second: blank crouch attack (1)_10
   - first:
-      213: 3116027406295460669
-    second: SOL punch small_11
-  - first:
-      213: -1439641492379294241
-    second: SOL punch small_12
-  - first:
-      213: 285702604799629159
-    second: SOL punch small_13
-  - first:
-      213: 3430247992194451480
-    second: SOL punch small_14
-  - first:
-      213: -4634389174933319764
-    second: SOL punch small_15
-  - first:
-      213: -7802685854521056166
-    second: SOL punch small_16
+      213: -8326038182145968647
+    second: blank crouch attack (1)_11
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -82,7 +67,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: -1
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -133,17 +118,53 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SOL punch small_0
+      name: blank crouch attack (1)_0
       rect:
         serializedVersion: 2
-        x: 325
-        y: 669
-        width: 120
-        height: 300
+        x: 0
+        y: 848
+        width: 275
+        height: 130
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -151,20 +172,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df835282ba9c5c841bf647b3757c4c44
-      internalID: -5874192734216437532
+      spriteID: f443b0fadd85540449c6adab1806712c
+      internalID: -456152281079120767
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_1
+      name: blank crouch attack (1)_1
       rect:
         serializedVersion: 2
-        x: 607
-        y: 671
-        width: 108
-        height: 300
+        x: 513
+        y: 848
+        width: 276
+        height: 130
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +193,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b99b855b2c3ecc34ca908ffbc5ec5357
-      internalID: -7330830650189975966
+      spriteID: 21e0d9c7918ed374bb4e3ea3d5efc9e2
+      internalID: 3776283164476417434
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_2
+      name: blank crouch attack (1)_2
       rect:
         serializedVersion: 2
-        x: 887
+        x: 1034
+        y: 848
+        width: 269
+        height: 130
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2c0b28d614f284986b018a31472f62
+      internalID: 5190162336620134224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blank crouch attack (1)_3
+      rect:
+        serializedVersion: 2
+        x: 6
         y: 672
-        width: 106
-        height: 301
+        width: 269
+        height: 130
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +235,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9d2bfec625e522543a3651d5c5c83aff
-      internalID: 509436104455088992
+      spriteID: 91de757e0dec2b94797f2f620494ccb7
+      internalID: -8259994002413704284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_3
+      name: blank crouch attack (1)_4
       rect:
         serializedVersion: 2
-        x: 1166
-        y: 672
-        width: 104
-        height: 302
+        x: 535
+        y: 674
+        width: 311
+        height: 145
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +256,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d64c0d563e56aa45a5bd0f2e0308c55
-      internalID: -3999519697342568259
+      spriteID: 56db225f17b0c544e9c218bdc5945d24
+      internalID: 2750747619608788779
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_4
+      name: blank crouch attack (1)_5
       rect:
         serializedVersion: 2
-        x: 1449
-        y: 672
-        width: 105
-        height: 302
+        x: 1033
+        y: 673
+        width: 479
+        height: 169
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +277,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ecf2a5fd54baed47acac592991530a3
-      internalID: 5671763493804640018
+      spriteID: 943ce65da135bf84d904e3053f9f7fc5
+      internalID: 2657654037593397761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_5
+      name: blank crouch attack (1)_6
       rect:
         serializedVersion: 2
-        x: 315
-        y: 361
-        width: 104
-        height: 303
+        x: 5
+        y: 497
+        width: 496
+        height: 173
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +298,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 660a41337622eb446bd8c035f8a87e59
-      internalID: -4541308704531071885
+      spriteID: 4be9eeb033c63034f912d5bae646e88e
+      internalID: -716339789944796930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_6
+      name: blank crouch attack (1)_7
       rect:
         serializedVersion: 2
-        x: 599
-        y: 361
-        width: 104
-        height: 303
+        x: 519
+        y: 497
+        width: 509
+        height: 176
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +319,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b88bd4a82ff3a084cb46895541db4367
-      internalID: 6369615254999087831
+      spriteID: 35831a7a0ab37734ea98b0996a71b9b6
+      internalID: 7024965457505038893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_7
+      name: blank crouch attack (1)_8
       rect:
         serializedVersion: 2
-        x: 882
-        y: 361
-        width: 104
-        height: 303
+        x: 1034
+        y: 506
+        width: 341
+        height: 140
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,20 +340,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e2a56e458d1790249b6f02866b5c3765
-      internalID: -4600976058073181153
+      spriteID: 962cc18fa6d33714f949fe695e3c19e5
+      internalID: -4511066197339083071
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_8
+      name: blank crouch attack (1)_9
       rect:
         serializedVersion: 2
-        x: 1193
-        y: 364
-        width: 157
-        height: 291
+        x: 5
+        y: 333
+        width: 266
+        height: 96
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,20 +361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a279e2ac35b0c1c45a3c0c6894bb6469
-      internalID: -21953727199376385
+      spriteID: 05d9db5be73b9184cae95d81ea5b006b
+      internalID: -8818000741403060116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_9
+      name: blank crouch attack (1)_10
       rect:
         serializedVersion: 2
-        x: 1478
-        y: 369
-        width: 255
-        height: 257
+        x: 527
+        y: 331
+        width: 232
+        height: 73
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,20 +382,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 20e6d86df2a9b9a48b9019c0e311ed1e
-      internalID: -8799100323139315545
+      spriteID: 06f0787c05aeb5942bcab783b500d612
+      internalID: 5140878558754516514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SOL punch small_10
+      name: blank crouch attack (1)_11
       rect:
         serializedVersion: 2
-        x: 1115
-        y: 308
-        width: 23
-        height: 41
+        x: 1039
+        y: 335
+        width: 257
+        height: 87
       alignment: 6
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,134 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89cb4f99c2e95904898ae5838146c5c6
-      internalID: -8234373026663661843
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOL punch small_11
-      rect:
-        serializedVersion: 2
-        x: 1145
-        y: 49
-        width: 150
-        height: 299
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5b375ed5e517c742af26e9672db58f8
-      internalID: 3116027406295460669
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOL punch small_12
-      rect:
-        serializedVersion: 2
-        x: 1400
-        y: 347
-        width: 9
-        height: 13
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4ba578cf620a8f347b092ffd2e4f848c
-      internalID: -1439641492379294241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOL punch small_13
-      rect:
-        serializedVersion: 2
-        x: 1459
-        y: 49
-        width: 120
-        height: 299
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a087780168103fa49a2c897bd84a8cfd
-      internalID: 285702604799629159
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOL punch small_14
-      rect:
-        serializedVersion: 2
-        x: 343
-        y: 61
-        width: 246
-        height: 259
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: abf3e25323537554a8f2bf97dfc9f918
-      internalID: 3430247992194451480
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOL punch small_15
-      rect:
-        serializedVersion: 2
-        x: 627
-        y: 60
-        width: 255
-        height: 263
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 37db1411503c2c8419ce4d432c9c7ae6
-      internalID: -4634389174933319764
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SOL punch small_16
-      rect:
-        serializedVersion: 2
-        x: 911
-        y: 50
-        width: 182
-        height: 285
-      alignment: 6
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f85978bcf97ddec42a04649829323dee
-      internalID: -7802685854521056166
+      spriteID: 0e61e13d9be1c4140b1a8f646a5df928
+      internalID: -8326038182145968647
       vertices: []
       indices: 
       edges: []

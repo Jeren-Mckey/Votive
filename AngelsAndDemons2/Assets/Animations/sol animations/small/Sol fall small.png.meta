@@ -197,15 +197,15 @@ TextureImporter:
         x: 696
         y: 1594
         width: 120
-        height: 300
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        height: 302
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47bd84a3b17599446bb3cf2fbc0102d8
+      spriteID: 1edb1c2cf33420c4abb6713c5fd26d49
       internalID: -9144219162387904020
       vertices: []
       indices: 
@@ -215,18 +215,18 @@ TextureImporter:
       name: Sol fall small_1
       rect:
         serializedVersion: 2
-        x: 1228
+        x: 1226
         y: 1596
-        width: 134
+        width: 136
         height: 302
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7937276e89aaa64783cddc3738d7157
+      spriteID: 8b7c70d65c4b73e48887dfe37e310436
       internalID: 6905580158976144278
       vertices: []
       indices: 
@@ -236,18 +236,18 @@ TextureImporter:
       name: Sol fall small_2
       rect:
         serializedVersion: 2
-        x: 1708
+        x: 1706
         y: 1666
-        width: 214
+        width: 216
         height: 270
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73413267173e9d74993c2398b2a82558
+      spriteID: dbd6beafb5d8f23479a4b6c35ab53de2
       internalID: 1006002943343909336
       vertices: []
       indices: 
@@ -257,18 +257,18 @@ TextureImporter:
       name: Sol fall small_3
       rect:
         serializedVersion: 2
-        x: 2196
+        x: 2194
         y: 1722
-        width: 276
-        height: 178
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        width: 278
+        height: 180
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fbb8d33d5836d87488e87ed660ea55d5
+      spriteID: 0cf5d8bbc0f20b249b3f25fc41c41658
       internalID: 7674524649315430000
       vertices: []
       indices: 
@@ -281,15 +281,15 @@ TextureImporter:
         x: 2782
         y: 1760
         width: 316
-        height: 132
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        height: 134
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 080c7de18ee8ee14aa532f00ffe8196a
+      spriteID: 83b0ba2e875867d4b8883eb8e637cbcc
       internalID: 288485382673679394
       vertices: []
       indices: 
@@ -300,17 +300,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 1300
-        width: 278
+        y: 1298
+        width: 280
         height: 190
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 027de7449ae3b0b48904c5c4bf96cf7e
+      spriteID: 1cab833cf50500f4bbf6ab7dedb356fb
       internalID: 7299635783620135354
       vertices: []
       indices: 
@@ -321,17 +321,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 860
-        y: 1240
-        width: 258
-        height: 126
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        y: 1238
+        width: 260
+        height: 128
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f04652927780e5b4c94975595c4068b9
+      spriteID: 40e75b9e5ce0ebe4a993c656982ecc34
       internalID: 7321622280424950422
       vertices: []
       indices: 
@@ -345,14 +345,14 @@ TextureImporter:
         y: 1228
         width: 260
         height: 134
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6b5bdfb27fc119b4ba8531096eea0942
+      spriteID: 4378fff1005c637439c4c7fc2d25c5ba
       internalID: -3847185698633578321
       vertices: []
       indices: 
@@ -362,18 +362,18 @@ TextureImporter:
       name: Sol fall small_8
       rect:
         serializedVersion: 2
-        x: 2066
-        y: 1231
-        width: 258
-        height: 136
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        x: 2064
+        y: 1224
+        width: 262
+        height: 140
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba65122fe3bbef142ac70c60c3c1f28c
+      spriteID: 1b8160e6c608008449d8cb32fa538592
       internalID: 6105053832794854273
       vertices: []
       indices: 
@@ -383,18 +383,18 @@ TextureImporter:
       name: Sol fall small_9
       rect:
         serializedVersion: 2
-        x: 2662
-        y: 1238
-        width: 282
-        height: 102
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        x: 2660
+        y: 1234
+        width: 284
+        height: 106
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eaf8637470cbd844d9002de6c36b5b40
+      spriteID: abde5abe64cc59b478a1c9b0549aaca3
       internalID: 3661368270104065696
       vertices: []
       indices: 
@@ -408,14 +408,14 @@ TextureImporter:
         y: 860
         width: 320
         height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 371134407b368bc44b918bc7785b02c8
+      spriteID: add56521be7bec54384334c19a2e54e7
       internalID: 8050734240973194523
       vertices: []
       indices: 
@@ -427,16 +427,16 @@ TextureImporter:
         serializedVersion: 2
         x: 820
         y: 858
-        width: 318
+        width: 320
         height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3919e26f9b579fb4e9c9e412ddfe64b1
+      spriteID: 702e96ab07c9d8142af7f29c91ee11d9
       internalID: 261358568653126029
       vertices: []
       indices: 
@@ -448,16 +448,16 @@ TextureImporter:
         serializedVersion: 2
         x: 1424
         y: 858
-        width: 318
+        width: 320
         height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34ceaa01a912b67468e5b2e44160e647
+      spriteID: 096380bb555dfa54e8c436b02e930b19
       internalID: 4591362268075637462
       vertices: []
       indices: 
@@ -468,17 +468,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2030
-        y: 860
+        y: 858
         width: 320
         height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb3b5f9314595a04e81abd2214466f14
+      spriteID: c10beeb89e5350b41b86fc41e4101db1
       internalID: -2177108605615144752
       vertices: []
       indices: 
@@ -489,17 +489,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2638
-        y: 860
+        y: 858
         width: 320
         height: 80
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8a9cc873f7b6464ba431102068dfbb8
+      spriteID: b5d5c73a4329d27459ff35b0b5408fab
       internalID: 7692069099855169639
       vertices: []
       indices: 
@@ -512,15 +512,15 @@ TextureImporter:
         x: 872
         y: 538
         width: 260
-        height: 160
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        height: 162
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: badf884c06c9f9243acbd7e365181be5
+      spriteID: 2f7b324e247130845bc17c6243591a81
       internalID: 102706883428670994
       vertices: []
       indices: 
@@ -532,16 +532,16 @@ TextureImporter:
         serializedVersion: 2
         x: 1462
         y: 588
-        width: 228
+        width: 230
         height: 160
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a95a9e947e6d9f84dbf111493b5de8b1
+      spriteID: eb9ecf3005913e149a4c23cc556d3ef2
       internalID: -4881996672125560552
       vertices: []
       indices: 
@@ -554,15 +554,15 @@ TextureImporter:
         x: 2108
         y: 566
         width: 210
-        height: 246
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        height: 248
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62a4152d5f787184993f61c7304f12f0
+      spriteID: 6162e038d55e6f44d99b9c17e7894abb
       internalID: -7498504809557589182
       vertices: []
       indices: 
@@ -576,14 +576,14 @@ TextureImporter:
         y: 534
         width: 174
         height: 316
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 142ed3aa31e1ea64cabc3ed58df4963a
+      spriteID: 2861a87cedf3ce94bb9a145788fa0282
       internalID: -209905169480464567
       vertices: []
       indices: 
@@ -594,17 +594,17 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 206
-        y: 502
-        width: 318
-        height: 78
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        y: 498
+        width: 320
+        height: 80
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6569b61e79290a3438b0b323dc8bc0ea
+      spriteID: 6495ada0db6711d43a8f515daa4772b0
       internalID: -8601829193704394305
       vertices: []
       indices: 
@@ -617,15 +617,15 @@ TextureImporter:
         x: 408
         y: 162
         width: 116
-        height: 338
-      alignment: 6
-      pivot: {x: 0, y: 0}
+        height: 340
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86e6a8d636576a647a8a255696c86032
+      spriteID: 8e06c0444242cbb44951b0a8821736ff
       internalID: 3283677836960019686
       vertices: []
       indices: 
@@ -635,18 +635,18 @@ TextureImporter:
       name: Sol fall small_21
       rect:
         serializedVersion: 2
-        x: 1036
+        x: 1034
         y: 164
-        width: 120
+        width: 122
         height: 302
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 181870b126d810d43951bd0347184b7a
+      spriteID: 119bca6b4cb8ef2429ee6971f408bb11
       internalID: -1798189263118896492
       vertices: []
       indices: 
@@ -656,18 +656,18 @@ TextureImporter:
       name: Sol fall small_22
       rect:
         serializedVersion: 2
-        x: 1644
+        x: 1642
         y: 160
-        width: 120
+        width: 122
         height: 302
-      alignment: 6
-      pivot: {x: 0, y: 0}
+      alignment: 8
+      pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daeb4d40cfd989d43975d21324c313a9
+      spriteID: 8cb341d73f6be374ab9c5e7b183aec5f
       internalID: 4846392086827592944
       vertices: []
       indices: 
