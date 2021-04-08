@@ -157,7 +157,7 @@ public class PlayerController : MonoBehaviour
                 else if (Input.GetButtonDown("P1JumpAttack") && p1InJump) {
                     inAnimation = true;                                               //comment out to allow spamming
                     myRigidBody.gravityScale = 1.5f;
-                    jump(15f);
+                    jump(10f);
                     StartCoroutine(waitAnimationAir(0.8f));
                     movementAnimator.SetTrigger("isJumpAttacking");
                     isSpecialAttack = false;
@@ -171,8 +171,12 @@ public class PlayerController : MonoBehaviour
 
                     if (myEnergy.startingEnergy == 6)
                     {
-                        //movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
-                        isSpecialAttack = true;                                                 
+                        isSpecialAttack = true;
+                        inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
+                        StartCoroutine(waitAnimation(1));
+                        movementAnimator.SetTrigger("isSpecial");                         //commented out since trigger does not exist yet
+                        
+                        //attackDamage(true);
                     }
                 }
             }
@@ -232,16 +236,18 @@ public class PlayerController : MonoBehaviour
                 //Added for the special attack input
                 else if (Input.GetButtonDown("P2Special") && !inAnimation)
                 {
-                    
+                    incEnergy myEnergy;
 
                     myEnergy = GameObject.Find("P2EnergyBar").GetComponent("incEnergy") as incEnergy;
 
                     if (myEnergy.startingEnergy == 6)
                     {
+                        isSpecialAttack = true;
                         inAnimation = true;                                                 //added to make jump animation wait 1 second intervals
                         StartCoroutine(waitAnimation(1));
                         movementAnimator.SetTrigger("isSuper");                         //commented out since trigger does not exist yet
-                        isSpecialAttack = true;                                           
+                        
+                        //attackDamage(true);
                     }
                 }
             }
@@ -285,27 +291,31 @@ public class PlayerController : MonoBehaviour
 
     }
     */
-
+    /*
     //draws red circle on attack point
     private void OnDrawGizmosSelected(){
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(attackPt.position, attackRange);
     }
+    */
     //**********************************************************************************
 
     public void attackDamage(bool specialAttack) {                              //added bool to differentiate between special attack and normal attack
         PlayerController other = enemy().GetComponent<PlayerController>();
 
-        if (movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1  && !specialAttack)
+       
+        if (movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 && specialAttack)
         {
-            onHit();
+            onHit(true);
+            other.isDamaged();
+            isSpecialAttack = false;
+        }
+        else if (movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1  && !specialAttack)
+        {
+            onHit(false);
             other.isHit();
         }
-        else if (movementAnimator.GetCurrentAnimatorStateInfo(0).length > .1 )
-        {
-            myEnergy.resetEnergy();
-            other.isDamaged();
-        }
+
 
 
     }
@@ -392,7 +402,7 @@ public class PlayerController : MonoBehaviour
 
 
 
-    public void onHit()
+    public void onHit(bool special)
     {
         incEnergy myEnergy;
 
@@ -401,7 +411,13 @@ public class PlayerController : MonoBehaviour
         else
             myEnergy = GameObject.Find("P2EnergyBar").GetComponent("incEnergy") as incEnergy;
 
-        myEnergy.increaseEnergy();
+        if (special) {
+            myEnergy.resetEnergy();
+        }
+        else {
+            myEnergy.increaseEnergy();
+        }
+        
     }
 
 
@@ -485,12 +501,14 @@ public class PlayerController : MonoBehaviour
         Debug.Log(collision.collider.gameObject.GetComponent<Collider2D>().tag);
         if (collision.otherCollider.gameObject.GetComponent<Collider2D>().CompareTag("Player") &&
             collision.collider.gameObject.GetComponent<Collider2D>().CompareTag("Player")) isIdleCollider = true;
+
         
-        if (collision.collider.CompareTag("Player") && isIdleCollider == false)
-        {
+        if (isSpecialAttack == true && collision.collider.CompareTag("Player") && isIdleCollider == false ) {
+            attackDamage(true);
+        }
+        else if (collision.collider.CompareTag("Player") && isIdleCollider == false) {
             attackDamage(false);
         }
-
     }
     
 

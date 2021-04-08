@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 85e35681adbe3934080b00bb3a454dd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1795548341037064507
+    second: solspecial inbtwfinal_0
+  - first:
+      213: 3905306284084635633
+    second: solspecial inbtwfinal_1
+  - first:
+      213: 3208233353170056856
+    second: solspecial inbtwfinal_2
+  - first:
+      213: -1874782565479852586
+    second: solspecial inbtwfinal_3
+  - first:
+      213: -5522767419655260626
+    second: solspecial inbtwfinal_4
+  - first:
+      213: 113994394341131036
+    second: solspecial inbtwfinal_5
+  - first:
+      213: 5275748570269542245
+    second: solspecial inbtwfinal_6
+  - first:
+      213: 7921659690559184115
+    second: solspecial inbtwfinal_7
+  - first:
+      213: -8258628980316626118
+    second: solspecial inbtwfinal_8
+  - first:
+      213: 7416303478667317897
+    second: solspecial inbtwfinal_9
+  - first:
+      213: 5491206525338080571
+    second: solspecial inbtwfinal_10
+  - first:
+      213: 5306978522209685021
+    second: solspecial inbtwfinal_11
+  - first:
+      213: -8389951432955167357
+    second: solspecial inbtwfinal_12
+  - first:
+      213: 700495269053863075
+    second: solspecial inbtwfinal_13
+  - first:
+      213: 2278749121964354135
+    second: solspecial inbtwfinal_14
+  - first:
+      213: 4246733857474130773
+    second: solspecial inbtwfinal_15
+  - first:
+      213: -960100558922748434
+    second: solspecial inbtwfinal_16
+  - first:
+      213: 877317363582266580
+    second: solspecial inbtwfinal_17
+  - first:
+      213: -3347545604425273949
+    second: solspecial inbtwfinal_18
+  - first:
+      213: 4986459436595003824
+    second: solspecial inbtwfinal_20
+  - first:
+      213: -9050485320414625
+    second: solspecial inbtwfinal_22
+  - first:
+      213: 4492791605011194430
+    second: solspecial inbtwfinal_24
+  - first:
+      213: -3880838665596302688
+    second: solspecial inbtwfinal_26
+  - first:
+      213: -311017271972285086
+    second: solspecial inbtwfinal_30
+  - first:
+      213: 2736618663711224701
+    second: solspecial inbtwfinal_31
+  - first:
+      213: -3387658015866344691
+    second: solspecial inbtwfinal_32
+  - first:
+      213: 9192406673188744756
+    second: solspecial inbtwfinal_34
+  - first:
+      213: 8998712300451235812
+    second: solspecial inbtwfinal_35
+  - first:
+      213: 8575550317178585030
+    second: solspecial inbtwfinal_36
+  - first:
+      213: -4406373757481609116
+    second: solspecial inbtwfinal_38
+  - first:
+      213: -386883876067788876
+    second: solspecial inbtwfinal_40
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1603
+        width: 144
+        height: 300
+      alignment: 9
+      pivot: {x: 0.2779795, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6597231ff1227384eb6d2f9b9f170b74
+      internalID: -1795548341037064507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_1
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1603
+        width: 216
+        height: 306
+      alignment: 9
+      pivot: {x: 0.45226485, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3095a1dfc73d8548958a77fcf2da598
+      internalID: 3905306284084635633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_2
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1605
+        width: 110
+        height: 310
+      alignment: 9
+      pivot: {x: 0.4085821, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e57423d0a5e3438766deeb8845d1b
+      internalID: 3208233353170056856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_3
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1605
+        width: 74
+        height: 304
+      alignment: 9
+      pivot: {x: 0.42177272, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e9058b7eb901149b97ba58bac4a678
+      internalID: -1874782565479852586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_4
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1605
+        width: 128
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5689535, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca9be2c7cad95645981cd60cb124784
+      internalID: -5522767419655260626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_5
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 1605
+        width: 138
+        height: 350
+      alignment: 9
+      pivot: {x: 0.4209126, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6a46d7f6354bf40b395a9779707859
+      internalID: 113994394341131036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_6
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 1605
+        width: 134
+        height: 360
+      alignment: 9
+      pivot: {x: 0.37463924, y: 0.021440294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6427758ce69444b908cb97185e0070
+      internalID: 5275748570269542245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_7
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 1601
+        width: 162
+        height: 362
+      alignment: 9
+      pivot: {x: 0.41613317, y: 0.028649768}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307d1248ca5aa8948a51ce04774941ad
+      internalID: 7921659690559184115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_9
+      rect:
+        serializedVersion: 2
+        x: 3459
+        y: 1607
+        width: 173
+        height: 348
+      alignment: 9
+      pivot: {x: 0.5526638, y: 0.015832309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20a192dca5bc604bb5063de8d3e1fb6
+      internalID: 7416303478667317897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1157
+        width: 224
+        height: 358
+      alignment: 9
+      pivot: {x: 0.46788472, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e6b9b59d986554698ec52ac262ab11
+      internalID: 700495269053863075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1159
+        width: 326
+        height: 356
+      alignment: 9
+      pivot: {x: 0.37590542, y: 0.017998513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140d032b71dc28f44af770c84ba40ae0
+      internalID: 2278749121964354135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_15
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1169
+        width: 326
+        height: 354
+      alignment: 9
+      pivot: {x: 0.207243, y: 0.017999165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041243bedf0eb55458b5878dbeea9ec4
+      internalID: 4246733857474130773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_16
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1155
+        width: 400
+        height: 450
+      alignment: 9
+      pivot: {x: 0.20101623, y: 0.017999403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafbb6d45e85d4c489fefadb17f26d2d
+      internalID: -960100558922748434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_17
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1159
+        width: 356
+        height: 388
+      alignment: 9
+      pivot: {x: 0.26403672, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08612880abba18448217c4d6643a30a
+      internalID: 877317363582266580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_18
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1153
+        width: 370
+        height: 440
+      alignment: 9
+      pivot: {x: 0.18524203, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f1c2374bad914d83425a62962429b
+      internalID: -3347545604425273949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_20
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 1157
+        width: 316
+        height: 370
+      alignment: 9
+      pivot: {x: 0.24168532, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f20ee6c735f0a14db8404e9d3a3487b
+      internalID: 4986459436595003824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_22
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1165
+        width: 378
+        height: 383
+      alignment: 9
+      pivot: {x: 0.1968626, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bf496315529f04085023c3fee8bdfd
+      internalID: -9050485320414625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_24
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 1155
+        width: 306
+        height: 391
+      alignment: 9
+      pivot: {x: 0.119552314, y: 0.023503061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc8892a12f65ea4490e116e192ab241
+      internalID: 4492791605011194430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 711
+        width: 271
+        height: 347
+      alignment: 9
+      pivot: {x: 0.0814417, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cffa4b6e9d3f140b8b15da82347fe5
+      internalID: 8998712300451235812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_36
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 706
+        width: 261
+        height: 344
+      alignment: 9
+      pivot: {x: 0.12246903, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e55f57aab82d5408336dee9e76c9d2
+      internalID: 8575550317178585030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solspecial inbtwfinal_38
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 709
+        width: 225
+        height: 349
+      alignment: 9
+      pivot: {x: 0.15234321, y: 0.01799927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a4176034c26ec4099dd01c724568e4
+      internalID: -4406373757481609116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
