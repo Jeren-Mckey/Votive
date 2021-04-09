@@ -156,8 +156,8 @@ public class PlayerController : MonoBehaviour
                 }
                 else if (Input.GetButtonDown("P1JumpAttack") && p1InJump) {
                     inAnimation = true;                                               //comment out to allow spamming
-                    myRigidBody.gravityScale = 1.5f;
-                    jump(10f);
+                    //myRigidBody.gravityScale = 1.5f;
+                    //jump(10f);
                     StartCoroutine(waitAnimationAir(0.8f));
                     movementAnimator.SetTrigger("isJumpAttacking");
                     isSpecialAttack = false;
