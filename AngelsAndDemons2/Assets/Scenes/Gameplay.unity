@@ -4741,6 +4741,11 @@ PrefabInstance:
       propertyPath: player2
       value: 
       objectReference: {fileID: 73437505}
+    - target: {fileID: 1319581269570033981, guid: fd15af759130f884b81ba57fe50ad87c,
+        type: 3}
+      propertyPath: isSol
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1319581269570033983, guid: fd15af759130f884b81ba57fe50ad87c,
         type: 3}
       propertyPath: m_Offset.y
@@ -4946,6 +4951,11 @@ PrefabInstance:
       propertyPath: player1
       value: 
       objectReference: {fileID: 521783441}
+    - target: {fileID: 632406538017197315, guid: dbcbecc30a81380409a6e82648e26736,
+        type: 3}
+      propertyPath: isBlank
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 632406538017197317, guid: dbcbecc30a81380409a6e82648e26736,
         type: 3}
       propertyPath: m_Offset.x

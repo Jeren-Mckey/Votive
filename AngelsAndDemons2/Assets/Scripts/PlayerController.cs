@@ -39,6 +39,9 @@ public class PlayerController : MonoBehaviour
     bool flip = false;
     incEnergy myEnergy;
 
+    [SerializeField] bool isSol = false;
+    [SerializeField] bool isBlank = false;
+
 
     // test - claire
     void facing(GameObject p1, GameObject p2) {
@@ -112,7 +115,7 @@ public class PlayerController : MonoBehaviour
         float horizontalMove;
         if (!GameManager.isPaused)
         {
-            if (isPlayerOne)
+            if (isSol)
             {
                 movementAnimator.SetFloat("pause", 1.0f);
                 horizontalMove = Input.GetAxisRaw("P1Horizontal");
@@ -180,7 +183,7 @@ public class PlayerController : MonoBehaviour
                     }
                 }
             }
-            else if (isPlayerTwo)
+            else if (isBlank)
             {
                 movementAnimator.SetFloat("pause", 1.0f);
                 horizontalMove = Input.GetAxisRaw("P2Horizontal");
