@@ -19,6 +19,7 @@ public class SceneLoader : MonoBehaviour
     public void LoadStartScene()
     {
         SceneManager.LoadScene(1);
+        GameManager.winnerFound = false;
     }
 
     public void LoadWithFade()

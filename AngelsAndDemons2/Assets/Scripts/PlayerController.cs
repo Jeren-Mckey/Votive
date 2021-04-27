@@ -501,7 +501,6 @@ public class PlayerController : MonoBehaviour
         Transform[] colliders = collision.transform.GetComponentsInChildren<Transform>();
 
         bool isIdleCollider = false;
-        Debug.Log(collision.collider.gameObject.GetComponent<Collider2D>().tag);
         if (collision.otherCollider.gameObject.GetComponent<Collider2D>().CompareTag("Player") &&
             collision.collider.gameObject.GetComponent<Collider2D>().CompareTag("Player")) isIdleCollider = true;
 
