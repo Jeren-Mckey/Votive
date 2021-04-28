@@ -176,7 +176,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: dcce5c39d3e10f24f926e69826d6be87, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a9401bd7a2e390f43a293c78370b4ab0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -642,6 +642,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: BackButton
+      objectReference: {fileID: 0}
+    - target: {fileID: 3940208100306789958, guid: 7a77dc125b728df45ac84f705e005630,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3940208100306789958, guid: 7a77dc125b728df45ac84f705e005630,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3940208100306789958, guid: 7a77dc125b728df45ac84f705e005630,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3940208100306789959, guid: 7a77dc125b728df45ac84f705e005630,
         type: 3}
@@ -1633,7 +1648,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1613f47708a24364b980a33d869242a3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 93555772af590174bb2705bd7b391c3b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
